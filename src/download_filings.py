@@ -101,6 +101,44 @@ def find_filing_for_period(
     )
 
 
+def list_filings(ticker: str, form: str, limit: int = 8) -> list[dict]:
+    """Look up the most recent `limit` filings of `form` type for `ticker`
+    via EDGAR's submissions API, without downloading anything.
+
+    Used by the Streamlit app's live "analyze a company" flow so a user can
+    pick a real fiscal period from a dropdown instead of guessing a date.
+    Returns most-recent-first: [{"period_end", "filed_date", "accession"}].
+    """
+    contact_email = os.getenv("EDGAR_CONTACT_EMAIL")
+    if not contact_email:
+        raise RuntimeError(
+            "Set EDGAR_CONTACT_EMAIL in your .env file — SEC EDGAR requires "
+            "a real contact email in the User-Agent header for every request."
+        )
+    company_name = os.getenv("EDGAR_COMPANY_NAME", "Independent Research")
+
+    cik = _get_cik(ticker, contact_email, company_name)
+    r = requests.get(
+        f"https://data.sec.gov/submissions/CIK{cik}.json",
+        headers=_headers(contact_email, company_name),
+        timeout=30,
+    )
+    r.raise_for_status()
+    recent = r.json()["filings"]["recent"]
+
+    results = []
+    for i, f in enumerate(recent["form"]):
+        if f == form:
+            results.append({
+                "period_end": recent["reportDate"][i],
+                "filed_date": recent["filingDate"][i],
+                "accession": recent["accessionNumber"][i],
+            })
+            if len(results) >= limit:
+                break
+    return results
+
+
 def download(
     ticker: str, form: str, limit: int = 1, period_end: str | None = None
 ) -> list[Path]:

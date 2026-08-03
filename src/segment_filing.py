@@ -32,24 +32,53 @@ if sys.platform == "win32":
 # Item boundaries differ between 10-K and 10-Q.
 #
 # All patterns are anchored with `^` (matched in MULTILINE mode — see
-# _slice_section) so they only match "Item N" when it starts a text line.
-# This is what actually distinguishes a real section header (or a ToC
-# entry, which is also a standalone line) from an inline cross-reference
-# like "...as described in Item 8 of this Form 10-K" buried mid-sentence,
-# which is NOT at the start of a line. Without this anchor, a late
-# cross-reference (e.g. one inside Item 9A pointing back at Item 8) can
-# become the "last match" and produce a tiny, wrong slice — verified
-# against Apple's FY2024 10-K, where an unanchored "item 8" match landed
-# inside Item 9A's boilerplate instead of the real Financial Statements
-# section.
-SECTION_PATTERNS = {
+# _find_validated_matches) so they only match "Item N" when it starts a
+# text line. That alone is enough to distinguish a real header from an
+# inline cross-reference like "...as described in Item 8 of this Form
+# 10-K" buried mid-sentence (verified against Apple's FY2024 10-K, where
+# an unanchored "item 8" match landed inside Item 9A's boilerplate instead
+# of the real Financial Statements section) — but it is NOT enough on its
+# own for every filer. Microsoft's 10-K repeats a bare "Item 7" / "Item 8"
+# as a running page-header at the top of literally every page within those
+# sections, so line-start anchoring alone still picks up dozens of matches
+# scattered through the body text, and "last match" lands on some
+# arbitrary page instead of the real header.
+#
+# The fix: each boundary also carries one or more required title phrases.
+# A line-start match only counts as a real section boundary if one of
+# these phrases appears within TITLE_WINDOW characters after it — real
+# headers and ToC entries both spell out the full title ("Item 8.
+# Financial Statements and Supplementary Data"), running-header repeats
+# never do (they're just "Item 8" followed by whatever body text happens
+# to be on that page). Title phrases deliberately avoid apostrophes
+# (curly vs straight quote encoding varies) and get whitespace-stripped
+# before comparison (see _normalize_ws) since HTML->text extraction
+# sometimes breaks a word mid-token across a line ("FINANCIAL STATE\nMENTS").
+TITLE_WINDOW = 250
+
+SECTION_BOUNDARIES = {
     "10-K": {
-        "mdna": (r"^item\s*7[^a]", r"^item\s*7a|^item\s*8"),
-        "financials": (r"^item\s*8", r"^item\s*9[^a]"),
+        "mdna": {
+            "start": [(r"^item\s*7[^a]", ["discussion and analysis of financial condition"])],
+            "end": [
+                (r"^item\s*7a", ["quantitative and qualitative disclosures about market risk"]),
+                (r"^item\s*8", ["financial statements and supplementary data"]),
+            ],
+        },
+        "financials": {
+            "start": [(r"^item\s*8", ["financial statements and supplementary data"])],
+            "end": [(r"^item\s*9[^a]", ["changes in and disagreements with accountants"])],
+        },
     },
     "10-Q": {
-        "mdna": (r"^item\s*2[^0-9]", r"^item\s*3"),
-        "financials": (r"^item\s*1[^0-9]", r"^item\s*2"),
+        "mdna": {
+            "start": [(r"^item\s*2[^0-9]", ["discussion and analysis of financial condition"])],
+            "end": [(r"^item\s*3", ["quantitative and qualitative disclosures about market risk"])],
+        },
+        "financials": {
+            "start": [(r"^item\s*1[^0-9]", ["financial statements"])],
+            "end": [(r"^item\s*2[^0-9]", ["discussion and analysis of financial condition"])],
+        },
     },
 }
 
@@ -74,15 +103,32 @@ def _html_to_text(html_path: Path) -> str:
     return soup.get_text(separator="\n")
 
 
-def _slice_section(full_text: str, start_pat: str, end_pat: str) -> str:
+def _normalize_ws(s: str) -> str:
+    return re.sub(r"\s+", "", s)
+
+
+def _find_validated_matches(text_lower: str, alternatives: list[tuple[str, list[str]]]) -> list[re.Match]:
+    matches = []
+    for pattern, title_hints in alternatives:
+        normalized_hints = [_normalize_ws(h) for h in title_hints]
+        for m in re.finditer(pattern, text_lower, re.MULTILINE):
+            window = _normalize_ws(text_lower[m.start(): m.start() + TITLE_WINDOW])
+            if any(hint in window for hint in normalized_hints):
+                matches.append(m)
+    matches.sort(key=lambda m: m.start())
+    return matches
+
+
+def _slice_section(full_text: str, boundary_cfg: dict) -> str:
     text_lower = full_text.lower()
-    start_matches = list(re.finditer(start_pat, text_lower, re.MULTILINE))
+    start_matches = _find_validated_matches(text_lower, boundary_cfg["start"])
     if not start_matches:
         return ""
-    # Take the LAST match of the start pattern before hitting the end
-    # pattern — 10-Ks often reference "Item 7" in the table of contents
-    # before the real section, so the first match is usually the ToC.
-    end_matches = list(re.finditer(end_pat, text_lower, re.MULTILINE))
+    # Take the LAST valid start match before hitting a valid end match —
+    # 10-Ks reference the section in the table of contents (also a valid,
+    # title-carrying match) before the real section, so the first valid
+    # match is usually the ToC, not the section itself.
+    end_matches = _find_validated_matches(text_lower, boundary_cfg["end"])
     if not end_matches:
         start_idx = start_matches[-1].start()
         return full_text[start_idx:]
@@ -96,10 +142,10 @@ def _slice_section(full_text: str, start_pat: str, end_pat: str) -> str:
 
 def segment(html_path: Path, ticker: str, form: str, period_end: str) -> FilingSections:
     full_text = _html_to_text(html_path)
-    patterns = SECTION_PATTERNS[form]
+    boundaries = SECTION_BOUNDARIES[form]
 
-    mdna = _slice_section(full_text, *patterns["mdna"])
-    financials = _slice_section(full_text, *patterns["financials"])
+    mdna = _slice_section(full_text, boundaries["mdna"])
+    financials = _slice_section(full_text, boundaries["financials"])
 
     return FilingSections(
         ticker=ticker,

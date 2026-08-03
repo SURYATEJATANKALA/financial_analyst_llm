@@ -123,10 +123,12 @@ def verify_snippet(source_snippet: str | None, full_text: str) -> bool:
 
 
 def extract(financials_text: str, api_key: str | None = None) -> list[ExtractedMetric]:
-    if len(financials_text) > 150_000:
-        # Financial Statements sections are almost never this long; if we
-        # hit this, segment_filing.py likely over-captured. Fail loudly
-        # rather than silently truncating and losing a table.
+    if len(financials_text) > 300_000:
+        # Sanity ceiling, not a tight guess — real Item 8 sections vary a
+        # lot by filer (Apple ~62K chars, Microsoft ~161K chars with its
+        # 18 numbered notes). If we hit this, segment_filing.py likely
+        # over-captured. Fail loudly rather than silently truncating and
+        # losing a table.
         raise ValueError(
             f"Financials text is {len(financials_text)} chars — suspiciously large. "
             "Check segment_filing.py boundaries before proceeding."
