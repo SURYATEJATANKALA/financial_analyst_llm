@@ -1,0 +1,74 @@
+[
+  {
+    "metric": "Diluted EPS",
+    "period_a_value": 6.13,
+    "period_b_value": 6.08,
+    "unit": "actual",
+    "pct_change": -0.82,
+    "flagged_deviation": false,
+    "note": null
+  },
+  {
+    "metric": "Gross Profit",
+    "period_a_value": 169148,
+    "period_b_value": 180683,
+    "unit": "millions",
+    "pct_change": 6.82,
+    "flagged_deviation": false,
+    "note": null
+  },
+  {
+    "metric": "Net Income",
+    "period_a_value": 96995,
+    "period_b_value": 93736,
+    "unit": "millions",
+    "pct_change": -3.36,
+    "flagged_deviation": false,
+    "note": null
+  },
+  {
+    "metric": "Operating Cash Flow",
+    "period_a_value": 110543,
+    "period_b_value": 118254,
+    "unit": "millions",
+    "pct_change": 6.98,
+    "flagged_deviation": false,
+    "note": null
+  },
+  {
+    "metric": "Operating Income",
+    "period_a_value": 114301,
+    "period_b_value": 123216,
+    "unit": "millions",
+    "pct_change": 7.8,
+    "flagged_deviation": false,
+    "note": null
+  },
+  {
+    "metric": "Total Assets",
+    "period_a_value": 352583,
+    "period_b_value": 364980,
+    "unit": "millions",
+    "pct_change": 3.52,
+    "flagged_deviation": false,
+    "note": null
+  },
+  {
+    "metric": "Total Liabilities",
+    "period_a_value": 290437,
+    "period_b_value": 308030,
+    "unit": "millions",
+    "pct_change": 6.06,
+    "flagged_deviation": false,
+    "note": null
+  },
+  {
+    "metric": "Total Revenue",
+    "period_a_value": 383285,
+    "period_b_value": 391035,
+    "unit": "millions",
+    "pct_change": 2.02,
+    "flagged_deviation": false,
+    "note": null
+  }
+]

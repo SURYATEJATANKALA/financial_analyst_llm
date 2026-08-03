@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(venv/Scripts/python.exe --version)",
+      "Bash(venv/Scripts/python.exe -m pip list)",
+      "Bash(venv/Scripts/python.exe -m pip install -r requirements.txt)",
+      "Bash(venv/Scripts/python.exe -m pip install \"pyrate-limiter>=3.6.0,<4.0.0\")",
+      "Bash(venv/Scripts/python.exe -c \"import openai, sec_edgar_downloader, pandas, streamlit; print\\('OK'\\)\")",
+      "Bash(venv/Scripts/python.exe -c ' *)"
+    ]
+  }
+}

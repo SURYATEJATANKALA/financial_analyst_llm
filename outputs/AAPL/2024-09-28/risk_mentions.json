@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Macroeconomic / Market Conditions",
+    "excerpt": "Macroeconomic conditions, including inflation, interest rates and currency fluctuations, have directly and indirectly impacted, and could in the future materially impact, the Company\u2019s results of operations and financial condition.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Foreign Exchange / Currency",
+    "excerpt": "The weakness in the renminbi relative to the U.S. dollar had an unfavorable year-over-year impact on Greater China net sales during 2024.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Foreign Exchange / Currency",
+    "excerpt": "The weakness in the yen relative to the U.S. dollar had an unfavorable year-over-year impact on Japan net sales during 2024.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Foreign Exchange / Currency",
+    "excerpt": "The weakness in foreign currencies relative to the U.S. dollar had a net unfavorable year-over-year impact on Rest of Asia Pacific net sales during 2024.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Foreign Exchange / Currency",
+    "excerpt": "Products gross margin and Products gross margin percentage increased during 2024 compared to 2023 due to cost savings, partially offset by a different Products mix and the weakness in foreign currencies relative to the U.S. dollar.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "The Company\u2019s effective tax rate for 2024 was higher compared to 2023 due primarily to a one-time income tax charge of $10.2 billion, net, related to the State Aid Decision.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "The Company had an obligation to pay \u20ac14.2 billion or $15.8 billion to Ireland in connection with the State Aid Decision.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Litigation",
+    "excerpt": "The Company is subject to various legal proceedings and claims that arise in the ordinary course of business, the outcomes of which are inherently uncertain.",
+    "severity_language": "hedged"
+  }
+]

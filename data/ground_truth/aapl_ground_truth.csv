@@ -1,0 +1,17 @@
+company,period,metric,true_value,true_unit
+AAPL,FY2024,Total Revenue,391035,millions
+AAPL,FY2024,Net Income,93736,millions
+AAPL,FY2024,Diluted EPS,6.08,actual
+AAPL,FY2024,Gross Profit,180683,millions
+AAPL,FY2024,Operating Income,123216,millions
+AAPL,FY2024,Total Assets,364980,millions
+AAPL,FY2024,Total Liabilities,308030,millions
+AAPL,FY2024,Operating Cash Flow,118254,millions
+AAPL,FY2023,Total Revenue,383285,millions
+AAPL,FY2023,Net Income,96995,millions
+AAPL,FY2023,Diluted EPS,6.13,actual
+AAPL,FY2023,Gross Profit,169148,millions
+AAPL,FY2023,Operating Income,114301,millions
+AAPL,FY2023,Total Assets,352583,millions
+AAPL,FY2023,Total Liabilities,290437,millions
+AAPL,FY2023,Operating Cash Flow,110543,millions

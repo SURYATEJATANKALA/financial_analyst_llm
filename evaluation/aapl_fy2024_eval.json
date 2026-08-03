@@ -1,0 +1,122 @@
+{
+  "results": [
+    {
+      "company": "AAPL",
+      "period": "FY2024",
+      "metric": "Total Revenue",
+      "extracted_value": 391035,
+      "extracted_unit": "millions",
+      "true_value": 391035.0,
+      "true_unit": "millions",
+      "normalized_extracted": 391035000000,
+      "normalized_true": 391035000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "AAPL",
+      "period": "FY2024",
+      "metric": "Net Income",
+      "extracted_value": 93736,
+      "extracted_unit": "millions",
+      "true_value": 93736.0,
+      "true_unit": "millions",
+      "normalized_extracted": 93736000000,
+      "normalized_true": 93736000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "AAPL",
+      "period": "FY2024",
+      "metric": "Diluted EPS",
+      "extracted_value": 6.08,
+      "extracted_unit": "actual",
+      "true_value": 6.08,
+      "true_unit": "actual",
+      "normalized_extracted": 6.08,
+      "normalized_true": 6.08,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "AAPL",
+      "period": "FY2024",
+      "metric": "Gross Profit",
+      "extracted_value": 180683,
+      "extracted_unit": "millions",
+      "true_value": 180683.0,
+      "true_unit": "millions",
+      "normalized_extracted": 180683000000,
+      "normalized_true": 180683000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "AAPL",
+      "period": "FY2024",
+      "metric": "Operating Income",
+      "extracted_value": 123216,
+      "extracted_unit": "millions",
+      "true_value": 123216.0,
+      "true_unit": "millions",
+      "normalized_extracted": 123216000000,
+      "normalized_true": 123216000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "AAPL",
+      "period": "FY2024",
+      "metric": "Total Assets",
+      "extracted_value": 364980,
+      "extracted_unit": "millions",
+      "true_value": 364980.0,
+      "true_unit": "millions",
+      "normalized_extracted": 364980000000,
+      "normalized_true": 364980000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "AAPL",
+      "period": "FY2024",
+      "metric": "Total Liabilities",
+      "extracted_value": 308030,
+      "extracted_unit": "millions",
+      "true_value": 308030.0,
+      "true_unit": "millions",
+      "normalized_extracted": 308030000000,
+      "normalized_true": 308030000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "AAPL",
+      "period": "FY2024",
+      "metric": "Operating Cash Flow",
+      "extracted_value": 118254,
+      "extracted_unit": "millions",
+      "true_value": 118254.0,
+      "true_unit": "millions",
+      "normalized_extracted": 118254000000,
+      "normalized_true": 118254000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    }
+  ],
+  "summary": {
+    "total_metrics_evaluated": 8,
+    "exact_matches": 8,
+    "accuracy_pct": 100.0,
+    "failures": []
+  }
+}
