@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Macroeconomic / Market Conditions",
+    "excerpt": "Macroeconomic conditions, including inflation, interest rates, component pricing and currency fluctuations, have directly and indirectly impacted, and could in the future materially impact, the Company\u2019s results of operations and financial condition.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Supply Chain",
+    "excerpt": "The Company is experiencing a period of supply constraints and increasing costs for components driven by factors such as industry supply-demand imbalances for components.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Supply Chain",
+    "excerpt": "Actions, such as price increases, that have been and may in the future be taken by the Company may not effectively mitigate these negative impacts.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "Tariffs and other measures that are applied to the Company\u2019s products or their components can have a material adverse impact on the Company\u2019s business.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Foreign Exchange / Currency",
+    "excerpt": "The strength in foreign currencies relative to the U.S. dollar had a net favorable year-over-year impact on Europe net sales during the first nine months of 2026.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Foreign Exchange / Currency",
+    "excerpt": "The weakness in the yen relative to the U.S. dollar had an unfavorable year-over-year impact on Japan net sales during the third quarter and first nine months of 2026.",
+    "severity_language": "hedged"
+  }
+]

@@ -1,0 +1,2475 @@
+Item 1.    Financial Statements
+Apple Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited)
+(In millions, except number of shares, which are reflected in thousands, and per-share amounts)
+Three Months Ended
+Nine Months Ended
+June 27,
+2026
+June 28,
+2025
+June 27,
+2026
+June 28,
+2025
+Net sales:
+   Products
+$
+78,678
+ 
+$
+66,613
+ 
+$
+272,629
+ 
+$
+233,287
+ 
+   Services
+30,739
+ 
+27,423
+ 
+91,728
+ 
+80,408
+ 
+Total net sales
+109,417
+ 
+94,036
+ 
+364,357
+ 
+313,695
+ 
+Cost of sales:
+   Products
+47,153
+ 
+43,620
+ 
+163,810
+ 
+147,097
+ 
+   Services
+7,494
+ 
+6,698
+ 
+21,765
+ 
+19,738
+ 
+Total cost of sales
+54,647
+ 
+50,318
+ 
+185,575
+ 
+166,835
+ 
+Gross margin
+54,770
+ 
+43,718
+ 
+178,782
+ 
+146,860
+ 
+Operating expenses:
+Research and development
+11,729
+ 
+8,866
+ 
+34,035
+ 
+25,684
+ 
+Selling, general and administrative
+7,346
+ 
+6,650
+ 
+22,315
+ 
+20,553
+ 
+Total operating expenses
+19,075
+ 
+15,516
+ 
+56,350
+ 
+46,237
+ 
+Operating income
+35,695
+ 
+28,202
+ 
+122,432
+ 
+100,623
+ 
+Other income/(expense), net
+572
+ 
+(
+171
+)
+670
+ 
+(
+698
+)
+Income before provision for income taxes
+36,267
+ 
+28,031
+ 
+123,102
+ 
+99,925
+ 
+Provision for income taxes
+6,478
+ 
+4,597
+ 
+21,638
+ 
+15,381
+ 
+Net income
+$
+29,789
+ 
+$
+23,434
+ 
+$
+101,464
+ 
+$
+84,544
+ 
+Earnings per share:
+Basic
+$
+2.03
+ 
+$
+1.57
+ 
+$
+6.91
+ 
+$
+5.64
+ 
+Diluted
+$
+2.02
+ 
+$
+1.57
+ 
+$
+6.88
+ 
+$
+5.62
+ 
+Shares used in computing earnings per share:
+Basic
+14,656,110
+ 
+14,902,886
+ 
+14,692,515
+ 
+14,992,898
+ 
+Diluted
+14,714,676
+ 
+14,948,179
+ 
+14,750,302
+ 
+15,051,726
+ 
+See accompanying Notes to Condensed Consolidated Financial Statements.
+Apple Inc. | Q3 2026 Form 10-Q | 1
+Apple Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (Unaudited)
+(In millions)
+Three Months Ended
+Nine Months Ended
+June 27,
+2026
+June 28,
+2025
+June 27,
+2026
+June 28,
+2025
+Net income
+$
+29,789
+ 
+$
+23,434
+ 
+$
+101,464
+ 
+$
+84,544
+ 
+Other comprehensive income/(loss):
+Change in foreign currency translation, net of tax
+(
+24
+)
+449
+ 
+(
+116
+)
+(
+86
+)
+Change in unrealized gains/losses on derivative instruments, net of tax:
+Change in fair value of derivative instruments
+356
+ 
+(
+523
+)
+729
+ 
+810
+ 
+Adjustment for net (gains)/losses realized and included in net income
+67
+ 
+(
+571
+)
+348
+ 
+(
+415
+)
+Total change in unrealized gains/losses on derivative instruments
+423
+ 
+(
+1,094
+)
+1,077
+ 
+395
+ 
+Change in unrealized gains/losses on marketable debt securities, net of tax:
+Change in fair value of marketable debt securities
+441
+ 
+640
+ 
+57
+ 
+90
+ 
+Adjustment for net (gains)/losses realized and included in net income
+27
+ 
+(
+1
+)
+45
+ 
+404
+ 
+Total change in unrealized gains/losses on marketable debt securities
+468
+ 
+639
+ 
+102
+ 
+494
+ 
+Total other comprehensive income/(loss)
+867
+ 
+(
+6
+)
+1,063
+ 
+803
+ 
+Total comprehensive income
+$
+30,656
+ 
+$
+23,428
+ 
+$
+102,527
+ 
+$
+85,347
+ 
+See accompanying Notes to Condensed Consolidated Financial Statements.
+Apple Inc. | Q3 2026 Form 10-Q | 2
+Apple Inc.
+CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited)
+(In millions, except number of shares, which are reflected in thousands, and par value)
+June 27,
+2026
+September 27,
+2025
+ASSETS:
+Current assets:
+Cash and cash equivalents
+$
+39,544
+ 
+$
+35,934
+ 
+Marketable securities
+22,855
+ 
+18,763
+ 
+Accounts receivable, net
+31,398
+ 
+39,777
+ 
+Vendor non-trade receivables
+27,509
+ 
+33,180
+ 
+Inventories
+11,092
+ 
+5,718
+ 
+Other current assets
+17,420
+ 
+14,585
+ 
+Total current assets
+149,818
+ 
+147,957
+ 
+Non-current assets:
+Marketable securities
+84,118
+ 
+77,723
+ 
+Property, plant and equipment, net
+51,431
+ 
+49,834
+ 
+Intangible assets, net
+20,342
+ 
+11,093
+ 
+Other non-current assets
+77,557
+ 
+72,634
+ 
+Total non-current assets
+233,448
+ 
+211,284
+ 
+Total assets
+$
+383,266
+ 
+$
+359,241
+ 
+LIABILITIES AND SHAREHOLDERS’ EQUITY:
+Current liabilities:
+Accounts payable
+$
+64,525
+ 
+$
+69,860
+ 
+Other current liabilities
+62,259
+ 
+66,387
+ 
+Deferred revenue
+9,538
+ 
+9,055
+ 
+Commercial paper
+1,997
+ 
+7,979
+ 
+Term debt
+11,007
+ 
+12,350
+ 
+Total current liabilities
+149,326
+ 
+165,631
+ 
+Non-current liabilities:
+Term debt
+71,340
+ 
+78,328
+ 
+Other non-current liabilities
+55,080
+ 
+41,549
+ 
+Total non-current liabilities
+126,420
+ 
+119,877
+ 
+Total liabilities
+275,746
+ 
+285,508
+ 
+Commitments and contingencies
+Shareholders’ equity:
+Common stock and additional paid-in capital, $
+0.00001
+ par value: 
+50,400,000
+ shares authorized; 
+14,608,963
+ and 
+14,773,260
+ shares issued and outstanding, respectively
+100,702
+ 
+93,568
+ 
+Retained earnings/(Accumulated deficit)
+11,326
+ 
+(
+14,264
+)
+Accumulated other comprehensive loss
+(
+4,508
+)
+(
+5,571
+)
+Total shareholders’ equity
+107,520
+ 
+73,733
+ 
+Total liabilities and shareholders’ equity
+$
+383,266
+ 
+$
+359,241
+ 
+See accompanying Notes to Condensed Consolidated Financial Statements.
+Apple Inc. | Q3 2026 Form 10-Q | 3
+Apple Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS’ EQUITY (Unaudited)
+(In millions, except per-share amounts)
+Three Months Ended
+Nine Months Ended
+June 27,
+2026
+June 28,
+2025
+June 27,
+2026
+June 28,
+2025
+Total shareholders’ equity, beginning balances
+$
+106,491
+ 
+$
+66,796
+ 
+$
+73,733
+ 
+$
+56,950
+ 
+Common stock and additional paid-in capital:
+Beginning balances
+99,507
+ 
+88,711
+ 
+93,568
+ 
+83,276
+ 
+Common stock issued
+—
+ 
+—
+ 
+878
+ 
+825
+ 
+Common stock withheld related to net share settlement of equity awards
+(
+2,396
+)
+(
+2,163
+)
+(
+4,704
+)
+(
+4,260
+)
+Share-based compensation
+3,591
+ 
+3,258
+ 
+10,960
+ 
+9,965
+ 
+Ending balances
+100,702
+ 
+89,806
+ 
+100,702
+ 
+89,806
+ 
+Retained earnings/(Accumulated deficit):
+Beginning balances
+12,359
+ 
+(
+15,552
+)
+(
+14,264
+)
+(
+19,154
+)
+Net income
+29,789
+ 
+23,434
+ 
+101,464
+ 
+84,544
+ 
+Dividends and dividend equivalents declared
+(
+3,998
+)
+(
+3,912
+)
+(
+11,733
+)
+(
+11,525
+)
+Common stock withheld related to net share settlement of equity awards
+(
+875
+)
+(
+411
+)
+(
+1,899
+)
+(
+1,598
+)
+Common stock repurchased
+(
+25,949
+)
+(
+21,166
+)
+(
+62,242
+)
+(
+69,874
+)
+Ending balances
+11,326
+ 
+(
+17,607
+)
+11,326
+ 
+(
+17,607
+)
+Accumulated other comprehensive loss:
+Beginning balances
+(
+5,375
+)
+(
+6,363
+)
+(
+5,571
+)
+(
+7,172
+)
+Other comprehensive income/(loss)
+867
+ 
+(
+6
+)
+1,063
+ 
+803
+ 
+Ending balances
+(
+4,508
+)
+(
+6,369
+)
+(
+4,508
+)
+(
+6,369
+)
+Total shareholders’ equity, ending balances
+$
+107,520
+ 
+$
+65,830
+ 
+$
+107,520
+ 
+$
+65,830
+ 
+Dividends and dividend equivalents declared per share or RSU
+$
+0.27
+ 
+$
+0.26
+ 
+$
+0.79
+ 
+$
+0.76
+ 
+See accompanying Notes to Condensed Consolidated Financial Statements.
+Apple Inc. | Q3 2026 Form 10-Q | 4
+Apple Inc.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (Unaudited)
+(In millions)
+Nine Months Ended
+June 27,
+2026
+June 28,
+2025
+Cash, cash equivalents, and restricted cash and cash equivalents, beginning balances
+$
+35,934
+ 
+$
+29,943
+ 
+Operating activities:
+Net income
+101,464
+ 
+84,544
+ 
+Adjustments to reconcile net income to cash generated by operating activities:
+Depreciation and amortization
+9,973
+ 
+8,571
+ 
+Share-based compensation expense
+10,523
+ 
+9,680
+ 
+Other
+(
+2,037
+)
+(
+1,748
+)
+Changes in operating assets and liabilities:
+Accounts receivable, net
+8,316
+ 
+5,685
+ 
+Vendor non-trade receivables
+5,671
+ 
+13,555
+ 
+Inventories
+(
+5,461
+)
+1,223
+ 
+Other current and non-current assets
+(
+16,266
+)
+(
+6,116
+)
+Accounts payable
+(
+5,203
+)
+(
+18,479
+)
+Other current and non-current liabilities
+10,016
+ 
+(
+15,161
+)
+Cash generated by operating activities
+116,996
+ 
+81,754
+ 
+Investing activities:
+Purchases of marketable securities
+(
+48,752
+)
+(
+17,591
+)
+Proceeds from maturities of marketable securities
+26,504
+ 
+35,036
+ 
+Proceeds from sales of marketable securities
+12,016
+ 
+10,785
+ 
+Payments for acquisition of property, plant and equipment
+(
+6,799
+)
+(
+9,473
+)
+Other
+(
+1,780
+)
+(
+975
+)
+Cash generated by/(used in) investing activities
+(
+18,811
+)
+17,782
+ 
+Financing activities:
+Payments for taxes related to net share settlement of equity awards
+(
+6,462
+)
+(
+5,719
+)
+Payments for dividends and dividend equivalents
+(
+11,778
+)
+(
+11,559
+)
+Repurchases of common stock
+(
+62,094
+)
+(
+70,579
+)
+Proceeds from issuance of term debt, net
+—
+ 
+4,481
+ 
+Repayments of term debt
+(
+8,146
+)
+(
+9,682
+)
+Repayments of commercial paper, net
+(
+5,911
+)
+(
+65
+)
+Other
+(
+184
+)
+(
+87
+)
+Cash used in financing activities
+(
+94,575
+)
+(
+93,210
+)
+Increase in cash, cash equivalents, and restricted cash and cash equivalents
+3,610
+ 
+6,326
+ 
+Cash, cash equivalents, and restricted cash and cash equivalents, ending balances
+$
+39,544
+ 
+$
+36,269
+ 
+Supplemental cash flow disclosure:
+Cash paid for income taxes, net
+$
+26,555
+ 
+$
+37,332
+ 
+See accompanying Notes to Condensed Consolidated Financial Statements.
+Apple Inc. | Q3 2026 Form 10-Q | 5
+Apple Inc.
+Notes to Condensed Consolidated Financial Statements (Unaudited)
+Note 1 – 
+Summary of Significant Accounting Policies
+Basis of Presentation and Preparation
+The condensed consolidated financial statements include the accounts of Apple Inc. and its wholly owned subsidiaries (collectively “Apple” or the “Company”). In the opinion of the Company’s management, the condensed consolidated financial statements reflect all adjustments, which are normal and recurring in nature, necessary for fair financial statement presentation. The preparation of these condensed consolidated financial statements and accompanying notes in conformity with U.S. generally accepted accounting principles (“GAAP”) requires the use of management estimates. Certain prior period amounts in the condensed consolidated financial statements and accompanying notes have been reclassified to conform to the current period’s presentation. These condensed consolidated financial statements and accompanying notes should be read in conjunction with the Company’s annual consolidated financial statements and accompanying notes included in its Annual Report on Form 10-K for the fiscal year ended September 27, 2025 (the “2025 Form 10-K”).
+The Company’s fiscal year is the 52- or 53-week period that ends on the last Saturday of September. An additional week is included in the first fiscal quarter every five or six years to realign the Company’s fiscal quarters with calendar quarters. The Company’s fiscal years 2026 and 2025 span 52 weeks each. Unless otherwise stated, references to particular years, quarters, months and periods refer to the Company’s fiscal years ended in September and the associated quarters, months and periods of those fiscal years.
+Note 2 – 
+Revenue
+The following table shows disaggregated net sales, as well as the portion of total net sales that was previously deferred, for the three- and nine-month periods ended June 27, 2026 and June 28, 2025 (in millions):
+Three Months Ended
+Nine Months Ended
+June 27,
+2026
+June 28,
+2025
+June 27,
+2026
+June 28,
+2025
+iPhone
+®
+$
+54,252
+ 
+$
+44,582
+ 
+$
+196,515
+ 
+$
+160,561
+ 
+Mac
+®
+10,352
+ 
+8,046
+ 
+27,137
+ 
+24,982
+ 
+iPad
+®
+6,191
+ 
+6,581
+ 
+21,700
+ 
+21,071
+ 
+Wearables, Home and Accessories
+7,883
+ 
+7,404
+ 
+27,277
+ 
+26,673
+ 
+Services
+30,739
+ 
+27,423
+ 
+91,728
+ 
+80,408
+ 
+Total net sales
+$
+109,417
+ 
+$
+94,036
+ 
+$
+364,357
+ 
+$
+313,695
+ 
+Portion of total net sales that was included in deferred revenue as of the beginning of the period
+$
+4,086
+ 
+$
+4,015
+ 
+$
+7,260
+ 
+$
+6,958
+ 
+The Company’s proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment in Note 10, “Segment Information” for the three- and nine-month periods ended June 27, 2026 and June 28, 2025, except in Greater China, where iPhone revenue represented a moderately higher proportion of net sales.
+As of June 27, 2026 and September 27, 2025, the Company had total deferred revenue of $
+14.9
+ billion and $
+13.7
+ billion, respectively. As of June 27, 2026, the Company expects 
+64
+% of total deferred revenue to be realized in less than a year, 
+23
+% within one-to-two years, 
+11
+% within two-to-three years and 
+2
+% in greater than three years.
+Apple Inc. | Q3 2026 Form 10-Q | 6
+Note 3 – 
+Earnings Per Share
+The following table shows the computation of basic and diluted earnings per share for the three- and nine-month periods ended June 27, 2026 and June 28, 2025 (net income in millions and shares in thousands):
+Three Months Ended
+Nine Months Ended
+June 27,
+2026
+June 28,
+2025
+June 27,
+2026
+June 28,
+2025
+Numerator:
+Net income
+$
+29,789
+ 
+$
+23,434
+ 
+$
+101,464
+ 
+$
+84,544
+ 
+Denominator:
+Weighted-average basic shares outstanding
+14,656,110
+ 
+14,902,886
+ 
+14,692,515
+ 
+14,992,898
+ 
+Effect of dilutive share-based awards
+58,566
+ 
+45,293
+ 
+57,787
+ 
+58,828
+ 
+Weighted-average diluted shares
+14,714,676
+ 
+14,948,179
+ 
+14,750,302
+ 
+15,051,726
+ 
+Basic earnings per share
+$
+2.03
+ 
+$
+1.57
+ 
+$
+6.91
+ 
+$
+5.64
+ 
+Diluted earnings per share
+$
+2.02
+ 
+$
+1.57
+ 
+$
+6.88
+ 
+$
+5.62
+ 
+Note 4 – 
+Financial Instruments
+Cash, Cash Equivalents and Marketable Securities
+The following tables show the Company’s cash, cash equivalents and marketable securities by significant investment category as of June 27, 2026 and September 27, 2025 (in millions):
+June 27, 2026
+Adjusted
+Cost
+Unrealized
+Gains
+Unrealized
+Losses
+Fair
+Value
+Cash and
+Cash
+Equivalents
+Current
+Marketable
+Securities
+Non-Current
+Marketable
+Securities
+Cash
+$
+26,777
+ 
+$
+— 
+$
+— 
+$
+26,777
+ 
+$
+26,777
+ 
+$
+— 
+$
+— 
+Level 1: 
+Money market funds
+7,840
+ 
+—
+ 
+—
+ 
+7,840
+ 
+7,840
+ 
+—
+ 
+—
+ 
+Mutual funds
+873
+ 
+222
+ 
+(
+1
+)
+1,094
+ 
+—
+ 
+1,094
+ 
+—
+ 
+Subtotal
+8,713
+ 
+222
+ 
+(
+1
+)
+8,934
+ 
+7,840
+ 
+1,094
+ 
+—
+ 
+Level 2 
+(1)
+:
+U.S. Treasury securities
+20,398
+ 
+11
+ 
+(
+253
+)
+20,156
+ 
+735
+ 
+4,034
+ 
+15,387
+ 
+U.S. agency securities
+6,176
+ 
+—
+ 
+(
+100
+)
+6,076
+ 
+988
+ 
+2,898
+ 
+2,190
+ 
+Non-U.S. government securities
+5,207
+ 
+71
+ 
+(
+349
+)
+4,929
+ 
+—
+ 
+299
+ 
+4,630
+ 
+Certificates of deposit and time deposits
+3,025
+ 
+—
+ 
+—
+ 
+3,025
+ 
+2,521
+ 
+504
+ 
+—
+ 
+Commercial paper
+3,828
+ 
+—
+ 
+—
+ 
+3,828
+ 
+683
+ 
+3,145
+ 
+—
+ 
+Corporate debt securities
+49,679
+ 
+121
+ 
+(
+709
+)
+49,091
+ 
+—
+ 
+10,808
+ 
+38,283
+ 
+Mortgage- and asset-backed securities
+24,828
+ 
+65
+ 
+(
+1,192
+)
+23,701
+ 
+—
+ 
+73
+ 
+23,628
+ 
+Subtotal
+113,141
+ 
+268
+ 
+(
+2,603
+)
+110,806
+ 
+4,927
+ 
+21,761
+ 
+84,118
+ 
+Total
+$
+148,631
+ 
+$
+490
+ 
+$
+(
+2,604
+)
+$
+146,517
+ 
+$
+39,544
+ 
+$
+22,855
+ 
+$
+84,118
+ 
+Apple Inc. | Q3 2026 Form 10-Q | 7
+September 27, 2025
+Adjusted
+Cost
+Unrealized
+Gains
+Unrealized
+Losses
+Fair
+Value
+Cash and
+Cash
+Equivalents
+Current
+Marketable
+Securities
+Non-Current
+Marketable
+Securities
+Cash
+$
+28,267
+ 
+$
+— 
+$
+— 
+$
+28,267
+ 
+$
+28,267
+ 
+$
+— 
+$
+— 
+Level 1:
+Money market funds
+5,272
+ 
+—
+ 
+—
+ 
+5,272
+ 
+5,272
+ 
+—
+ 
+—
+ 
+Mutual funds
+679
+ 
+177
+ 
+(
+2
+)
+854
+ 
+—
+ 
+854
+ 
+—
+ 
+Subtotal
+5,951
+ 
+177
+ 
+(
+2
+)
+6,126
+ 
+5,272
+ 
+854
+ 
+—
+ 
+Level 2 
+(1)
+:
+U.S. Treasury securities
+16,074
+ 
+56
+ 
+(
+282
+)
+15,848
+ 
+1,190
+ 
+3,712
+ 
+10,946
+ 
+U.S. agency securities
+5,269
+ 
+—
+ 
+(
+149
+)
+5,120
+ 
+251
+ 
+2,456
+ 
+2,413
+ 
+Non-U.S. government securities
+6,586
+ 
+111
+ 
+(
+424
+)
+6,273
+ 
+—
+ 
+855
+ 
+5,418
+ 
+Certificates of deposit and time deposits
+917
+ 
+—
+ 
+—
+ 
+917
+ 
+904
+ 
+—
+ 
+13
+ 
+Commercial paper
+100
+ 
+—
+ 
+—
+ 
+100
+ 
+50
+ 
+50
+ 
+—
+ 
+Corporate debt securities
+47,210
+ 
+266
+ 
+(
+916
+)
+46,560
+ 
+—
+ 
+10,623
+ 
+35,937
+ 
+Municipal securities
+207
+ 
+—
+ 
+(
+2
+)
+205
+ 
+—
+ 
+119
+ 
+86
+ 
+Mortgage- and asset-backed securities
+24,130
+ 
+126
+ 
+(
+1,252
+)
+23,004
+ 
+—
+ 
+94
+ 
+22,910
+ 
+Subtotal
+100,493
+ 
+559
+ 
+(
+3,025
+)
+98,027
+ 
+2,395
+ 
+17,909
+ 
+77,723
+ 
+Total
+$
+134,711
+ 
+$
+736
+ 
+$
+(
+3,027
+)
+$
+132,420
+ 
+$
+35,934
+ 
+$
+18,763
+ 
+$
+77,723
+ 
+(1)
+The valuation techniques used to measure the fair values of the Company’s Level 2 financial instruments, which generally have counterparties with high credit ratings, are based on quoted market prices or model-driven valuations using significant inputs derived from or corroborated by observable market data.
+As of June 27, 2026, 
+81
+% of the Company’s non-current marketable debt securities other than mortgage- and asset-backed securities had maturities between 1 and 5 years, 
+16
+% between 5 and 10 years, and 
+3
+% greater than 10 years. As of June 27, 2026, 
+14
+% of the Company’s non-current mortgage- and asset-backed securities had maturities between 1 and 5 years, 
+21
+% between 5 and 10 years, and 
+65
+% greater than 10 years.
+Derivative Instruments and Hedging
+The Company may use derivative instruments to partially offset its business exposure to foreign exchange and interest rate risk. However, the Company may choose not to hedge certain exposures for a variety of reasons, including accounting considerations or the prohibitive economic cost of hedging particular exposures. There can be no assurance the hedges will offset more than a portion of the financial impact resulting from movements in foreign exchange or interest rates.
+Foreign Exchange Rate Risk
+To protect gross margins from fluctuations in foreign exchange rates, the Company may use forwards, options or other instruments, and may designate these instruments as cash flow hedges. The Company generally hedges portions of its forecasted foreign currency exposure associated with revenue and inventory purchases, typically for up to 
+12
+ months.
+To protect the Company’s foreign currency–denominated term debt or marketable securities from fluctuations in foreign exchange rates, the Company may use forwards, cross-currency swaps or other instruments. The Company designates these instruments as either cash flow or fair value hedges. As of June 27, 2026, the maximum length of time over which the Company is hedging its exposure to the variability in future cash flows for term debt–related foreign currency transactions is 
+16
+ years.
+The Company may also use derivative instruments that are not designated as accounting hedges to protect gross margins from certain fluctuations in foreign exchange rates, as well as to offset a portion of the foreign currency gains and losses generated by the remeasurement of certain assets and liabilities denominated in non-functional currencies.
+Interest Rate Risk
+To protect the Company’s term debt or marketable securities from fluctuations in interest rates, the Company may use interest rate swaps, options or other instruments. The Company designates these instruments as either cash flow or fair value hedges.
+Apple Inc. | Q3 2026 Form 10-Q | 8
+The notional amounts of the Company’s outstanding derivative instruments as of June 27, 2026 and September 27, 2025, were as follows (in millions):
+June 27,
+2026
+September 27,
+2025
+Derivative instruments designated as accounting hedges:
+Foreign exchange contracts
+$
+61,313
+ 
+$
+62,647
+ 
+Interest rate contracts
+$
+10,625
+ 
+$
+12,875
+ 
+Derivative instruments not designated as accounting hedges:
+Foreign exchange contracts
+$
+64,053
+ 
+$
+109,079
+ 
+As of June 27, 2026 and September 27, 2025, the carrying amount of the Company’s 
+current and non-current term debt
+ subject to fair value hedges was $
+10.4
+ billion and $
+12.6
+ billion, respectively.
+Accounts Receivable
+Trade Receivables
+As of both June 27, 2026 and September 27, 2025, the Company had 
+one
+ customer that represented 10% or more of total trade receivables, which accounted for 
+18
+% and 
+12
+%, respectively. The Company’s third-party cellular network carriers accounted for 
+27
+% and 
+34
+% of total trade receivables as of June 27, 2026 and September 27, 2025, respectively. The Company requires third-party credit support or collateral from certain customers to limit credit risk.
+Vendor Non-Trade Receivables
+The Company has non-trade receivables from certain of its manufacturing vendors resulting from the sale of components to these vendors who manufacture subassemblies or assemble final products for the Company. The Company purchases these components directly from suppliers. The Company does not reflect the sale of these components in products net sales. Rather, the Company recognizes any gain on these sales as a reduction of products cost of sales when the related final products are sold by the Company. As of June 27, 2026, the Company had 
+two
+ vendors that individually represented 10% or more of total vendor non-trade receivables, which accounted f
+or
+ 
+47
+% 
+and 
+22
+%.
+ A
+s of September 27, 2025, the Company had 
+two
+ vendors that individually represented 10% or more of total vendor non-trade receivables, which accounted for 
+46
+% and 
+23
+%.
+Note 5 – 
+Condensed Consolidated Financial Statement Details
+The following tables show the Company’s condensed consolidated financial statement details as of June 27, 2026 and September 27, 2025 (in millions):
+Inventories
+June 27,
+2026
+September 27,
+2025
+Components
+$
+7,645
+ 
+$
+2,124
+ 
+Finished goods
+3,447
+ 
+3,594
+ 
+Total inventories
+$
+11,092
+ 
+$
+5,718
+ 
+Property, Plant and Equipment, Net
+June 27,
+2026
+September 27,
+2025
+Gross property, plant and equipment
+$
+128,175
+ 
+$
+125,848
+ 
+Accumulated depreciation
+(
+76,744
+)
+(
+76,014
+)
+Total property, plant and equipment, net
+$
+51,431
+ 
+$
+49,834
+ 
+Apple Inc. | Q3 2026 Form 10-Q | 9
+Intangible Assets, Net
+June 27,
+2026
+September 27,
+2025
+Gross intangible assets
+$
+38,220
+ 
+$
+24,950
+ 
+Accumulated amortization
+(
+12,803
+)
+(
+11,649
+)
+Total intangible assets, net
+25,417
+ 
+13,301
+ 
+Less: Current portion of intangible assets, net
+(
+5,075
+)
+(
+2,208
+)
+Non-current portion of intangible assets, net
+$
+20,342
+ 
+$
+11,093
+ 
+Note 6 – 
+Debt
+Commercial Paper
+The Company issues unsecured short-term promissory notes pursuant to a commercial paper program. The Company uses net proceeds from the commercial paper program for general corporate purposes, including dividends and share repurchases. As of June 27, 2026 and September 27, 2025, the Company had $
+2.0
+ billion and $
+8.0
+ billion of commercial paper outstanding, respectively. 
+The following table provides a summary of cash flows associated with commercial paper for the nine months ended June 27, 2026 and June 28, 2025 (in millions):
+Nine Months Ended
+June 27,
+2026
+June 28,
+2025
+Maturities 90 days or less:
+Repayments of commercial paper, net
+$
+(
+2,123
+)
+$
+(
+5,690
+)
+Maturities greater than 90 days:
+Proceeds from commercial paper
+—
+ 
+5,625
+ 
+Repayments of commercial paper
+(
+3,788
+)
+—
+ 
+Proceeds from/(Repayments of) commercial paper, net
+(
+3,788
+)
+5,625
+ 
+Total repayments of commercial paper, net
+$
+(
+5,911
+)
+$
+(
+65
+)
+Term Debt
+As of June 27, 2026 and September 27, 2025, the Company had outstanding fixed-rate notes with varying maturities for an aggregate carrying amount of $
+82.3
+ billion
+ 
+and $
+90.7
+ billion, respectively (collectively the “Notes”). As of June 27, 2026 and September 27, 2025, the fair value of the Company’s Notes, based on Level 2 inputs, was
+ 
+$
+71.2
+ billion and $
+80.4
+ billion, respectively.
+Note 7 – 
+Shareholders’ Equity
+Share Repurchase Program
+During the nine months ended June 27, 2026, the Company repurchased 
+215
+ million shares of its common stock for $
+61.8
+ billion. The Company’s share repurchase programs do not obligate the Company to acquire a minimum amount of shares. Under the programs, shares may be repurchased in privately negotiated or open market transactions, including under plans complying with Rule 10b5-1 under the Securities Exchange Act of 1934, as amended (“Exchange Act”).
+Apple Inc. | Q3 2026 Form 10-Q | 10
+Note 8 – 
+Share-Based Compensation
+Restricted Stock Units
+A summary of the Company’s restricted stock unit (“RSU”) activity and related information for the nine months ended June 27, 2026, is as follows:
+Number of
+RSUs
+(in thousands)
+Weighted-Average
+Grant-Date Fair
+Value Per RSU
+Balance as of September 27, 2025
+151,574
+ 
+$
+189.75
+ 
+RSUs granted
+72,400
+ 
+$
+258.16
+ 
+RSUs vested
+(
+70,594
+)
+$
+184.72
+ 
+RSUs forfeited
+(
+9,418
+)
+$
+213.67
+ 
+Balance as of June 27, 2026
+143,962
+ 
+$
+225.06
+ 
+The total vesting-date fair value of RSUs was $
+8.9
+ billion and $
+7.0
+ billion for the three months ended June 27, 2026 and June 28, 2025, respectively, and was $
+18.4
+ billion and $
+16.3
+ billion for the nine months ended June 27, 2026 and June 28, 2025, respectively.
+Share-Based Compensation
+The following table shows share-based compensation expense and the related income tax benefit included in the Condensed Consolidated Statements of Operations for the three- and nine-month periods ended June 27, 2026 and June 28, 2025 (in millions):
+Three Months Ended
+Nine Months Ended
+June 27,
+2026
+June 28,
+2025
+June 27,
+2026
+June 28,
+2025
+Share-based compensation expense
+$
+3,401
+ 
+$
+3,168
+ 
+$
+10,523
+ 
+$
+9,680
+ 
+Income tax benefit related to share-based compensation expense
+$
+(
+1,122
+)
+$
+(
+795
+)
+$
+(
+3,217
+)
+$
+(
+2,870
+)
+As of June 27, 2026, the total unrecognized compensation cost related to outstanding RSUs was $
+26.7
+ billion, which the Company expects to recognize over a weighted-average period of 
+2.7
+ years.
+Note 9 – 
+Commitments and Contingencies
+Unconditional Purchase Obligations
+The Company has entered into certain off–balance sheet commitments that require the future purchase of goods or services (“unconditional purchase obligations”). The Company’s unconditional purchase obligations primarily consist of supplier arrangements, licensed intellectual property and content, and distribution rights. 
+Future payments under unconditional purchase obligations with a remaining term in excess of one year as of June 27, 2026, are as follows (in millions):
+2026 (remaining three months)
+$
+2,053
+ 
+2027
+7,652
+ 
+2028
+6,406
+ 
+2029
+5,421
+ 
+2030
+5,481
+ 
+Thereafter
+615
+ 
+Total
+$
+27,628
+ 
+Contingencies
+The Company is subject to various legal proceedings and claims that have arisen in the ordinary course of business and that have not been fully resolved. The outcome of litigation is inherently uncertain. In the opinion of management, there was not at least a reasonable possibility the Company may have incurred a material loss, or a material loss greater than a recorded accrual, concerning loss contingencies for asserted legal and other claims.
+Apple Inc. | Q3 2026 Form 10-Q | 11
+Note 10 – 
+Segment Information
+The following tables show information by 
+reportable segment
+ for the three- and nine-month periods ended June 27, 2026 and June 28, 2025 (in millions):
+Three Months Ended June 27, 2026
+Americas
+Europe
+Greater
+China
+Japan
+Rest of
+Asia Pacific
+Corporate
+Total
+Net sales
+$
+45,781
+ 
+$
+29,395
+ 
+$
+18,816
+ 
+$
+6,554
+ 
+$
+8,871
+ 
+$
+— 
+$
+109,417
+ 
+Cost of sales
+(
+21,507
+)
+(
+14,732
+)
+(
+10,771
+)
+(
+3,310
+)
+(
+4,327
+)
+— 
+(
+54,647
+)
+Research and development
+— 
+— 
+— 
+— 
+— 
+(
+11,729
+)
+(
+11,729
+)
+Selling and marketing
+(
+2,573
+)
+(
+1,220
+)
+(
+639
+)
+(
+240
+)
+(
+362
+)
+— 
+(
+5,034
+)
+General and administrative
+— 
+— 
+— 
+— 
+— 
+(
+2,312
+)
+(
+2,312
+)
+Operating income/(loss)
+$
+21,701
+ 
+$
+13,443
+ 
+$
+7,406
+ 
+$
+3,004
+ 
+$
+4,182
+ 
+$
+(
+14,041
+)
+$
+35,695
+ 
+Three Months Ended June 28, 2025
+Americas
+Europe
+Greater
+China
+Japan
+Rest of
+Asia Pacific
+Corporate
+Total
+Net sales
+$
+41,198
+ 
+$
+24,014
+ 
+$
+15,369
+ 
+$
+5,782
+ 
+$
+7,673
+ 
+$
+— 
+$
+94,036
+ 
+Cost of sales
+(
+22,174
+)
+(
+12,379
+)
+(
+8,970
+)
+(
+2,695
+)
+(
+4,100
+)
+— 
+(
+50,318
+)
+Research and development
+— 
+— 
+— 
+— 
+— 
+(
+8,866
+)
+(
+8,866
+)
+Selling and marketing
+(
+2,513
+)
+(
+1,134
+)
+(
+577
+)
+(
+215
+)
+(
+330
+)
+— 
+(
+4,769
+)
+General and administrative
+— 
+— 
+— 
+— 
+— 
+(
+1,881
+)
+(
+1,881
+)
+Operating income/(loss)
+$
+16,511
+ 
+$
+10,501
+ 
+$
+5,822
+ 
+$
+2,872
+ 
+$
+3,243
+ 
+$
+(
+10,747
+)
+$
+28,202
+ 
+Nine Months Ended June 27, 2026
+Americas
+Europe
+Greater
+China
+Japan
+Rest of
+Asia Pacific
+Corporate
+Total
+Net sales
+$
+149,403
+ 
+$
+95,596
+ 
+$
+64,839
+ 
+$
+24,368
+ 
+$
+30,151
+ 
+$
+— 
+$
+364,357
+ 
+Cost of sales
+(
+76,470
+)
+(
+47,549
+)
+(
+34,434
+)
+(
+12,088
+)
+(
+15,034
+)
+— 
+(
+185,575
+)
+Research and development
+— 
+— 
+— 
+— 
+— 
+(
+34,035
+)
+(
+34,035
+)
+Selling and marketing
+(
+7,906
+)
+(
+3,762
+)
+(
+2,018
+)
+(
+824
+)
+(
+1,122
+)
+— 
+(
+15,632
+)
+General and administrative
+— 
+— 
+— 
+— 
+— 
+(
+6,683
+)
+(
+6,683
+)
+Operating income/(loss)
+$
+65,027
+ 
+$
+44,285
+ 
+$
+28,387
+ 
+$
+11,456
+ 
+$
+13,995
+ 
+$
+(
+40,718
+)
+$
+122,432
+ 
+Nine Months Ended June 28, 2025
+Americas
+Europe
+Greater
+China
+Japan
+Rest of
+Asia Pacific
+Corporate
+Total
+Net sales
+$
+134,161
+ 
+$
+82,329
+ 
+$
+49,884
+ 
+$
+22,067
+ 
+$
+25,254
+ 
+$
+— 
+$
+313,695
+ 
+Cost of sales
+(
+71,763
+)
+(
+43,447
+)
+(
+27,523
+)
+(
+10,698
+)
+(
+13,404
+)
+— 
+(
+166,835
+)
+Research and development
+— 
+— 
+— 
+— 
+— 
+(
+25,684
+)
+(
+25,684
+)
+Selling and marketing
+(
+7,604
+)
+(
+3,458
+)
+(
+1,753
+)
+(
+749
+)
+(
+1,037
+)
+— 
+(
+14,601
+)
+General and administrative
+— 
+— 
+— 
+— 
+— 
+(
+5,952
+)
+(
+5,952
+)
+Operating income/(loss)
+$
+54,794
+ 
+$
+35,424
+ 
+$
+20,608
+ 
+$
+10,620
+ 
+$
+10,813
+ 
+$
+(
+31,636
+)
+$
+100,623
+ 
+Apple Inc. | Q3 2026 Form 10-Q | 12
