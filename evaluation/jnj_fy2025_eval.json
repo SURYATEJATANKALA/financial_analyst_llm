@@ -1,0 +1,122 @@
+{
+  "results": [
+    {
+      "company": "JNJ",
+      "period": "FY2025",
+      "metric": "Total Revenue",
+      "extracted_value": 94193.0,
+      "extracted_unit": "millions",
+      "true_value": 94193.0,
+      "true_unit": "millions",
+      "normalized_extracted": 94193000000.0,
+      "normalized_true": 94193000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "JNJ",
+      "period": "FY2025",
+      "metric": "Net Income",
+      "extracted_value": 26804.0,
+      "extracted_unit": "millions",
+      "true_value": 26804.0,
+      "true_unit": "millions",
+      "normalized_extracted": 26804000000.0,
+      "normalized_true": 26804000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "JNJ",
+      "period": "FY2025",
+      "metric": "Diluted EPS",
+      "extracted_value": 11.03,
+      "extracted_unit": "actual",
+      "true_value": 11.03,
+      "true_unit": "actual",
+      "normalized_extracted": 11.03,
+      "normalized_true": 11.03,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "JNJ",
+      "period": "FY2025",
+      "metric": "Gross Profit",
+      "extracted_value": 63937.0,
+      "extracted_unit": "millions",
+      "true_value": 63937.0,
+      "true_unit": "millions",
+      "normalized_extracted": 63937000000.0,
+      "normalized_true": 63937000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "JNJ",
+      "period": "FY2025",
+      "metric": "Operating Income",
+      "extracted_value": null,
+      "extracted_unit": null,
+      "true_value": NaN,
+      "true_unit": NaN,
+      "normalized_extracted": null,
+      "normalized_true": null,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "JNJ",
+      "period": "FY2025",
+      "metric": "Total Assets",
+      "extracted_value": 199210.0,
+      "extracted_unit": "millions",
+      "true_value": 199210.0,
+      "true_unit": "millions",
+      "normalized_extracted": 199210000000.0,
+      "normalized_true": 199210000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "JNJ",
+      "period": "FY2025",
+      "metric": "Total Liabilities",
+      "extracted_value": 117666.0,
+      "extracted_unit": "millions",
+      "true_value": 117666.0,
+      "true_unit": "millions",
+      "normalized_extracted": 117666000000.0,
+      "normalized_true": 117666000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "JNJ",
+      "period": "FY2025",
+      "metric": "Operating Cash Flow",
+      "extracted_value": 24530.0,
+      "extracted_unit": "millions",
+      "true_value": 24530.0,
+      "true_unit": "millions",
+      "normalized_extracted": 24530000000.0,
+      "normalized_true": 24530000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    }
+  ],
+  "summary": {
+    "total_metrics_evaluated": 8,
+    "exact_matches": 8,
+    "accuracy_pct": 100.0,
+    "failures": []
+  }
+}

@@ -1,0 +1,77 @@
+[
+  {
+    "category": "Competition",
+    "excerpt": "In all of its product lines, the Company competes with other companies both locally and globally, throughout the world.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Competition",
+    "excerpt": "The competitive environment requires substantial investments in continuing research.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "Third parties have filed biologics license applications...seeking approval to market biosimilar versions of STELARA around the globe.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "At least two biosimilars are pursuing regulatory approval for a SIMPONI biosimilar in the United States.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "The Company expects generic competition for OPSUMIT in 2026, which would likely result in a significant reduction in future sales.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Litigation",
+    "excerpt": "The fiscal year 2025 includes the reversal of approximately $7.0 billion, a significant portion of the previously accrued talc reserve.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Litigation",
+    "excerpt": "The fiscal year 2025 includes an expense of $0.8 billion for the Auris shareholder litigation.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Macroeconomic / Market Conditions",
+    "excerpt": "Inflation rates continue to have an effect on worldwide economies and, consequently, on the way companies operate.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Macroeconomic / Market Conditions",
+    "excerpt": "The Company operates in certain countries where the economic conditions continue to present significant challenges.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "The Company faces various worldwide healthcare changes that may continue to result in pricing pressures.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "The Company may be further impacted by the imposition of tariffs, trade protection measures or other policies.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Foreign Exchange / Currency",
+    "excerpt": "The Company is exposed to fluctuations in currency exchange rates.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Foreign Exchange / Currency",
+    "excerpt": "A 1% change in the value of the U.S. Dollar...would have increased or decreased the translation of foreign sales by approximately $0.4 billion.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Labor / Talent",
+    "excerpt": "Our approximately 138,200 employees are critical drivers of the Company\u2019s success.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "Janssen filed litigation against the U.S. Department of Health and Human Services...challenging the constitutionality of the IRA's Medicare Drug Price Negotiation Program.",
+    "severity_language": "explicit"
+  }
+]

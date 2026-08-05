@@ -34,6 +34,14 @@ OUTPUT_ROOT.mkdir(parents=True, exist_ok=True)
 st.set_page_config(page_title="Financial Report Analyst (LLM)", layout="wide")
 st.title("📊 Financial Report Analyst — LLM-Powered")
 st.caption("SEC 10-K / 10-Q metric extraction, period comparison, and risk analysis")
+st.info(
+    "**Not investment, financial, legal, or tax advice.** This is a research and "
+    "educational tool for reviewing SEC filing disclosures with LLM assistance. "
+    "Every extracted figure and risk statement should be independently verified "
+    "against the source filing before being used in any investment or financial "
+    "decision.",
+    icon="⚠️",
+)
 
 # ---------------------------------------------------------------------------
 # Sidebar: analyze any company live. Two steps because we look up REAL
@@ -226,7 +234,8 @@ with tab3:
 
 st.sidebar.markdown("---")
 st.sidebar.caption(
-    "⚠ This tool assists analysis; every figure should be spot-checked against "
-    "the source filing before use in any real decision. See evaluation/ for "
-    "accuracy scoring against manually-built ground truth."
+    "⚠ Not investment, financial, legal, or tax advice. This tool assists "
+    "analysis only; every figure should be spot-checked against the source "
+    "filing before use in any real decision. See evaluation/ for accuracy "
+    "scoring against manually-built ground truth."
 )

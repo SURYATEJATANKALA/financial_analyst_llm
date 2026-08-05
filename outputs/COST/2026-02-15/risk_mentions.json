@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Macroeconomic / Market Conditions",
+    "excerpt": "Our financial performance depends heavily on controlling costs. While we believe that we have achieved successes in this area, some significant costs are partially outside our control, particularly health care and utility expenses.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Macroeconomic / Market Conditions",
+    "excerpt": "The health of the economies in which we do business, including the effects of inflation or deflation, especially the United States.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Competition",
+    "excerpt": "Net sales growth and gross margins are also impacted by competition, which is vigorous and widespread, across a wide range of global, national and regional wholesalers and retailers, including those with e-commerce operations.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "Government actions in various countries relating to tariffs affect the costs of some of our merchandise.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Foreign Exchange / Currency",
+    "excerpt": "Changes in foreign currencies relative to the U.S. dollar attributable to our Other International and Canadian operations positively impacted net sales.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Labor / Talent",
+    "excerpt": "Rising costs associated with employees (generally including health-care costs and wages), workforce interruptions.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Supply Chain",
+    "excerpt": "Conditions affecting the acquisition, development, ownership or use of real estate, capital spending, actions of vendors.",
+    "severity_language": "hedged"
+  }
+]

@@ -1,0 +1,656 @@
+Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+You should read the following discussion and analysis of our financial condition and results of operations together with our Consolidated Financial Statements and related notes and other financial information included elsewhere in this Annual Report. This discussion, particularly information with respect to our outlook, key trends and uncertainties, and our plans and strategy for our business, performance, and future success, includes forward-looking statements that involve risks and uncertainties. Our actual results could differ materially from those discussed below. Factors that could cause or contribute to these differences include those discussed below and elsewhere in this Annual Report, particularly in Part I, Item 1A, “Risk Factors.” We have omitted discussion of 2023 results and year-to-year comparisons of 2024 and 2023 where it would be redundant to the discussion previously included in Part II, Item 7 of our Annual Report on Form 10-K for the year ended December 31, 2024.
+Overview
+Business
+Etsy op
+erates two-sided online marketplaces that connect millions of creative entrepreneurs with buyers around the world.
+The Etsy marketplace is the global destination for unique, creative goods from independent sellers, connecting artisans with thoughtful consumers seeking items that reflect their tastes and values. We also operate Depop Limited (“Depop”), a leading fashion resale marketplace acquired in 2021.
+On February 15, 2026 Etsy and eBay Inc. (“eBay”) entered into a Sale and Purchase Agreement (the “Purchase Agreement”) for eBay to purchase Depop, for $1.2 billion in cash, subject to certain adjustments as set forth in the Purchase Agreement. The sale is currently expected to close in the second quarter of 2026, subject to regulatory approval and certain other closing conditions as set forth in the Purchase Agreement. Etsy will continue to own and operate Depop through such time as the transaction is completed, with Depop’s financial results classified as discontinued operations on Etsy’s consolidated financial statements for both current and prior periods beginning in the first quarter of fiscal year 2026. In keeping with our current capital allocation approach, Etsy plans to utilize the proceeds from this transaction for general corporate purposes, continued share repurchases, and investment in the Etsy marketplace.
+On June 2, 2025, we completed the sale of Reverb Holdings, Inc. (“Reverb”), our musical instrument marketplace, and on August 10, 2023, we completed the sale of the parent holding company of Elo7 Serviços de Informática S.A. (“Elo7”), a Brazil-based marketplace for handmade and unique items. The results of Reverb, until its sale on June 2, 2025, and Elo7, through its sale on August 10, 2023, are included in all financial results and other metrics discussed in this report, unless otherwise noted.
+We generate revenue primarily from marketplace activities, including transaction fees (inclusive of offsite advertising), payments processing fees, and listing fees, as well as from optional seller services, which primarily include on-site advertising and shipping labels.
+Key Operating and Financial Metrics
+We collect and analyze operating and financial data to evaluate the health and performance of our business and allocate our resources (such as capital, people, and technology investments). We provide Etsy marketplace standalone information in certain instances where particularly relevant. See “Non-GAAP Financial Measures” for more information regarding our use of Adjusted EBITDA, Adjusted EBITDA margin, and free cash flow, and reconciliation of these non-GAAP financial measures to the most directly comparable GAAP financial measure.
+52
+Table of Contents
+Our financial measures and key operating metrics are (in thousands, except percentages):
+ 
+Year Ended December 31,
+% (Decline) / Growth
+Y/Y
+ 
+2025
+2024
+GMS (1)(2)
+$
+11,916,900 
+$
+12,586,952 
+(5.3)
+%
+Revenue
+$
+2,883,501 
+$
+2,808,332 
+2.7 
+%
+Revenue take rate (3)
+24.2 
+%
+22.3 
+%
+190 
+ bps
+Marketplace revenue
+$
+2,007,164 
+$
+2,020,744 
+(0.7)
+%
+Services revenue
+$
+876,337 
+$
+787,588 
+11.3 
+%
+Gross profit
+$
+2,065,701 
+$
+2,033,778 
+1.6 
+%
+Operating expenses
+$
+1,799,491 
+$
+1,653,570 
+8.8 
+%
+Net income
+$
+162,982 
+$
+303,281 
+(46.3)
+%
+Net income margin
+5.7 
+%
+10.8 
+%
+(510)
+ bps
+Adjusted EBITDA (Non-GAAP)
+$
+734,511 
+$
+781,538 
+(6.0)
+%
+Adjusted EBITDA margin (Non-GAAP)
+25.5 
+%
+27.8 
+%
+(230)
+ bps
+Net cash provided by operating activities
+$
+693,414 
+$
+752,469 
+(7.8)
+%
+Free cash flow (Non-GAAP) (1)
+$
+638,750 
+$
+708,971 
+(9.9)
+%
+Active sellers (1)(4)
+8,762 
+8,134 
+7.7 
+%
+Active buyers (1)(5)
+93,539 
+95,459 
+(2.0)
+%
+(1)
+Unaudited.
+(2)
+Gross merchandise sales (“GMS”) for 2025 includes Etsy marketplace GMS of $10,460.7 million, Depop GMS of $1,074.9 million, and Reverb GMS of $381.3 million. GMS is the dollar value of items sold in our marketplaces, excluding shipping fees and net of refunds, within the applicable period. GMS does not represent revenue earned by us.
+(3)
+Revenue take rate is revenue divided by GMS.
+(4)
+Active sellers includes Etsy marketplace active sellers of 5.6 million as of December 31, 2025. Reverb active sellers are reflected in 2024 and excluded from 2025 following the completion of its sale. An active seller is a seller who has had a charge or sale in the last 12 months. A seller is separately identified in each of our marketplaces by a unique e-mail address; a single person can have multiple seller accounts and can count as a distinct active seller in each of our marketplaces. As part of our commitment to integrity and transparency, we continuously monitor, and from time to time adjust, the criteria for disqualifying a seller as an active seller.
+(5)
+Active buyers includes Etsy marketplace active buyers of 86.5 million as of December 31, 2025. Reverb active buyers are reflected in 2024 and excluded from 2025 following the completion of its sale. An active buyer is a buyer who has made at least one purchase in the last 12 months. A buyer is separately identified in each of our marketplaces by a unique e-mail address; a single person can have multiple buyer accounts and can count as a distinct active buyer in each of our marketplaces.
+We disclose key operating metrics because they provide meaningful insight into the performance and health of our business. GMS, active sellers, and active buyers each reflect core drivers of our business—seller success, buyer engagement, and the overall scale of our platforms. We believe these measures help investors and management evaluate our growth potential and the underlying strength of our marketplace.
+GMS
+GMS decreased $670.1 million to $11,916.9 million in 2025 compared to $12,587.0 million in 2024. The approximately 5% decline in GMS compared to 2024 was primarily driven by the sale of Reverb on June 2, 2025 and a decrease in Etsy marketplace GMS, partially offset by an increase in GMS for the Depop marketp
+lace. Etsy marketplace GMS declined year-over-year, reflecting a dynamic macroeconomic environment, including ongoing pressure on consumer discretionary spending and evolving buyer behavior. While these headwinds persisted, improvements across our customer experience and marketing initiatives supported better momentum in the second half of the year, with quarterly year-over-year comparisons improving sequentially and the fourth quarter returning to slight growth year-over-year. The Etsy marketplace GMS per active buyer on a trailing twelve month b
+asis declined 0.5% year-over-year to $121, along with a year-over-year decline of 3.4% for active buyers on the Etsy marketplace, to 86.5 million.
+53
+Table of Contents
+U.S. buyer GMS is GMS from transactions in which the shipping address entered by the buyer at the time of sale is in the U.S., net of refunds. GMS from transactions in which the shipping address entered by the buyer at the time of sale is not in the U.S., net of refunds is referred to as non-U.S. buyer GMS. Percent U.S. buyer GMS for the periods presented below are as follows:
+Year Ended December 31,
+2025
+2024
+Percent U.S. Buyer GMS - Consolidated
+75 
+%
+74 
+%
+Percent U.S. Buyer GMS - Etsy marketplace
+74 
+%
+74 
+%
+There is considerable uncertainty regarding the evolving tariff landscape, how recent changes to de minimis exemptions may play out, and the impact higher tariffs might have on consumer demand and discretionary wallet share. Any circumstances that reduce consumer demand or hinder our sellers' cross-border trade may adversely affect our business. See Part I, Item 1A, “Risk Factors - Growing the Etsy marketplace globally is part of our strategy, and our business could be harmed by the continued imposition of barriers to international trade.” for further detail.
+Currency-Neutral GMS
+We calculate currency-neutral GMS by translating current period GMS for goods sold that were listed in non-U.S. dollar currencies into U.S. dollars using prior year foreign currency exchange rates.
+As reported and currency-neutral GMS decline for the periods presented below are as follows:
+Year-to-Date Period Ended
+As Reported
+Currency-Neutral
+FX Impact
+December 31, 2025
+(5.3)
+%
+(5.8)
+%
+0.5 
+%
+December 31, 2024
+(4.4)
+%
+(4.5)
+%
+0.1 
+%
+Results of Operations
+Comparison of 2025 and 2024
+Revenue
+Our revenue is diversified and generated from a mix of marketplace activities and other optional services we provide primarily to sellers to help them generate more sales and scale their businesses. Marketplace revenue is primarily comprised of the fees a seller pays for marketplace activities, including transaction fees (inclusive of offsite advertising), payments processing fees, and listing fees. Services revenue is primarily comprised of the fees a marketplace seller pays us for our optional services, including on-site advertising and shipping labels.
+ 
+Year Ended  
+December 31,
+Change Y/Y
+(in thousands, except percentages)
+2025
+2024
+$
+%
+Revenue:
+Marketplace
+$
+2,007,164 
+$
+2,020,744 
+$
+(13,580)
+(0.7)
+%
+Percentage of total revenue
+69.6 
+%
+72.0 
+%
+Services
+$
+876,337 
+$
+787,588 
+$
+88,749 
+11.3 
+%
+Percentage of total revenue
+30.4 
+%
+28.0 
+%
+Total revenue
+$
+2,883,501 
+$
+2,808,332 
+$
+75,169 
+2.7 
+%
+Total revenue increased primarily due to an increase in services revenue, partially offset by a decrease in marketplace revenue.
+Services revenue increased primarily due to a $62.2 million increase in advertising revenue, largely driven by an increase in average price per click on Etsy Ads.
+Marketplace revenue decreased primarily due to a $47.1 million decrease related to the sale of the Reverb marketplace on June 2, 2025 and a decrease of $16.8 million in transaction fee revenue, which was driven by a decline in Etsy marketplace GMS partially offset by an increase in Depop GMS. These decreases were partially offset by an increase in payments revenue of $27.0 million, primarily related to an increase in Depop GMS and a $18.4 million increase in Etsy marketplace seller set-up fee revenue.
+54
+Table of Contents
+Costs and Operating Expenses
+We include employee compensation-related expenses, including stock-based compensation expense, in the applicable operating expense category based on the respective recipient’s function. Product development employee compensation-related expenses are presented net of costs capitalized for website and app development. We also include restructuring and other exit costs in the applicable operating expense category of the impacted function.
+There were 2,375 total employees worldwide on December 31, 2025, including approximately 475 Depop employees. This is compared with approximately 2,400 total employees worldwide on December 31, 2024, including approximately 400 Depop employees and 180 Reverb employees.
+Cost of Revenue
+Cost of revenue primarily consists of the cost of interchange and other fees for payments processing services and expenses associated with cloud-related hosting and bandwidth costs. Cost of revenue also includes chargebacks to support payments revenue and costs of refunds made to buyers that we either are not able to collect from sellers or are otherwise covered by us, which we collectively refer to as cost of refunds. Additionally, cost of revenue includes depreciation and amortization and third-party customer support services.
+ 
+Year Ended  
+December 31,
+Change Y/Y
+(in thousands, except percentages)
+2025
+2024
+$
+%
+Cost of revenue
+$
+817,800 
+$
+774,554 
+$
+43,246 
+5.6 
+%
+Percentage of total revenue
+28.4 
+%
+27.6 
+%
+The increase in cost of revenue was driven by an increase in cost of refunds, cloud-related hosting and bandwidth costs, and, to a lesser extent, Etsy Insider loyalty program costs, which launched in beta form in the third quarter of 2024. These increases are partially offset by the sale of Reverb on June 2, 2025 and a net decrease in payments processing fees driven by a net GMS decrease and cost optimization efforts.
+Marketing
+Marketing expenses primarily consist of performance marketing and television ad and digital video expenses. Performance marketing primarily consists of paid digital marketing which is focused on buyer acquisition and retargeting. To a lesser extent, marketing expenses also include brand marketing, as well as our owned marketing channels. Marketing expenses also include amortization expense related to acquired customer relationships and trademark intangible assets. We track “Paid GMS” for the Etsy marketplace and define it as Etsy marketplace GMS that is attributable to our performance marketing efforts, which excludes most of our marketing investments focused on brand awareness like TV and digital video ads.
+ 
+Year Ended  
+December 31,
+Change Y/Y
+(in thousands, except percentages)
+2025
+2024
+$
+%
+Marketing
+$
+914,830 
+$
+856,565 
+$
+58,265 
+6.8 
+%
+Percentage of total revenue
+31.7 
+%
+30.5 
+%
+Marketing expenses increased primarily due to an increase in performance marketing, as we continued to invest in efficient channels and regions with positive return on investment. This increase was partially offset by the sale of Reverb on June 2, 2025 and a decrease in brand marketing spend, although brand marketing investment increased at Depop. Paid GMS was 24% of overall GMS for 2025 compared to 21% for 2024.
+Product development
+ 
+Year Ended  
+December 31,
+Change Y/Y
+(in thousands, except percentages)
+2025
+2024
+$
+%
+Product development
+$
+450,192 
+$
+443,056 
+$
+7,136 
+1.6 
+%
+Percentage of total revenue
+15.6 
+%
+15.8 
+%
+Product development expenses increased primarily due to increased employee compensation-related expenses. This increase was partially offset by the sale of Reverb on June 2, 2025 and an increase in the amount of employee-related costs capitalized as a result of several larger projects. 
+55
+Table of Contents
+General and administrative
+General and administrative expenses include costs associated with the use of facilities and equipment, including depreciation and amortization and office related expenses, professional services expenses, digital services tax, bad debt expense, and non-income tax items.
+ 
+Year Ended  
+December 31,
+Change Y/Y
+(in thousands, except percentages)
+2025
+2024
+$
+%
+General and administrative
+$
+332,766 
+$
+353,949 
+$
+(21,183)
+(6.0)
+%
+Percentage of total revenue
+11.5 
+%
+12.6 
+%
+General and administrative expenses decreased, primarily due to a decrease in stock-based compensation, including a decrease in performance-based restricted stock units, and the sale of Reverb on June 2, 2025. Additionally, general and administrative expenses decreased due to retroactive non-income tax expense related to the digital services tax (“DST”) legislation in Canada, which was enacted on June 28, 2024 retroactive to January 1, 2022 and recorded in 2024, as well as net favorable non-income tax items. These decreases were partially offset by an increase in employee compensation-related expenses.
+As part of ongoing trade negotiations between Canada and the United States, the Canadian government may formally repeal its DST legislation, which, if rescinded, would result in the reversal of DST expense recorded in prior periods.
+Asset impairment charges
+ 
+Year Ended  
+December 31,
+Change Y/Y
+(in thousands, except percentages)
+2025
+2024
+$
+%
+Asset impairment charges
+$
+101,703 
+$
+— 
+$
+101,703 
+NM
+Percentage of total revenue
+3.5 
+%
+— 
+%
+Asset impairment charge was $101.7 million in 2025 related to the impairment of the goodwill of Reverb. See Part II, Item 8, “Financial Statements and Supplementary Data—Note 6—Goodwill and Intangible Assets” for more information.
+Other (Expense) Income 
+Interest expense consists primarily of amortization of debt issuance costs and coupon interest expense related to our convertible senior notes. Interest expense also includes interest associated with the portion of our Brooklyn headquarters lease which is accounted for as a finance lease. Interest and other income is primarily comprised of interest income from our investment accounts.
+ 
+Year Ended  
+December 31,
+Change Y/Y
+(in thousands, except percentages)
+2025
+2024
+$
+%
+Other (expense) income:
+Interest expense
+$
+(18,509)
+$
+(13,806)
+$
+(4,703)
+34.1 
+%
+Interest and other income
+44,489 
+30,982 
+13,507 
+43.6 
+%
+Foreign exchange (loss) gain
+(40,428)
+13,391 
+(53,819)
+(401.9)
+%
+Loss on sale of business
+(5,097)
+— 
+(5,097)
+NM
+Other (expense) income
+$
+(19,545)
+$
+30,567 
+$
+(50,112)
+(163.9)
+%
+Percentage of total revenue
+(0.7)
+%
+1.1 
+%
+Other expense in 2025 decreased from other income in 2024, primarily driven by changes in exchange rates that negatively impacted our non-functional currency cash and intercompany balances, which resulted in a loss for 2025 as compared to a gain for 2024.
+56
+Table of Contents
+Provision for Income Taxes
+Our provision for income taxes represents the estimated amount of federal, state, and foreign income taxes incurred in the U.S. and the other jurisdictions in which we operate. The provision includes the effect of uncertain tax position reserves and changes to reserves as well as the related net interest and penalties.
+For additional information, including a reconciliation of the U.S. federal statutory rate to our effective tax rate, see Part II, Item 8, “Financial Statements and Supplementary Data—Note 3—Income Taxes.”
+ 
+Year Ended  
+December 31,
+Change Y/Y
+(in thousands, except percentages)
+2025
+2024
+$
+%
+Provision for income taxes
+$
+(83,683)
+$
+(107,494)
+$
+23,811 
+(22.2)
+%
+Percentage of total revenue
+(2.9)
+%
+(3.8)
+%
+The primary drivers of our income tax provision for 2025 were tax expense on income before income taxes, excluding the non-deductible impairment charge and current year losses before income tax in jurisdictions with a full valuation allowance, and tax deficiencies from stock-based compensation due to a lower stock price at vesting of restricted stock units compared to the stock price upon grant, partially offset by a tax benefit related to research and development tax credits.
+The primary drivers of our income tax provision for 2024 were tax expense on income before income taxes and tax deficiencies from stock-based compensation due to a lower stock price at vesting of restricted stock units compared to the stock price upon grant.
+Non-GAAP Financial Measures
+ 
+Adjusted EBITDA and Adjusted EBITDA Margin
+Adjusted EBITDA represents our net income adjusted to exclude: stock-based compensation expense and related payroll taxes; depreciation and amortization; provision for income taxes; interest and other non-operating income, net; foreign exchange loss (gain); asset impairment charge; acquisition, divestiture, and corporate structure-related expenses; loss on sale of business; restructuring and other exit costs; and retroactive non-income tax expense. Adjusted EBITDA margin represents Adjusted EBITDA divided by revenue. Below is a reconciliation of Adjusted EBITDA to net income, the most directly comparable GAAP financial measure.
+We have included Adjusted EBITDA and Adjusted EBITDA margin because they are key measures used by our management and Board of Directors to evaluate our operating performance and trends, allocate internal resources, prepare and approve our annual budget, develop short- and long-term operating plans, determine incentive compensation, and assess the health of our business. As our Adjusted EBITDA increases, we are able to invest more in our platforms.
+We believe that Adjusted EBITDA and Adjusted EBITDA margin can provide useful measures for period-to-period comparisons of our business as they remove the impact of certain non-cash items and certain variable charges.
+57
+Table of Contents
+Adjusted EBITDA and Adjusted EBITDA margin have limitations as analytical tools, and you should not consider them in isolation or as a substitute for analysis of our results as reported under GAAP. Some of these limitations are:
+•
+Adjusted EBITDA does not consider stock-based compensation expense and related payroll taxes, which has been, and for the foreseeable future is expected to continue to be, a significant recurring expense and an important part of how we attract, reward, and retain employees;
+•
+although depreciation and amortization are non-cash charges, the assets being depreciated and amortized may have to be replaced in the future, and Adjusted EBITDA does not reflect cash capital expenditure requirements for such replacements or for new capital expenditure requirements;
+•
+Adjusted EBITDA does not reflect tax payments that may represent a reduction in cash available to us; and
+•
+other companies, including companies in our industry, may calculate Adjusted EBITDA differently, which reduces its usefulness as a comparative measure.
+Because of these limitations, you should consider Adjusted EBITDA and Adjusted EBITDA margin alongside other financial performance measures, including net income, net income margin, revenue, and our other GAAP results.
+The following table reflects the reconciliation of net income to Adjusted EBITDA and the calculation of Adjusted EBITDA margin for each of the periods indicated (in thousands):
+Year ended December 31,
+2025
+2024
+Net income
+$
+162,982 
+$
+303,281 
+Excluding:
+Stock-based compensation expense and related payroll taxes (1)
+252,986 
+282,847 
+Depreciation and amortization
+101,845 
+108,074 
+Provision for income taxes
+83,683 
+107,494 
+Interest and other non-operating income, net
+(23,940)
+(17,176)
+Foreign exchange loss (gain)
+40,428 
+(13,391)
+Asset impairment charge
+101,703 
+— 
+Acquisition, divestiture, and corporate structure-related expenses
+7,156 
+1,478 
+Loss on sale of business
+5,097 
+— 
+Restructuring and other exit costs
+2,571 
+2,807 
+Retroactive non-income tax expense (2)
+— 
+6,124 
+Adjusted EBITDA
+$
+734,511 
+$
+781,538 
+Divided by 
+Revenue 
+$
+2,883,501 
+$
+2,808,332 
+Adjusted EBITDA margin 
+25.5 
+%
+27.8 
+%
+(1)
+Beginning in the first quarter of 2025, we excluded payroll tax expense related to stock-based compensation from Adjusted EBITDA because these taxes are directly related to stock-based compensation expense which is excluded from Adjusted EBITDA. Additionally, these taxes fluctuate with settlements and exercises of stock-based compensation awards, our stock price, and other factors that are beyond our control, and therefore we believe they are not reflective of our ongoing business operations or the underlying trends in our business. Management does not consider these taxes when evaluating the performance of our business or making operating plans. We believe excluding this expense from Adjusted EBITDA provides investors with a better understanding of the performance of our core business and serves as a tool for investors to use in comparing our core business operating results over multiple periods with other companies in our industry. We did not retrospectively apply this change to prior periods as the impact was immaterial to such periods. In 2024, payroll tax expense related to stock-based compensation was $6.0 million.
+(2)
+Retroactive non-income tax expense related to the digital services tax legislation in Canada, which was enacted on June 28, 2024 retroactive to January 1, 2022.
+Free cash flow
+Free cash flow represents our net cash provided by operating activities, reduced by purchases of property and equipment and website and app development that are included in cash flows from investing activities. Below is a reconciliation of net cash provided by operating activities, the most directly comparable GAAP financial measure, to free cash flow.
+58
+Table of Contents
+We believe that free cash flow, which measures our ability to generate cash from our business operations, is an important financial measure for use in evaluating our financial performance. Free cash flow has limitations as an analytical tool, as it omits certain components of the Consolidated Statements of Cash Flows and does not represent the residual cash flow available for discretionary expenditures. Other companies, including companies in our industry, may calculate free cash flow differently, which reduces its usefulness as a comparative measure. As a result of these limitations, free cash flow should be considered in addition to, rather than as a substitute for, consolidated net income as a measure of our performance and net cash provided by operating activities as a measure of our liquidity. We believe it is important to view free cash flow as a measure that provides supplemental information to our Consolidated Statements of Cash Flows.
+The following table reflects the reconciliation of net cash provided by operating activities to free cash flow for each of the periods indicated (in thousands):
+Year Ended December 31,
+2025
+2024
+Net cash provided by operating activities
+$
+693,414 
+$
+752,469 
+Purchases of property and equipment
+(15,386)
+(14,208)
+Website and app development
+(39,278)
+(29,290)
+Free cash flow
+$
+638,750 
+$
+708,971 
+Liquidity and Capital Resources
+Cash and cash equivalents and short-term investments were $1.6 billion as of December 31, 2025. Additionally, we have $134.4 million in long-term investments, a majority of which we can liquidate at short notice and with minimal penalties if needed. We also have the ability to draw down on our $400.0 million senior secured revolving credit facility (the “2023 Credit Agreement”). As of December 31, 2025, we had net working capital of $597.4 million and in 2025, we had positive operating cash flows of $693.4 million. We believe that this capital structure, as well as the nature and framework of our business, will allow us to meet all debt covenants, sustain our business operations, and be able to react to changing macroeconomic conditions.
+As of December 31, 2025, a majority of our cash and cash equivalents, short-term, and long-term investments balance was held in the United States. Our cash and cash equivalents are held for future investments, working capital funding, and general corporate purposes. We fund our non-U.S. operations from our funds held in the United States on an as-needed basis.
+We typically invest in short- and long-term instruments, which are intended to allow us to preserve our principal, maintain the ability to meet our liquidity needs, deliver positive yields across a balanced portfolio, and continue to provide us with direct fiduciary control. In accordance with our investment policy, all investments, other than investments made through our Impact Investment Fund, have maturities no longer than 37 months, with the average maturity of these investments maintained at 12 months or less.
+Sources of Liquidity
+We expect to continue to generate net positive operating cash flow, and the cash we generate from our core operations enables us to fund ongoing operations including investing in the areas outlined in Part I, Item 1, “Business—Overview—Core Business Drivers.”
+We also have the ability to draw down on the 2023 Credit Agreement. See Part II, Item 8, “Financial Statements and Supplementary Data—Note 12—Debt” for more information on the 2023 Credit Agreement.
+59
+Table of Contents
+Material Cash Requirements
+Our cash commitments as of December 31, 2025 were as follows (in thousands):
+Total
+Short-Term
+Long-Term
+Debt obligations (1)
+$
+2,999,887 
+$
+649,887 
+$
+2,350,000 
+Interest payments (1)
+40,188 
+11,125 
+29,063 
+Finance lease obligations (2)
+141,272 
+5,394 
+135,878 
+Operating lease obligations (3)
+55,650 
+3,726 
+51,924 
+Purchase obligations (4)
+783,645 
+173,170 
+610,475 
+Total cash commitments
+$
+4,020,642 
+$
+843,302 
+$
+3,177,340 
+(1)
+Debt obligations consist of convertible senior notes, which mature from 2026 through 2030, unless earlier converted or repurchased. Based on the terms of each series of convertible senior notes, when a conversion notice is received, we have the option to pay by delivery of cash, shares of our common stock, or a combination thereof. Interest payments consist of interest due in connection with our convertible senior notes. See Part II, Item 8, “Financial Statements and Supplementary Data—Note 12—Debt” for additional information.
+(2)
+Finance lease obligations consist of a portion of the lease on our headquarter office located in Brooklyn, New York, and include imputed interest and rent concessions. The table above does not reflect tenant improvement allowances.
+(3)
+Operating lease obligations consist of obligations under non-cancelable operating leases, including a portion of our headquarter office located in Brooklyn, New York and for a majority of our other office locations, and include imputed interest and rent concessions. The table above does not reflect tenant improvement allowances.
+(4)
+Purchase obligations primarily consist of the minimum, non-cancelable commitments as well as cancellation fees related to technology spending. For agreements with variable terms, we do not estimate what the total obligation may be beyond any minimum quantities and/or pricing. For purchase obligations with cancellation provisions, the amounts included in the table above were limited to the non-cancelable portion of the agreement terms and where applicable the minimum cancellation fees, which are only included to the extent that they further reduce minimum commitments. Since this disclosure only includes minimum commitments, actual spend may vary from the amount disclosed.
+In addition, we have uncertain tax positions of $55.7 million and non-income tax related contingency reserves of $32.2 million on our Consolidated Balance Sheet as of December 31, 2025. These amounts are not reflected in the table above as the ultimate resolution and timing are uncertain. 
+In October 2024, the Board of Directors approved a stock repurchase program that authorizes us to repurchase up to $1 billion of our common stock. In December 2025, the Board of Directors approved a new stock repurchase program that authorizes us to repurchase up to an additional $750 million of our common stock. As of December 31, 2025, the amount remaining available for repurchases under the approved plans was $973.2 million.
+We believe that our existing cash and cash equivalents and short- and long-term investments, together with cash generated from operations, will be sufficient to meet our anticipated operating cash needs for at least the next 12 months. We believe we will meet longer-term expected future cash requirements and obligations through a combination of existing cash and cash equivalent balances, cash flows from operations, and amounts available for borrowing from our 2023 Credit Agreement or other financings. While these beliefs are based on our current expectations and assumptions, in light of current macroeconomic conditions, our future capital requirements and the adequacy of available funds will depend on many factors, including those described in Part I, Item 1A, “Risk Factors” in this Annual Report.
+Cash Flows
+ 
+Year Ended December 31,
+ (in thousands)
+2025
+2024
+Cash provided by (used in):
+Operating activities
+$
+693,414 
+$
+752,469 
+Investing activities
+32,081 
+(53,101)
+Financing activities
+(169,875)
+(787,168)
+Net Cash Provided by Operating Activities
+Our cash flows from operations are largely dependent on revenue generation and net income, as well as working capital movements and non-cash items. Non-cash working capital at any specific point in time is subject to many variables, including variability in the timing of cash receipts and payments (including payment of taxes), and vendor payment terms. The decrease in 2025 of $59.1 million, compared to the same period in 2024, was primarily due to a 
+60
+Table of Contents
+$80.4 million decrease in the change in working capital less cash, partially offset by an increase of $21.4 million in net income, excluding non-cash items.
+Net Cash Provided by (Used in) Investing Activities
+Net cash provided by (used in) investing activities results from purchases and maturities of investments and capital expenditures, including investments in website and app development and purchases of property and equipment to support our business initiatives, and any proceeds from sale of business. The increase in 2025 of 
+$85.2 million
+, compared to the same period in 2024, was primarily due to the proceeds from the sale of Reverb, net of cash, offset in part by investments in website and app development.
+Net Cash Used in Financing Activities
+Net cash used in financing activities primarily consists of cash inflows from the issuance of convertible senior notes and cash outflows from stock repurchases and payment of tax obligations on vested equity awards. The decrease in 2025 of 
+$617.3 million
+, compared to the same period in 2024, was primarily due to the issuance of the 2025 Notes, offset in part by the increase in stock repurchases.
+Critical Accounting Estimates and Policies
+We prepare our consolidated financial statements in accordance with GAAP, which requires us to make estimates and assumptions that affect the reported amounts of assets, liabilities, equity, revenue, expenses, and related disclosures. Our critical accounting estimates are those that involve a significant level of subjectivity and judgment, and for which changes in the estimates could have a material effect on our financial condition or results of operations, as discussed below. We evaluate our estimates and assumptions on an ongoing basis. We continue to monitor the effects of global macroeconomic and geopolitical factors on our results of operations, cash flows, and financial position. We believe we have used reasonable estimates and assumptions in preparing the consolidated financial statements. Our actual results could differ from these estimates. See Part II, Item 8, “Financial Statements and Supplementary Data—Note 1—Basis of Presentation and Summary of Significant Accounting Policies” for further information on our critical accounting policies.
+Income Taxes
+We account for uncertainty in income taxes using a recognition threshold and a measurement attribute for the financial statement recognition and measurement of tax positions taken or expected to be taken in a tax return. For benefits to be recognized, a tax position must be more likely than not to be sustained upon examination by the taxing authorities. 
+The amount recognized is measured as the largest amount of benefit that has a greater than 50% likelihood of being realized upon ultimate audit settlement. The tax positions are reviewed on an ongoing basis and are adjusted as additional facts and information become available, including progress on tax audits, changes in interpretation of tax laws, developments in case law and closing of statutes of limitations. While we believe our tax positions are fully supportable, they may be challenged by various tax authorities. If actual results were to be materially different than estimated, it could result in a material impact on our consolidated financial statements in future periods.
+Valuation of Goodwill
+Goodwill is tested for impairment at the reporting unit level annually, or more frequently if triggering events occur. We have the option to first perform a qualitative assessment to determine whether it is more likely than not that the fair value of the reporting unit is less than its carrying value. The qualitative assessment includes certain significant judgments including assessments of macroeconomic conditions, industry and market considerations, cost factors, overall financial performance of the reporting unit, and other relevant considerations impacting the reporting unit. If we elect to bypass the qualitative assessment, or if the qualitative assessment indicates that it is more likely than not that the fair value of the reporting unit is less than its carrying amount, then we are required to perform a quantitative assessment for impairment. Under the quantitative goodwill impairment test, if a reporting unit’s carrying amount exceeds its fair value, we record an impairment charge based on that difference, not exceeding the carrying amount of goodwill. To determine a reporting unit’s fair value, we apply the income approach, which uses management’s forecasts to estimate future net available cash flows. Significant judgments inherent in this analysis include, but are not limited to, estimates of future revenue, operating margins, long-term growth rates, and discount rates. Our 
+61
+Table of Contents
+estimates of fair value are based upon assumptions believed to be reasonable, but which are inherently uncertain and unpredictable. If actual results are materially lower than originally estimated, or if we experience significant, adverse changes to long-term growth rate or discount rate assumptions, it could result in a material impact on our consolidated financial statements in future periods.
+During the first quarter of 2025, we recorded a non-cash goodwill impairment charge of 
+$101.7 million
+ related to the Reverb reporting unit. We sold Reverb in the second quarter of 2025. 
+No impairment charges were recorded within our Etsy reporting unit as of our annual impairment test in the fourth quarter of 2025 and no indication of goodwill impairment was identified in 2024 or 2023. See Part II, Item 8, “Financial Statements and Supplementary Data—Note 6—Goodwill and Intangible Assets” and “Note 5—Sale of Business” for further information.
+As of December 31, 2025, valuation of goodwill is not considered a critical accounting estimate, as it is no longer reasonably likely for changes in the underlying assumptions to have a material impact on our financial condition or results of operations.
+Leases
+Leases with a term greater than one year are recognized on the consolidated balance sheets as right-of-use (“ROU”) assets, lease obligations, and, if applicable, long-term lease obligations. Lease obligations and their corresponding ROU assets are recorded based on the present value of lease payments over the expected lease term. As the interest rate implicit in lease contracts is typically not readily determinable, we utilize the appropriate incremental borrowing rate, which is the rate incurred to borrow on a collateralized basis over a similar term in an amount equal to the lease payments in a similar economic environment. Additionally, the estimates of the present value of lease payments over the expected lease term along with the estimated fair value of the real estate properties or other assets leased by us affect the recognition of a lease transaction either as an operating or finance lease, which impacts the classification in our consolidated financial statements.
+Recent Accounting Pronouncements
+See Part II, Item 8, “Financial Statements and Supplementary Data—Note 1—Basis of Presentation and Summary of Significant Accounting Policies ” for information regarding recently adopted and recently issued accounting pronouncements.

@@ -6,6 +6,7 @@ beautifulsoup4>=4.12.0
 lxml>=5.2.0
 pdfplumber>=0.11.0
 plotly>=5.22.0
+kaleido>=0.2.1  # static PNG export for charts embedded in the written report
 matplotlib>=3.9.0
 streamlit>=1.38.0
 python-dotenv>=1.0.0

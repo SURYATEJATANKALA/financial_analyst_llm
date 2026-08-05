@@ -23,13 +23,16 @@ from openai import OpenAI
 from dotenv import load_dotenv
 from tenacity import retry, stop_after_attempt, wait_exponential
 
+from llm_usage import (
+    MODEL, CHUNK_THRESHOLD_CHARS, ExtractionMeta, Timer,
+    build_meta, combine_meta, save_meta, split_into_chunks,
+)
+
 if sys.platform == "win32":
     sys.stdout.reconfigure(encoding="utf-8")
     sys.stderr.reconfigure(encoding="utf-8")
 
 load_dotenv()
-
-MODEL = "gpt-4o"
 
 # Fixed category list keeps the heatmap columns stable across companies.
 # Expand only if you find a recurring category that doesn't fit — don't
@@ -76,7 +79,7 @@ class RiskMention:
 
 
 @retry(stop=stop_after_attempt(3), wait=wait_exponential(multiplier=2, min=2, max=20))
-def _call_llm(client: OpenAI, mdna_text: str) -> str:
+def _call_llm(client: OpenAI, mdna_text: str):
     resp = client.chat.completions.create(
         model=MODEL,
         max_tokens=3000,
@@ -87,25 +90,20 @@ def _call_llm(client: OpenAI, mdna_text: str) -> str:
             {"role": "user", "content": mdna_text},
         ],
     )
-    return resp.choices[0].message.content
+    return resp.choices[0].message.content, resp.usage
 
 
-def extract(mdna_text: str, api_key: str | None = None) -> list[RiskMention]:
-    if len(mdna_text) > 150_000:
-        raise ValueError(
-            f"MD&A text is {len(mdna_text)} chars — suspiciously large; "
-            "check segment_filing.py boundaries."
-        )
-
-    client = OpenAI(api_key=api_key or os.getenv("OPENAI_API_KEY"))
-    raw = _call_llm(client, mdna_text)
+def _extract_one_call(client: OpenAI, chunk_text: str) -> tuple[list[RiskMention], ExtractionMeta]:
+    with Timer() as timer:
+        raw, usage = _call_llm(client, chunk_text)
+    meta = build_meta(usage, timer.elapsed_seconds)
 
     try:
         parsed = json.loads(raw)
     except json.JSONDecodeError as e:
         raise ValueError(f"Model did not return valid JSON: {raw[:500]}") from e
 
-    return [
+    mentions = [
         RiskMention(
             category=m["category"],
             excerpt=m["excerpt"],
@@ -113,6 +111,41 @@ def extract(mdna_text: str, api_key: str | None = None) -> list[RiskMention]:
         )
         for m in parsed.get("risk_mentions", [])
     ]
+    return mentions, meta
+
+
+def extract(mdna_text: str, api_key: str | None = None) -> tuple[list[RiskMention], ExtractionMeta]:
+    if len(mdna_text) > 150_000:
+        raise ValueError(
+            f"MD&A text is {len(mdna_text)} chars — suspiciously large; "
+            "check segment_filing.py boundaries."
+        )
+
+    client = OpenAI(api_key=api_key or os.getenv("OPENAI_API_KEY"))
+
+    if len(mdna_text) <= CHUNK_THRESHOLD_CHARS:
+        return _extract_one_call(client, mdna_text)
+
+    # Oversized MD&A: same per-request token rate limit as extract_metrics.py
+    # (see llm_usage.py). Unlike the fixed 8-metric schema, risk mentions are
+    # an open list, so chunks merge by concatenation rather than by picking
+    # one best candidate per slot — deduplicated on normalized excerpt text
+    # in case the same boilerplate risk sentence happens to appear in more
+    # than one chunk.
+    chunks = split_into_chunks(mdna_text)
+    all_mentions: list[RiskMention] = []
+    seen_excerpts: set[str] = set()
+    metas = []
+    for chunk in chunks:
+        chunk_mentions, chunk_meta = _extract_one_call(client, chunk)
+        metas.append(chunk_meta)
+        for m in chunk_mentions:
+            key = " ".join(m.excerpt.split()).lower()
+            if key not in seen_excerpts:
+                seen_excerpts.add(key)
+                all_mentions.append(m)
+
+    return all_mentions, combine_meta(metas)
 
 
 def to_frequency_table(mentions: list[RiskMention]) -> dict[str, int]:
@@ -138,7 +171,10 @@ if __name__ == "__main__":
     args = parser.parse_args()
 
     text = Path(args.input).read_text(encoding="utf-8", errors="ignore")
-    mentions = extract(text)
+    mentions, meta = extract(text)
     save_results(mentions, Path(args.output))
+    save_meta(meta, Path(args.output).with_name(Path(args.output).stem + "_meta.json"))
     print(f"Found {len(mentions)} risk mentions -> {args.output}")
     print(to_frequency_table(mentions))
+    print(f"Model {meta.model}: {meta.total_tokens} tokens, {meta.latency_seconds}s, "
+          f"~${meta.estimated_cost_usd}")

@@ -1,0 +1,1006 @@
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+ 
+OF OPERATIONS
+This section of Form 10-K does not address certain items regarding the year ended December 31, 2023. Discussion and analysis of 2023 and year-to-year comparisons between 2024 and 2023 not included in this Form 10-K can be found in "Item 7. Management's Discussion and Analysis" of our Annual Report on Form 10-K for the year ended December 31, 2024. The following discussion and analysis of our financial condition and results of operations should be read in conjunction with our audited Consolidated Financial Statements and the related notes and other financial information as well as the material risk factors included elsewhere in this Annual Report on Form 10-K.
+2025 Financial Overview
+Our 2025 operating income was $5.8 billion, a decrease of $173 million
+ 
+compared to 2024, and operating income, adjusted (a non-GAAP financial measure) was $5.8 billion, a decrease of $212 million compared to 2024.
+ 
+The decreases in operating income and operating income, adjusted primarily result from nearly offsetting increases in both revenue and operating expenses, as described below. As a result of our strong performance in 2024 and 2025, we paid profit sharing of $1.4 billion in February 2025 to our employees and will pay another $1.3 billion in February 2026 in recognition of these achievements.
+Revenue.
+ Compared to 2024, our 2025 operating revenue increased $1.7 billion, or 3%, primarily due to a 3% increase in capacity driven by continued strength in demand for premium products, particularly from corporate customers, growth in loyalty travel awards, increased refinery sales to third parties and growth of our Delta TechOps third-party maintenance, repair and overhaul ("MRO") business. In addition, revenue increased year over year due to the Crowdstrike-caused outage in 2024, which led to a direct revenue impact of approximately $380 million related to approximately 7,000 flight cancellations over five days.
+ 
+Total revenue, adjusted (a non-GAAP financial measure) increased in 2025 by $1.3 billion, or 2.3%, compared to 2024. Adjustments were to exclude refinery sales to third parties.
+Operating Expense.
+ Total operating expense increased $1.9 billion, or 3%, compared to 2024, primarily due to higher employee costs from increased wages, costs associated with a 3% increase in capacity, and higher expenses related to refinery sales to third parties. These increases were partially offset by lower aircraft fuel costs. In addition, approximately $170 million of additional operating expenses were incurred in 2024 associated with the Crowdstrike-caused outage primarily due to customer expense reimbursements and crew-related costs. Total operating expense, adjusted (a non-GAAP financial measure) increased $1.5 billion, or 3%, compared to 2024. Current year adjustments were primarily to exclude expenses related to refinery sales to third parties.
+Our total operating cost per available seat mile ("CASM") of 19.31 cents was comparable to 2024, primarily due to lower fuel expense and a 3% increase in capacity offset by higher employee costs. Non-fuel unit costs ("CASM-Ex", a non-GAAP financial measure), which excludes fuel, expenses related to refinery sales to third parties and other items, increased 2.4% to 13.86 cents compared to 2024, which was in line with our long-term target of low-single digit growth, on higher employee costs and investments in the customer experience.
+Non-Operating Results.
+ Total non-operating income was $363 million in 2025, compared to total non-operating expense of $1.3 billion in 2024, primarily due to mark-to-market gains on certain of our equity investments in 2025 compared to losses in 2024.
+Cash Flow.
+ During 2025, operating activities generated $8.3 billion, primarily from ticket sales and the sale of SkyMiles to our partners. Remuneration from American Express related to the SkyMiles program were $8.2 billion during 2025, an increase of approximately 11% compared to 2024. Investing activities resulted in net cash outflows of approximately $4.2 billion, primarily for capital expenditures. After adjusting for our strategic investment in WestJet and certain other items, these results generated $4.6 billion of free cash flow (a non-GAAP financial measure) in 2025.
+Also, during 2025 we had financing cash outflows of $4.8 billion related to repayment of our debt and finance leases, including $2.9 billion for early repayments and the remainder for scheduled maturities. Our proceeds from long-term obligations primarily related to the issuance of $2.0 billion in aggregate principal amount of unsecured notes. Our cash, cash equivalents, short-term investments and aggregate principal amount committed and available to be drawn under our revolving credit facilities ("liquidity") at December 31, 2025 was $7.4 billion.
+The non-GAAP financial measures of operating income, adjusted, total revenue, adjusted, total operating expense, adjusted, CASM-Ex and free cash flow used above are defined and reconciled in "Supplemental Information" below.
+Delta Air Lines, Inc. | 2025 Form 10-K
+33
+Item 7. MD&A - Results of Operations
+Results of Operations
+Operating Revenue
+Year Ended December 31,
+Increase (Decrease)
+% Increase (Decrease)
+(in millions)
+(1)
+2025
+2024
+Ticket - Main cabin
+$
+23,391 
+$
+24,497 
+$
+(1,106)
+(5)
+%
+Ticket - Premium products
+22,097 
+20,599 
+1,498 
+7 
+%
+Loyalty travel awards
+4,237 
+3,841 
+396 
+10 
+%
+Travel-related services
+2,043 
+1,957 
+86 
+4 
+%
+Total passenger revenue
+$
+51,768 
+$
+50,894 
+$
+874 
+2 
+%
+Cargo
+900 
+822 
+78 
+9 
+%
+Other
+10,696 
+9,927 
+769 
+8 
+%
+Total operating revenue
+$
+63,364 
+$
+61,643 
+$
+1,721 
+3 
+%
+TRASM (cents)
+21.26 
+¢
+21.37 
+¢
+(0.11)
+¢
+(1)
+%
+Third-party refinery sales
+(2)
+(1.70)
+(1.61)
+(0.09)
+6 
+%
+TRASM, adjusted (cents)
+19.56 
+¢
+19.76 
+¢
+(0.20)
+¢
+(1)
+%
+(1)
+Total amounts in the table above may not calculate exactly due to rounding.
+(2)
+For additional information on adjustments to TRASM, see "Supplemental Information" below.
+Operating Revenue
+Our operating revenue increased $1.7 billion, or 3%, compared to 2024 due to an increase in demand for premium products, particularly from corporate customers, growth in loyalty travel awards, increased refinery sales to third parties and growth of our MRO business. Refinery sales and MRO are included in other revenue, discussed below. These increases were partially offset by a decline in main cabin revenue due to industry-wide supply exceeding demand for main cabin travel in the uncertain economic environment.
+Passenger Revenue by Geographic Region
+Increase (Decrease) vs. Year Ended December 31, 2024
+(in millions)
+Year Ended December 31, 2025
+Passenger Revenue
+RPMs
+ 
+(Traffic)
+ASMs (Capacity)
+Passenger Mile Yield
+PRASM
+Load Factor
+Domestic
+$
+35,731 
+1 
+%
+— 
+%
+3 
+%
+2 
+%
+(2)
+%
+(3)
+pts
+Atlantic
+9,270 
+2 
+%
+2 
+%
+3 
+%
+(1)
+%
+(2)
+%
+(1)
+pt
+Latin America
+3,980 
+— 
+%
+— 
+%
+1 
+%
+— 
+%
+(1)
+%
+(1)
+pt
+Pacific
+2,787 
+10 
+%
+16 
+%
+9 
+%
+(5)
+%
+— 
+%
+4 
+pts
+Total passenger revenue
+$
+51,768 
+2 
+%
+1 
+%
+3 
+%
+— 
+%
+(2)
+%
+(2)
+pts
+Domestic
+Domestic passenger revenue in 2025 increased 1% on a 3% increase in capacity compared to 2024. The increase in domestic revenue primarily resulted from strong demand for premium products across our domestic network. We generated higher growth in premium products revenue compared to main cabin with the delivery of new aircraft that include more premium seat capacity and an increase in yield in premium products compared to main cabin, as we see more consumers choosing these premium offerings. Domestic passenger unit revenue ("PRASM") for 2025 decreased 2% compared to 2024 primarily due to weakness in main cabin demand.
+International
+International passenger revenue in 2025 increased 2% on a 4% increase in capacity compared to 2024, with growth primarily driven by improvement in the Atlantic and Pacific regions, while Latin America remained stable compared to 2024.
+Revenue in the Atlantic region increased 2% on a 3% increase in capacity as we introduced new routes and destinations to Europe and Africa in 2025. Revenue growth in the Atlantic was led by demand for our premium product offerings.
+Delta Air Lines, Inc. | 2025 Form 10-K
+34
+Item 7. MD&A - Results of Operations
+Revenue in the Latin America region remained consistent with 2024 on a slight increase in capacity. We experienced slight revenue growth in the Caribbean and South America compared to 2024. In South America, we continued to build on the strength of our joint venture with LATAM through greater network connectivity and a more streamlined airport experience.
+Revenue in the Pacific region increased 10% on a 9% increase in capacity compared to 2024 on strong demand to Japan and South Korea, particularly with our premium product offerings. We continued to invest in our joint venture partnership with Korean Air through the introduction of a new route from Salt Lake City to Seoul-Incheon.
+Other Revenue
+Year Ended December 31,
+Increase (Decrease)
+% Increase (Decrease)
+(in millions)
+2025
+2024
+Refinery
+$
+5,077 
+$
+4,642 
+$
+435 
+9 
+%
+Loyalty program
+3,362 
+3,297 
+65
+2 
+%
+Ancillary businesses
+937 
+772 
+165
+21 
+%
+Miscellaneous
+1,320 
+1,216 
+104
+9 
+%
+Total other revenue
+$
+10,696 
+$
+9,927 
+$
+769 
+8 
+%
+Refinery. 
+This represents refinery sales of non-jet fuel products to third parties. These sales increased $435 million compared to 2024. See "Refinery Segment" below for additional details on the refinery's operations, including third party refinery sales recorded in other revenue, during each period.
+Loyalty Program.
+ This relates to revenues from brand usage by third parties and other performance obligations embedded in miles sold, as well as redemption of miles for non-air travel and other awards. These revenues are mainly driven by customer spend on American Express cards and new cardholder acquisitions, which both grew double-digit on a percentage basis compared to 2024.
+Ancillary Businesses.
+ This includes revenues from our MRO business and our vacation package operations. During the years ended December 31, 2025 and 2024, the MRO business generated revenues of $822 million and $658 million, respectively.
+Miscellaneous.
+ This is primarily composed of revenues related to lounge access, including access provided to certain American Express cardholders, travel products (e.g., car rentals or hotels booked with our commercial partners), codeshare agreements and international joint venture partnership contractual settlements. The increase in revenues was primarily driven by growth in travel products, codeshare and lounge access.
+Delta Air Lines, Inc. | 2025 Form 10-K
+35
+Item 7. MD&A - Results of Operations
+Operating Expense
+Year Ended December 31,
+Increase (Decrease)
+% Increase (Decrease)
+(in millions)
+2025
+2024
+Salaries and related costs
+$
+17,520 
+$
+16,161 
+$
+1,359 
+8 
+%
+Aircraft fuel and related taxes
+9,819 
+10,566 
+(747)
+(7)
+%
+Ancillary businesses and refinery
+5,987 
+5,416 
+571 
+11 
+%
+Contracted services
+4,617 
+4,228 
+389 
+9 
+%
+Landing fees and other rents
+3,564 
+3,150 
+414 
+13 
+%
+Regional carrier expense
+2,553 
+2,328 
+225 
+10 
+%
+Passenger commissions and other selling expenses
+2,485 
+2,485 
+— 
+— 
+%
+Depreciation and amortization
+2,443 
+2,513 
+(70)
+(3)
+%
+Aircraft maintenance materials and outside repairs
+2,432 
+2,616 
+(184)
+(7)
+%
+Passenger service
+1,855 
+1,788 
+67 
+4 
+%
+Profit sharing
+1,337 
+1,389 
+(52)
+(4)
+%
+Aircraft rent
+542 
+548 
+(6)
+(1)
+%
+Other
+2,388 
+2,460 
+(72)
+(3)
+%
+Total operating expense
+$
+57,542 
+$
+55,648 
+$
+1,894 
+3 
+%
+Salaries and Related Costs.
+ The increase in salaries and related costs primarily resulted from the implementation of base pay increases for eligible employees of 5% effective June 1, 2024 and 4% effective June 1, 2025, and 4% for Delta pilots on January 1, 2025.
+Aircraft Fuel and Related Taxes. 
+Fuel expense decreased $747 million compared to 2024 primarily due to a 9% decrease in the market price of jet fuel partially offset by a 4% increase in consumption on a 3% increase in capacity.
+Fuel expense and average price per gallon
+Average Price Per Gallon
+Year Ended December 31,
+Increase (Decrease)
+Year Ended December 31,
+Increase (Decrease)
+(in millions, except per gallon data)
+2025
+2024
+2025
+2024
+Fuel purchase cost
+(1)
+$
+9,993 
+$
+10,583 
+$
+(590)
+$
+2.34 
+$
+2.57 
+$
+(0.23)
+Fuel hedge impact
+(17)
+21 
+(38)
+— 
+0.01 
+(0.01)
+Refinery segment impact
+(157)
+(38)
+(119)
+(0.04)
+(0.01)
+(0.03)
+Total fuel expense
+$
+9,819 
+$
+10,566 
+$
+(747)
+$
+2.30 
+$
+2.57 
+$
+(0.27)
+(1)
+Market price for jet fuel at airport locations, including related taxes and transportation costs.
+Ancillary Businesses and Refinery. 
+Ancillary businesses and refinery includes expenses associated with refinery sales to third parties, MRO and our vacation package operations. The increase in these expenses was primarily related to higher refinery sales to third parties, which increased $435 million compared to 2024. See "Refinery Segment" below for additional details on the refinery's operations, including third party refinery sales. In addition, the expenses related to our MRO business increased $141 million, to $751 million during 2025, due to an approximately 25% growth in that business.
+Contracted Services. 
+The increase in contracted services resulted from inflationary rate increases in our operations, volume increases on a 3% increase in capacity and additional contract labor costs associated with the expansion of our Sky Club network, particularly our Delta One lounges.
+Landing Fees and Other Rents. 
+The increase in landing fees and other rents resulted from higher rates charged by airports following extensive redevelopment projects at numerous facilities and more flights compared to 2024.
+Regional Carrier Expense. 
+The increase in regional carrier expense primarily resulted from higher volume of regional flights and annual rate increases.
+Delta Air Lines, Inc. | 2025 Form 10-K
+36
+Item 7. MD&A - Results of Operations
+Aircraft Maintenance Materials and Outside Repairs. 
+The decrease in aircraft maintenance materials and outside repairs expense primarily resulted from the timing of engine maintenance activities, renegotiated engine maintenance agreements and a gain from the sale of our MRO JV located in Queretaro, Mexico. These decreases were partially offset by a higher volume of airframe checks in 2025.
+Other
+. The decrease in other operating expense primarily resulted from gains from several sale-leaseback transactions and lower irregular operations expense in 2025.
+Non-Operating Results
+Year Ended December 31,
+Favorable (Unfavorable)
+(in millions)
+2025
+2024
+Interest expense, net
+$
+(679)
+$
+(747)
+$
+68 
+Gain/(loss) on investments, net
+1,212 
+(319)
+1,531 
+Loss on extinguishment of debt 
+(26)
+(39)
+13 
+Miscellaneous, net
+(144)
+(232)
+88 
+Total non-operating income/(expense), net
+$
+363 
+$
+(1,337)
+$
+1,700 
+Interest expense, net. 
+Interest expense, net includes interest expense and interest income. This decreased compared to the prior year primarily due to reduced interest expense resulting from our debt reduction initiatives. During 2024, we made payments of $4.0 billion related to our debt and finance lease obligations. We continued to prioritize strengthening the balance sheet and reducing debt with $4.8 billion of payments on debt and finance lease obligations during 2025. During the June 2025 quarter, we issued $2.0 billion in aggregate principal amount of unsecured notes and used a portion of the proceeds to repay the Payroll Support Program ("PSP") loan due 2030 ("PSP1 Loan"). The new unsecured notes carry a lower interest rate than the repaid PSP1 Loan. We continue to seek opportunities to pre-pay our debt, in addition to periodic amortization and scheduled maturities, and refinance higher cost debt.
+Gain/(loss) on investments, net.
+ See Note 4 of the Notes to the Consolidated Financial Statements for additional information on our equity investments measured at fair value on a recurring basis.
+Loss on extinguishment of debt.
+ This reflects the losses incurred in the early repayment of debt referenced above.
+Miscellaneous, net.
+ Miscellaneous, net primarily includes employee benefit plans net periodic cost, charitable contributions, our share of our equity method investments' results, dividend income from our equity investments and foreign exchange gains/(losses). The decrease compared to 2024 primarily relates to lower employee benefit plan costs and an increase in dividend income. See Note 4 of the Notes to the Consolidated Financial Statements for additional information on our equity investments.
+Income Taxes
+Our effective tax rate was 19% and 26% for 2025 and 2024, respectively. Our effective tax rate is impacted by net pre-tax income or loss recognized on our equity investments, which are considered capital assets for tax purposes, because realized capital losses can only be deducted against realized capital gains. As of December 31, 2025, we had approximately $2.4 billion of U.S. federal pre-tax net operating loss carryforwards which we are expecting to utilize during 2026. These net operating loss carryforwards were primarily generated in 2020 and do not expire.
+In certain periods, we may have adjustments to our net deferred tax liabilities as a result of changes in prior year estimates, mark-to-market adjustments on our equity investments and tax laws enacted during the period, which will impact the effective tax rate for that period. Excluding the mark-to-market results, we project our annual effective tax rate to be between 23% and 25% for 2026.
+On July 4, 2025, the One Big Beautiful Bill Act was signed into law. The legislation did not have a material impact on our income tax expense or effective income tax rate for the year ended December 31, 2025.
+For more information about our income taxes, see Note 10 of the Notes to the Consolidated Financial Statements.
+Delta Air Lines, Inc. | 2025 Form 10-K
+37
+Item 7. MD&A - Refinery Segment
+Refinery Segment
+The refinery operated by our wholly owned subsidiary, Monroe, primarily produces gasoline, diesel and jet fuel. Monroe has agreements in place to exchange or sell the non-jet fuel products the refinery produces with third parties to obtain jet fuel for consumption in our airline operations. The refinery provides approximately 200,000 barrels per day, or approximately 75% of our consumption, for use in our airline operations through the production of jet fuel and through exchanges and sales of gasoline and diesel fuel produced by the refinery.
+The refinery regularly optimizes its sales and exchange activities of non-jet fuel products based on market conditions and the availability of counterparties for exchanges. The volume of exchange transactions has declined in recent years due to changes in the counterparties used to supply jet fuel and our related buy/sell agreements. As of December 31, 2025, we do not plan to use exchange agreements to procure significant volumes of fuel. The decline in exchange transaction volume has driven an increase in third-party refinery sales. Refinery revenues decreased in 2025, primarily driven by lower pricing of refined products. The refinery's operating income increased in 2025 compared to 2024 mainly due to higher industry refining margins.
+Refinery segment financial information
+Year Ended December 31,
+% Increase (Decrease)
+(1)
+(in millions, except per gallon data)
+2025
+2024
+Exchanged products
+$
+580 
+$
+1,473 
+(61)
+%
+Sales of refined products
+154 
+231 
+(33)
+%
+Sales to airline segment
+1,150 
+1,421 
+(19)
+%
+Third-party sales
+5,077 
+4,642 
+9 
+%
+Operating revenue 
+$
+6,961 
+$
+7,767 
+(10)
+%
+Operating income
+$
+157 
+$
+38 
+NM
+Refinery segment impact on average price per fuel gallon 
+$
+(0.04)
+$
+(0.01)
+NM
+(1)
+Certain variances are labeled as not meaningful ("NM") throughout management's discussion and analysis.
+A refinery is subject to annual EPA requirements to blend renewable fuels into the gasoline and on-road diesel fuel it produces. A refinery may meet its obligation by blending the necessary volumes of renewable fuels, by purchasing Renewable Identification Numbers ("RINs") in the open market, or through a combination of blending and purchasing RINs. Because Monroe is able to blend only a small amount of renewable fuels, it must purchase the majority of its RINs requirement in the secondary market. Monroe incurred $312 million
+ 
+in RINs compliance costs during 2025, compared to $203 million incurred in 2024.
+For more information regarding the refinery's results, see Note 14 of the Notes to the Consolidated Financial Statements.
+Delta Air Lines, Inc. | 2025 Form 10-K
+38
+Item 7. MD&A - Operating Statistics
+Operating Statistics
+Year Ended December 31,
+Consolidated 
+(1)
+2025
+2024
+Revenue passenger miles (in millions)
+249,578 
+246,145 
+Available seat miles (in millions)
+298,045 
+288,394 
+Passenger mile yield
+20.74 
+¢
+20.68 
+¢
+Passenger revenue per available seat mile ("PRASM")
+17.37 
+¢
+17.65 
+¢
+Total revenue per available seat mile ("TRASM")
+21.26 
+¢
+21.37 
+¢
+TRASM, adjusted
+(2)
+19.56 
+¢
+19.76 
+¢
+Cost per available seat mile ("CASM")
+19.31 
+¢
+19.30 
+¢
+CASM-Ex
+(2)
+13.86 
+¢
+13.54 
+¢
+Passenger load factor
+84 
+%
+85 
+%
+Fuel gallons consumed (in millions)
+4,269 
+4,114 
+Average price per fuel gallon
+(3)
+$
+2.30 
+$
+2.57 
+Average price per fuel gallon, adjusted
+(2)(3)
+$
+2.30 
+$
+2.56 
+Approximate full-time equivalent employees, end of period
+103,000 
+103,000 
+(1)
+Includes the operations of our regional carriers under capacity purchase agreements. Full-time equivalent employees exclude employees of regional carriers that we do not own.
+(2)
+Non-GAAP financial measures are defined and reconciled to TRASM, CASM and average fuel price per gallon, respectively, in "Supplemental Information" below.
+(3)
+Includes the impact of refinery segment results and fuel hedge activity.
+Delta Air Lines, Inc. | 2025 Form 10-K
+39
+Item 7. MD&A - Financial Condition and Liquidity
+Financial Condition and Liquidity
+As of December 31, 2025, we had $7.4 billion in cash, cash equivalents, short-term investments and aggregate principal amount committed and available to be drawn under our revolving credit facilities ("liquidity"). We expect to meet our liquidity needs for the next twelve months with cash and cash equivalents, restricted cash equivalents and cash flows from operations. We expect to meet our long-term liquidity needs with cash flows from operations and financing arrangements.
+Sources and Uses of Liquidity
+Operating Activities
+Operating activities in 2025 provided $8.3 billion of cash flow compared to $8.0 billion in 2024. We expect to continue generating cash flows from operations during 2026.
+Our operating cash flow is impacted by the following factors:
+Seasonality of Advance Ticket Sales
+. We sell tickets for air travel in advance of the customer's travel date. When we receive a cash payment at the time of sale, we record the cash received on advance sales as deferred revenue in air traffic liability. The air traffic liability typically increases during the winter and spring months as advanced ticket sales grow prior to the summer peak travel season and decreases during the summer and fall months.
+Sale of Miles to Participating Companies.
+ Customers earn miles based on their spending with participating companies such as credit card, retail, ridesharing, car rental and hotel companies with which we have marketing agreements to sell miles. Payments are typically due to us monthly based on the volume of miles sold during the period. Our most significant contract to sell miles relates to our co-brand credit card relationship with American Express. Remuneration from American Express was $8.2 billion during 2025, an increase of 11% compared to the prior year. See Note 2 of the Notes to the Consolidated Financial Statements for further information regarding the cash sales from marketing agreements.
+Fuel
+. Fuel expense represented approximately 17% of our total operating expense during 2025. The market price for jet fuel is volatile, which can impact the comparability of our periodic cash flows from operations. The average fuel price per gallon decreased in 2025. Fuel prices have historically been volatile due to many factors, including geopolitical events. As capacity increased throughout the year, fuel consumption was higher in 2025 than 2024. We expect fuel consumption to increase in 2026 generally aligned with capacity.
+Employee Benefit Obligations. 
+We sponsor defined benefit and defined contribution pension plans for eligible employees and retirees. Our funding obligations for defined benefit plans are governed by the Employee Retirement Income Security Act ("ERISA") and any additional applicable legislation. We had minimum funding requirements of $70 million during 2025 and estimate that there will be approximately $5 million of minimum funding requirements under these plans in 2026. Payments to defined contribution plans were approximately $1.4 billion during the year ended December 31, 2025.
+In addition, we have employee benefit obligations relating primarily to projected future benefit payments from our unfunded postretirement and postemployment plans. Benefit payments for these obligations are expected to be approximately $500 million on an annual basis over the next five years. See Note 8 of the Notes to the Consolidated Financial Statements for more information on our employee benefit obligations.
+Profit Sharing. 
+Our broad-based employee profit sharing program provides that, for each year in which we have an annual pre-tax profit, as defined by the terms of the program, we will pay a specified portion of that profit to employees. In determining the amount of profit sharing, the program defines profit as pre-tax profit adjusted for profit sharing and certain other items.
+We pay profit sharing annually in February. We paid $1.4 billion in 2025 to our employees in recognition of their contributions toward meeting our financial goals. During the year ended December 31, 2025, we recorded $1.3 billion in profit sharing expense based on 2025 pre-tax profit, which we will pay to employees in February 2026.
+Delta Air Lines, Inc. | 2025 Form 10-K
+40
+Item 7. MD&A - Financial Condition and Liquidity
+Contract Carrier Obligations. 
+We have certain estimated minimum fixed obligations under capacity purchase agreements with third-party regional carriers. These minimum amounts are based on the required minimum levels of flying by the regional carriers under the respective agreements and assumptions regarding the costs associated with such minimum levels of flying. As of December 31, 2025 the total of these minimum amounts was $6.0 billion, decreasing on an annual basis from approximately $1.8 billion in 2026 to $300 million in 2030. See Note 9 of the Notes to the Consolidated Financial Statements for more information on our contract carrier obligations.
+Operating Lease Obligations. 
+As described further in Note 7 of the Notes to the Consolidated Financial Statements, as of December 31, 2025 we had a total of $7.8 billion of minimum operating lease obligations. These minimum lease payments decrease on an annual basis from approximately $1.0 billion in 2026 to $500 million in 2030.
+Other Obligations. 
+We have certain purchase obligations under which we are required to make minimum payments for goods and services, including, but not limited to, aviation-related, maintenance, technology, sponsorships, marketing, insurance and other third-party services and products. As of December 31, 2025, we had approximately $11.2 billion of such obligations, decreasing on an annual basis from approximately $1.4 billion in 2026 to $800 million in 2030.
+Income Taxes. 
+During 2025, we utilized substantially all of our remaining pre-2018 net operating loss carryforwards and, due to the limitations on post-2017 net operating losses, began making cash federal income tax payments. We expect income tax cash payments to increase in 2026 based on our projected financial results. As of December 31, 2025, we had approximately $2.4 billion of U.S. federal pre-tax net operating loss carryforwards which we are expecting to utilize during 2026. These net operating loss carryforwards were primarily generated in 2020 and do not expire.
+Investing Activities
+Capital Expenditures. 
+Our capital expenditures (i.e., property and equipment additions in our Consolidated Statements of Cash Flows ("cash flows statement")) were $4.5 billion and $5.1 billion
+ 
+in 2025 and 2024, respectively. Our capital expenditures are primarily related to the purchases of aircraft, fleet modifications, airport construction projects and technology enhancements.
+We have committed to future aircraft purchases and have obtained, but are under no obligation to use, long-term financing commitments for a substantial portion of the purchase price of the aircraft. Our expected 2026 capital spend of approximately $5.5 billion, which may vary depending on financing decisions, will be primarily for aircraft, including deliveries and advance deposit payments, as well as fleet modifications and technology enhancements.
+On January 12, 2026, we entered into a definitive agreement with The Boeing Company to acquire 30 Boeing 787-10 aircraft, with an option to purchase up to an additional 30 of the same aircraft. The B-787-10 aircraft will include GEnx engines manufactured by General Electric. Deliveries of the B-787-10 aircraft will begin in 2031.
+On January 27, 2026, we entered into a definitive agreement with Airbus S.A.S. to purchase 16 Airbus A330-900 aircraft and 15 Airbus A350-900 aircraft, with an option to purchase up to an additional 20 widebody aircraft. The A330-900 aircraft will be powered by the Trent 7000 engine and the A350-900 aircraft will utilize the Trent XWB-84 EP engine, both manufactured by Rolls-Royce. Deliveries of the aircraft will begin in 2029.
+See Note 9 of the Notes to the Consolidated Financial Statements for additional information regarding our aircraft purchase commitments, which totaled approximately $15.4 billion as of December 31, 2025.
+Strategic Investment in WestJet.
+ In October 2025, we acquired a 12.7% equity stake in WestJet for $276 million. As part of the transaction, we also assumed a commensurate portion of a shareholder loan receivable from the previous owner.
+Other
+. In 2025, other, net investing activities primarily included proceeds from several sale-leaseback transactions, the sale of a portion of our equity investment in Unifi Aviation and the sale of our engine maintenance, repair and overhaul joint venture with Aeroméxico located in Queretaro, Mexico. In 2024, other, net investing activities primarily included proceeds from the sale of our equity ownership in Clear Secure, Inc.
+Delta Air Lines, Inc. | 2025 Form 10-K
+41
+Item 7. MD&A - Financial Condition and Liquidity
+Financing Activities
+Debt and Finance Leases.
+ In 2025, we had cash outflows of approximately $4.8 billion related to repayments of our debt and finance leases. We continue to seek opportunities to pre-pay our debt, in addition to periodic amortization payments and scheduled maturities, and refinance higher cost debt.
+In June 2025, we issued $2.0 billion in aggregate principal amounts of unsecured notes, consisting of $1.0 billion of 4.95% Notes due 2028 and $1.0 billion of 5.25% Notes due 2030 (collectively, the "Notes"). The net proceeds from the offering of the Notes were used to repay the Payroll Support Program ("PSP") loan due 2030 and for general corporate purposes.
+In September 2025, we and our indirect wholly-owned subsidiary SkyMiles IP Ltd. entered into an amendment to the SkyMiles Term Loan credit and guaranty agreement (the "SkyMiles Credit Facility"). This amendment, among other things, (i) refinanced the existing term loans with the proceeds of replacement term loans bearing interest at a variable rate equal to an adjusted term Secured Overnight Financing Rate ("SOFR"), plus a reduced margin of 1.50% per annum, payable quarterly; (ii) extended the scheduled maturity from October 2027 to October 2028; (iii) reduced the principal amortization payments from 20% to 1% per year, payable quarterly; and (iv) added a prepayment premium of 1.00% payable in connection with a Repricing Event (as defined in the amended SkyMiles Credit Facility) occurring within six months following September 30, 2025. 
+In January 2026, we entered into a $1.3 billion term loan issued by a group of lenders due December 2026. The proceeds of the term loan were used to repay $957 million of the PSP loans due 2031 and for general corporate purposes.
+In February 2025, Moody's credit rating agency upgraded its rating for Delta to Baa2, an investment grade rating. In the September 2025 quarter, Fitch Ratings upgraded its outlook for Delta to Positive from Stable. In January 2026, S&P Global upgraded its outlook for Delta to Positive from Stable.
+The principal amount of our debt and finance leases was $14.1 billion at December 31, 2025.
+Future Debt Obligations.
+ As described further in Note 6 of the Notes to the Consolidated Financial Statements, as of December 31, 2025, scheduled maturities of our debt in 2026 are $1.4 billion, with maturities from 2027 through 2030 ranging between $600 million and $3.5 billion annually. As of December 31, 2025, scheduled maturities after 2030 aggregate to $4.8 billion. In addition, we are obligated to make periodic interest payments at fixed and variable rates, depending on the terms of the applicable debt agreements. Based on applicable interest rates and scheduled debt maturities as of December 31, 2025, these interest obligations total approximately $2.4 billion, decreasing on an annual basis from approximately $500 million in 2026 to $200 million in 2030.
+Finance Lease Obligations. 
+As described further in Note 7 of the Notes to the Consolidated Financial Statements, as of December 31, 2025 we had a total of $870 million of minimum finance lease obligations. These minimum lease payments are generally decreasing on an annual basis from approximately $300 million in 2026 to $100 million in 2030.
+Capital Returns to Shareholders. 
+During 2025, we continued our quarterly dividend program with $0.15 per share payments in the March 2025 and June 2025 quarters and $0.1875 per share payments in the September 2025 and December 2025 quarters. Total dividend payments during the year ended December 31, 2025 were $440 million.
+On February 4, 2026, the Board of Directors approved and we will pay a quarterly dividend of $0.1875 per share on March 19, 2026 to shareholders of record as of February 26, 2026.
+Undrawn Lines of Credit. 
+As of December 31, 2025 we had approximately $3.1 billion undrawn and available under our revolving credit facilities.
+Covenants. 
+We were in compliance with the covenants in our debt agreements at December 31, 2025. See Note 6 of the Notes to the Consolidated Financial Statements for more information on the covenants in our debt agreements.
+Delta Air Lines, Inc. | 2025 Form 10-K
+42
+Item 7. MD&A - Critical Accounting Estimates
+Critical Accounting Estimates
+Our critical accounting estimates are those estimates made in accordance with generally accepted accounting principles in the U.S. ("GAAP") that involve a significant level of estimation uncertainty and have had or are reasonably likely to have a material impact on our consolidated results of operations or financial condition. Accordingly, the actual results may differ materially from these estimates. For a discussion of our significant accounting policies, see Note 1 of the Notes to the Consolidated Financial Statements, unless otherwise noted below.
+Loyalty Program
+Our SkyMiles loyalty program generates customer loyalty by rewarding customers with incentives to travel on Delta. This program allows customers to earn miles by flying on Delta, Delta Connection carriers and other airlines that participate in the loyalty program. When traveling, customers earn miles primarily based on the passenger's loyalty program status, fare class and ticket price. Customers can also earn miles through participating companies. Miles are redeemable by customers for air travel on Delta and other participating airlines, access to Delta Sky Clubs, and other program awards. To facilitate transactions with participating companies, we sell miles to non-airline businesses and other airlines.
+The loyalty program includes two types of transactions that are considered revenue arrangements with multiple performance obligations (1) passenger ticket sales earning miles and (2) sale of miles to participating companies. 
+Passenger Ticket Sales Earning Miles.
+ Passenger ticket sales earning miles provide customers with (1) miles earned and (2) air transportation, which are each considered performance obligations. We value each performance obligation on a standalone basis. To value the miles earned, we consider the quantitative value a passenger receives by redeeming miles for a ticket rather than paying cash, which is referred to as equivalent ticket value ("ETV"). Our estimate of ETV is adjusted for miles that are not likely to be redeemed ("mileage breakage"). We use statistical models to estimate mileage breakage based on historical redemption patterns. A change in assumptions regarding the redemption activity for miles or the estimated fair value of miles expected to be redeemed could have a material impact on our revenue in the year in which the change occurs and in future years. We recognize mileage breakage proportionally during the period in which the remaining miles are actually redeemed.
+At December 31, 2025, the aggregate deferred revenue balance associated with the SkyMiles program was $9.3 billion. A hypothetical 10% change in the number of outstanding miles estimated to be redeemed would result in an impact of less than 1% of total operating revenue recognized for the year ended December 31, 2025.
+We defer revenue for the miles when earned and recognize loyalty travel awards in passenger revenue as the miles are redeemed and transportation is provided. We record the air transportation portion of the passenger ticket sales in air traffic liability and recognize passenger revenue when we provide transportation or if the ticket goes unused. A hypothetical 10% increase in our estimate of the ETV of a mile would have decreased total operating revenue by less than 1% for the year ended December 31, 2025, as a result of an increase in the amount of revenue deferred associated with the miles earned.
+Sale of Miles to Participating Companies.
+ Customers earn miles based on their spending with participating companies, such as credit card, car rental, ridesharing, retail, and hotel companies, with which we have marketing agreements to sell miles. Our contracts to sell miles under these marketing agreements have multiple performance obligations. Payments are typically due to us monthly based on the volume of miles sold during the period, and the initial terms of our marketing contracts are from one to thirteen years. During the years ended December 31, 2025, 2024 and 2023, total cash sales from marketing agreements related to our loyalty program were $8.0 billion, $7.4 billion and $6.9 billion, respectively, which are allocated to travel and other performance obligations, as discussed below.
+Our agreements with American Express provide for joint marketing, grant certain benefits to Delta-American Express co-branded credit card holders ("cardholders") and American Express Membership Rewards program participants, and allow American Express to market its services or products using our customer database. Cardholders earn miles for making purchases using co-branded cards, and certain cardholders may also receive baggage fee waivers, lounge access, priority boarding and other benefits while traveling on Delta. Additionally, participants in the American Express Membership Rewards program may exchange their points for miles under the loyalty program. We sell miles to American Express which are then provided to their customers under the co-brand credit card program and the Membership Rewards program.
+Delta Air Lines, Inc. | 2025 Form 10-K
+43
+Item 7. MD&A - Critical Accounting Estimates
+We account for marketing agreements, including those with American Express, by allocating the consideration to the individual products and services delivered. We allocate the value based on the relative selling prices of those products and services, which generally consist of award travel, baggage fee waivers, lounge access, priority boarding and the use of our brand. We determine our best estimate of the selling prices by using a discounted cash flow analysis using multiple inputs and assumptions, including (1) the expected number of miles awarded and number of miles redeemed, (2) ETV for the award travel obligation adjusted for mileage breakage, (3) published rates on our website for baggage fees, lounge access and priority boarding while traveling on Delta, (4) brand value (using estimated royalties generated from the use of our brand) and (5) volume discounts provided to certain partners.
+We defer the amount allocated to award travel as part of loyalty program deferred revenue and recognize loyalty travel awards in passenger revenue as the miles are redeemed and transportation is provided. Revenue allocated to services performed in conjunction with a passenger’s flight, such as baggage fee waivers, is recognized as travel-related services in passenger revenue when the related service is performed. Revenue allocated to lounge access is recognized as miscellaneous in other revenue as access is provided. Revenue allocated to the remaining performance obligations, primarily brand value, is recorded as loyalty program in other revenue as miles are delivered.
+The timing of mile redemptions can vary widely; however, the majority of new miles have historically been redeemed within two years of being earned. The loyalty program deferred revenue classified as a current liability represents our estimate of revenue expected to be recognized in the next twelve months based on projected redemptions, while the balance classified as a noncurrent liability represents our estimate of revenue expected to be recognized beyond twelve months.
+For additional information on our significant accounting policies related to the loyalty program, see Note 2 of the Notes to the Consolidated Financial Statements.
+Goodwill and Indefinite-Lived Intangible Assets
+We apply a fair value-based impairment test to the carrying value of goodwill and indefinite-lived intangible assets on an annual basis (as of October 1) and, if certain events or circumstances indicate that an impairment loss may have been incurred, on an interim basis. We assess the value of our goodwill and indefinite-lived assets under either a qualitative or quantitative approach. Under a qualitative approach, we consider various market factors, including certain of the key assumptions listed below. We analyze these factors to determine if events and circumstances have affected the fair value of goodwill and indefinite-lived intangible assets. If we determine that it is more likely than not that the asset may be impaired, we use the quantitative approach to assess the asset's fair value and the amount of the impairment. Under a quantitative approach, we calculate the fair value of the asset incorporating the key assumptions listed below into our calculation.
+When we evaluate goodwill for impairment using a quantitative approach, we estimate the fair value of the reporting unit by considering both comparable public company multiples (a market approach) and projected discounted future cash flows (an income approach). When we perform a quantitative impairment assessment of our indefinite-lived intangible assets, fair value is estimated based on (1) recent market transactions, where available, (2) the royalty method for the Delta tradename (which assumes hypothetical royalties generated from using our tradename) or (3) projected discounted future cash flows (an income approach).
+Key Assumptions.
+ The key assumptions in our impairment tests include (1) forecasted revenues, expenses and cash flows, (2) current discount rates, (3) observable market transactions and (4) anticipated changes to the regulatory environment (e.g., changes in slot access and/or availability, additional Open Skies agreements or changes to antitrust approvals). These assumptions are consistent with those that hypothetical market participants would use. Because we are required to make estimates and assumptions when evaluating goodwill and indefinite-lived intangible assets for impairment, actual transaction amounts may differ materially from these estimates. In addition, when performing a qualitative valuation, we consider the amount by which the intangible assets' fair values exceeded their respective carrying values in the most recent fair value measurements calculated using a quantitative approach.
+Changes in certain events and circumstances could result in impairment or a change from indefinite-lived to definite-lived. Factors which could cause impairment include, but are not limited to (1) negative trends in our market capitalization, (2) reduced profitability resulting from lower passenger mile yields or higher input costs, (3) lower passenger demand as a result of weakened U.S. and global economies or other factors, (4) prolonged interruption to our operations, (5) changes to the regulatory environment, (6) operational or performance changes by other airlines and (7) strategic changes to our operations leading to diminished utilization of the intangible assets.
+Goodwill
+. Our goodwill balance, which is related to the airline segment, was $9.8 billion at December 31, 2025.
+Delta Air Lines, Inc. | 2025 Form 10-K
+44
+Item 7. MD&A - Critical Accounting Estimates
+Identifiable Intangible Assets. 
+Our identifiable intangible assets, which are related to the airline segment, had a net carrying amount of $6.0 billion at December 31, 2025, of which $5.9 billion related to indefinite-lived intangible assets. Indefinite-lived assets are not amortized and consist of routes, slots, the Delta tradename and assets related to alliances and collaborative arrangements. Definite-lived assets consist primarily of marketing and maintenance service agreements.
+During the December 2025 quarter, we performed qualitative assessments of goodwill and indefinite-lived intangible assets, including applicable factors noted above, and determined that there was no indication that the assets were impaired. Our qualitative assessments include analyses and weighting of all relevant factors that impact the fair value of our goodwill and indefinite-lived intangible assets. We previously performed quantitative assessments in the December 2023 quarter, noting no impairment of goodwill or indefinite-lived intangible assets.
+For additional information on our goodwill and indefinite-lived intangible assets' significant accounting policies and the related fair values and book values, see Note 5 of the Notes to the Consolidated Financial Statements.
+Defined Benefit Pension Plans
+We sponsor defined benefit pension plans for eligible employees and retirees. These plans are generally closed to new entrants and frozen for future benefit accruals. As of December 31, 2025, the funded status for these plans recorded on our balance sheets was $2.3 billion, which is the net of our benefit obligation of $15.0 billion and plan assets of $17.3 billion. We had minimum funding requirements of $70 million during 2025 and estimate that there will be approximately $5 million of minimum funding requirements under these plans in 2026. The most critical assumptions impacting our defined benefit pension plan obligations, plan assets and net periodic cost/(benefit) are the discount rate, the expected long-term rate of return on plan assets and life expectancy of plan participants.
+Discount Rate. 
+We determine our discount rate on our measurement date primarily by reference to annualized rates earned on high-quality fixed income investments and yield-to-maturity analyses specific to our estimated future benefit payments for each plan. We used a weighted average discount rate to value the obligations of 5.50% and 5.71% at December 31, 2025 and 2024, respectively.
+Expected Long-Term Rate of Return. 
+Our expected long-term rate of return on plan assets is based primarily on plan-specific investment studies using historical market return and volatility data. Modest excess return expectations versus some public market indices are incorporated into the return projections based on the actively managed structure of the investment programs and their records of achieving such returns historically. We also expect to receive a premium for investing in less liquid private markets. We review our rate of return on plan assets assumptions annually.
+The investment strategy for our defined benefit pension plan assets is to earn a long-term return that meets or exceeds our annualized return target while taking an acceptable level of risk and maintaining sufficient liquidity to pay current benefits and other cash obligations of the plan. This is achieved by investing in a globally diversified mix of public and private equity, fixed income, real assets, hedge funds and other assets and instruments. The expected long-term rate of return on our defined benefit pension plan assets is 6.96%.
+The impact of a 0.50% change in weighted average discount rate and 1.00% change in expected long-term rate of return on assets are shown in the table below:
+Benefit plan effects of change in assumptions used
+Change in Assumption
+Effect on 2026
+Pension Cost/(Benefit)
+Effect on Accrued Pension Liability at December 31, 2025
+0.50% decrease in weighted average discount rate
+$
+14 
+ million
+$
+673 
+ million
+0.50% increase in weighted average discount rate
+$
+(13)
+ million
+$
+(622)
+ million
+1.00% decrease in expected long-term rate of return on assets
+$
+168 
+ million
+$
+— 
+1.00% increase in expected long-term rate of return on assets
+$
+(168)
+ million
+$
+— 
+Life Expectancy
+. Changes in life expectancy may significantly impact our benefit obligations and future net periodic cost. Each year we review information published by the Society of Actuaries and other publicly available information to develop our best estimate of life expectancy for purposes of measuring pension and other postretirement and postemployment benefit obligations.
+Delta Air Lines, Inc. | 2025 Form 10-K
+45
+Item 7. MD&A - Critical Accounting Estimates
+Funding. 
+Our funding obligations for qualified defined benefit plans are governed by ERISA and any additional applicable legislation. Under current legislation, any required funding would be amortized over a rolling 15-year period and calculated using a discount rate of no less than 4.75% through 2030.
+While recent legislation makes our funding obligations for these plans more predictable, factors outside our control continue to have an impact on the funding requirements. Estimates of future funding requirements are based on various assumptions and can vary materially from actual funding requirements. Assumptions include, among other things, the actual and projected market performance of assets, statutory requirements and demographic data for participants.
+Investments Valued at Net Asset Value ("NAV") Per Share.
+ On an annual basis we assess the potential for adjustments to the fair value of all investments. These investments valued using NAV as a practical expedient are typically valued on a monthly or quarterly basis by third-party administrators, valuation agents or fund managers with an annual audit performed by an independent third-party, but certain of these investments have a lag in the availability of data. We solicit valuation updates from the investment fund managers and use their information and corroborating data from public markets to determine any needed fair value adjustments.
+For additional information on our significant accounting policies related to defined benefit pension plans, see Note 8 of the Notes to the Consolidated Financial Statements.
+Recent Accounting Standards
+Recently Adopted Standards
+Income Taxes.
+ In December 2023, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") No. 2023-09, "Income Taxes (Topic 740): Improvements to Income Tax Disclosures." This standard enhances disclosures related to income taxes, including the rate reconciliation and information on income taxes paid. We adopted this standard effective January 1, 2025. See Note 10 of the Notes to the Consolidated Financial Statements for our income tax disclosures.
+Standards Effective in Future Years
+Disaggregation of Income Statement Expenses.
+ In November 2024, the FASB issued ASU No. 2024-03, "Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40)." This standard requires disclosure of specific information about costs and expenses and becomes effective January 1, 2027. We are assessing the impact of this ASU and, upon adoption, may be required to include certain additional disclosures in the footnotes to our Consolidated Financial Statements.
+Internal Use Software.
+ In September 2025, the FASB issued ASU No. 2025-06, "Targeted Improvements to the Accounting for Internal-Use Software." This standard is intended to improve the operability and application of guidance related to capitalized software development costs and becomes effective January 1, 2028. We are assessing the potential impact this ASU may have on our Consolidated Financial Statements upon adoption.
+Interim Reporting. 
+In December 2025, the FASB issued ASU No. 2025-11, "Interim Reporting (Topic 270)." This standard clarifies interim reporting guidance, develops a list of disclosures required by other Topics and intends to enhance consistency in interim reporting across entities. This standard becomes effective January 1, 2028 with early adoption permitted. We do not expect this standard to have a material impact on our interim reporting.
+Delta Air Lines, Inc. | 2025 Form 10-K
+46
+Item 7. MD&A - Supplemental Information
+Supplemental Information
+We sometimes use information ("non-GAAP financial measures") that is derived from the Consolidated Financial Statements, but that is not presented in accordance with GAAP. Under the U.S. Securities and Exchange Commission rules, non-GAAP financial measures may be considered in addition to results prepared in accordance with GAAP, but should not be considered a substitute for or superior to GAAP results.
+Included below are reconciliations of non-GAAP measures used within this Form 10-K to the most directly comparable GAAP financial measures. Reconciliations below may not calculate exactly due to rounding. These reconciliations include certain adjustments to GAAP measures to provide comparability between the reported periods, if applicable, as indicated below:
+•
+MTM adjustments and settlements on hedges. 
+Mark-to-market ("MTM") adjustments are defined as fair value changes recorded in periods other than the settlement period. Such fair value changes are not necessarily indicative of the actual settlement value of the underlying hedge in the contract settlement period, and therefore we remove this impact to allow investors to better understand and analyze our core performance. Settlements represent cash received or paid on hedge contracts settled during the applicable period.
+•
+Third-party refinery sales. 
+Refinery sales to third parties, and related expenses, are not related to our airline segment. Excluding these sales therefore provides a more meaningful comparison of our airline operations to the rest of the airline industry.
+•
+Aircraft fuel and related taxes. 
+The volatility in fuel prices impacts the comparability of year-over-year financial performance. The adjustment for aircraft fuel and related taxes allows investors to better understand and analyze our non-fuel costs and year-over-year financial performance.
+•
+Profit sharing.
+ We adjust for profit sharing because this adjustment allows investors to better understand and analyze our recurring cost performance and provides a more meaningful comparison of our core operating costs to the airline industry.
+Operating income, adjusted reconciliation
+Year Ended December 31,
+(in millions)
+2025
+2024
+Operating income
+$
+5,822 
+$
+5,995 
+Adjusted for:
+MTM adjustments and settlements on hedges
+(17)
+21 
+Operating income, adjusted
+$
+5,804 
+$
+6,016 
+Total revenue, adjusted reconciliation
+Year Ended December 31,
+(in millions)
+2025
+2024
+Total revenue
+$
+63,364 
+$
+61,643 
+Adjusted for:
+Third-party refinery sales
+(5,077)
+(4,642)
+Total revenue, adjusted
+$
+58,287 
+$
+57,001 
+Operating expense, adjusted reconciliation
+Year Ended December 31,
+(in millions)
+2025
+2024
+Operating expense
+$
+57,542 
+$
+55,648 
+Adjusted for:
+Third-party refinery sales
+(5,077)
+(4,642)
+MTM adjustments and settlements on hedges
+17 
+(21)
+Operating expense, adjusted
+$
+52,483 
+$
+50,985 
+Delta Air Lines, Inc. | 2025 Form 10-K
+47
+Item 7. MD&A - Supplemental Information
+Fuel expense, adjusted and Average fuel price per gallon, adjusted reconciliations
+Average Price Per Gallon 
+Year Ended December 31,
+Year Ended December 31,
+(in millions, except per gallon data) 
+2025
+2024
+2025
+2024
+Total fuel expense 
+$
+9,819 
+$
+10,566 
+$
+2.30 
+$
+2.57 
+Adjusted for:
+MTM adjustments and settlements on hedges
+17 
+(21)
+— 
+(0.01)
+Total fuel expense, adjusted
+$
+9,836 
+$
+10,544 
+$
+2.30 
+$
+2.56 
+TRASM, adjusted reconciliation
+Year Ended December 31,
+(in cents)
+2025
+2024
+TRASM
+21.26 
+¢
+21.37 
+¢
+Adjusted for:
+Third-party refinery sales
+(1.70)
+(1.61)
+TRASM, adjusted
+19.56 
+¢
+19.76 
+¢
+CASM-Ex reconciliation
+Year Ended December 31,
+(in cents)
+2025
+2024
+CASM
+19.31 
+¢
+19.30 
+¢
+Adjusted for:
+Aircraft fuel and related taxes
+(3.29)
+(3.66)
+Third-party refinery sales
+(1.70)
+(1.61)
+Profit sharing
+(0.45)
+(0.48)
+CASM-Ex
+13.86 
+¢
+13.54 
+¢
+Delta Air Lines, Inc. | 2025 Form 10-K
+48
+Item 7. MD&A - Supplemental Information
+Free Cash Flow
+The following table shows a reconciliation of net cash provided by operating activities (a GAAP measure) to free cash flow (a non-GAAP financial measure). We present free cash flow because management believes this metric is helpful to investors to evaluate the company's ability to generate cash that is available for use for debt service or general corporate initiatives. Adjustments include:
+•
+Pension plan contributions.
+ Cash flows related to pension funding are included in our GAAP operating activities. We adjust to exclude these contributions to allow investors to understand the cash flows related to our core operations.
+•
+Net cash flows related to certain airport construction projects and other.
+ Cash flows related to certain airport construction projects are included in our GAAP operating activities and capital expenditures. We have adjusted for these items, which were primarily funded by cash restricted for airport construction, to provide investors a better understanding of the company's free cash flow and capital expenditures that are core to our operations.
+•
+Strategic investments and related. 
+Certain cash flows related to our investments in and related transactions with other airlines and associated companies are included in our GAAP investing activities. We adjust for this activity because it provides a more meaningful comparison to our airline industry peers.
+Free cash flow reconciliation
+Year Ended December 31,
+(in millions)
+2025
+Net cash provided by operating activities
+$
+8,342 
+Net cash used in investing activities
+(4,186)
+Adjusted for:
+Pension plan contributions
+70 
+Net cash flows related to certain airport construction projects and other
+141 
+Strategic investments and related
+276 
+Free cash flow
+$
+4,643 
+Delta Air Lines, Inc. | 2025 Form 10-K
+49
+Item 7. MD&A - Glossary of Defined Terms
+Glossary of Defined Terms
+ASM 
+- Available Seat Mile. A measure of capacity. ASMs equal the total number of seats available for transporting passengers during a reporting period multiplied by the total number of miles flown during that period.
+CASM 
+- (Total Operating) Cost per Available Seat Mile. The amount of operating cost incurred per ASM during a reporting period. CASM is also referred to as "unit cost."
+CASM-Ex 
+- The amount of operating cost incurred per ASM during a reporting period, adjusted for the items shown above in "Supplemental Information."
+Free Cash Flow
+ - A measure of net cash from operating and investing activities, adjusted for items shown above in "Supplemental Information." Represents the cash available for use for debt service or general corporate initiatives.
+Liquidity
+ - Includes our cash and cash-like assets, including cash equivalents and short-term investments, as well as aggregate principal amount committed and available to be drawn under our revolving credit facilities.
+Load Factor 
+- A measure of utilized available seating capacity calculated by dividing RPMs by ASMs for a reporting period.
+Passenger Mile Yield or Yield 
+- The amount of passenger revenue earned per RPM during a reporting period.
+PRASM 
+- Passenger Revenue per ASM. The amount of passenger revenue earned per ASM during a reporting period. PRASM is also referred to as "passenger unit revenue."
+RPM 
+- Revenue Passenger Mile. One revenue-paying passenger transported one mile is one RPM. RPMs equal the number of revenue passengers during a reporting period multiplied by the number of miles flown by those passengers during that period. RPMs are also referred to as "traffic."
+TRASM 
+- Total Revenue per ASM. The amount of total revenue earned per ASM during a reporting period.
+TRASM, adjusted
+ - The amount of total revenue earned per ASM during a reporting period, adjusted for the item shown above in "Supplemental Information."
+Delta Air Lines, Inc. | 2025 Form 10-K
+50

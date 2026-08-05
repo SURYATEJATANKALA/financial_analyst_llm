@@ -20,13 +20,8 @@
     "severity_language": "explicit"
   },
   {
-    "category": "Foreign Exchange / Currency",
-    "excerpt": "Products gross margin and Products gross margin percentage increased during 2024 compared to 2023 due to cost savings, partially offset by a different Products mix and the weakness in foreign currencies relative to the U.S. dollar.",
-    "severity_language": "explicit"
-  },
-  {
     "category": "Regulatory / Legal",
-    "excerpt": "The Company\u2019s effective tax rate for 2024 was higher compared to 2023 due primarily to a one-time income tax charge of $10.2 billion, net, related to the State Aid Decision.",
+    "excerpt": "The Company\u2019s effective tax rate for 2024 was higher than the statutory federal income tax rate due primarily to a one-time income tax charge of $10.2 billion, net, related to the State Aid Decision.",
     "severity_language": "explicit"
   },
   {
@@ -38,5 +33,10 @@
     "category": "Litigation",
     "excerpt": "The Company is subject to various legal proceedings and claims that arise in the ordinary course of business, the outcomes of which are inherently uncertain.",
     "severity_language": "hedged"
+  },
+  {
+    "category": "Labor / Talent",
+    "excerpt": "The growth in R&D expense during 2024 compared to 2023 was driven primarily by increases in headcount-related expenses.",
+    "severity_language": "explicit"
   }
 ]

@@ -1,0 +1,122 @@
+{
+  "results": [
+    {
+      "company": "COST",
+      "period": "FY2025",
+      "metric": "Total Revenue",
+      "extracted_value": 275235,
+      "extracted_unit": "millions",
+      "true_value": 275235.0,
+      "true_unit": "millions",
+      "normalized_extracted": 275235000000,
+      "normalized_true": 275235000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "COST",
+      "period": "FY2025",
+      "metric": "Net Income",
+      "extracted_value": 8099,
+      "extracted_unit": "millions",
+      "true_value": 8099.0,
+      "true_unit": "millions",
+      "normalized_extracted": 8099000000,
+      "normalized_true": 8099000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "COST",
+      "period": "FY2025",
+      "metric": "Diluted EPS",
+      "extracted_value": 18.21,
+      "extracted_unit": "actual",
+      "true_value": 18.21,
+      "true_unit": "actual",
+      "normalized_extracted": 18.21,
+      "normalized_true": 18.21,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "COST",
+      "period": "FY2025",
+      "metric": "Gross Profit",
+      "extracted_value": null,
+      "extracted_unit": null,
+      "true_value": NaN,
+      "true_unit": NaN,
+      "normalized_extracted": null,
+      "normalized_true": null,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "COST",
+      "period": "FY2025",
+      "metric": "Operating Income",
+      "extracted_value": 10383,
+      "extracted_unit": "millions",
+      "true_value": 10383.0,
+      "true_unit": "millions",
+      "normalized_extracted": 10383000000,
+      "normalized_true": 10383000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "COST",
+      "period": "FY2025",
+      "metric": "Total Assets",
+      "extracted_value": 77099,
+      "extracted_unit": "millions",
+      "true_value": 77099.0,
+      "true_unit": "millions",
+      "normalized_extracted": 77099000000,
+      "normalized_true": 77099000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "COST",
+      "period": "FY2025",
+      "metric": "Total Liabilities",
+      "extracted_value": 47935,
+      "extracted_unit": "millions",
+      "true_value": 47935.0,
+      "true_unit": "millions",
+      "normalized_extracted": 47935000000,
+      "normalized_true": 47935000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "COST",
+      "period": "FY2025",
+      "metric": "Operating Cash Flow",
+      "extracted_value": 13335,
+      "extracted_unit": "millions",
+      "true_value": 13335.0,
+      "true_unit": "millions",
+      "normalized_extracted": 13335000000,
+      "normalized_true": 13335000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    }
+  ],
+  "summary": {
+    "total_metrics_evaluated": 8,
+    "exact_matches": 8,
+    "accuracy_pct": 100.0,
+    "failures": []
+  }
+}

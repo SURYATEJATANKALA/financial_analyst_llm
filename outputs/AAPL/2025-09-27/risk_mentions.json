@@ -1,0 +1,37 @@
+[
+  {
+    "category": "Macroeconomic / Market Conditions",
+    "excerpt": "Macroeconomic conditions, including inflation, interest rates and currency fluctuations, have directly and indirectly impacted, and could in the future materially impact, the Company\u2019s results of operations and financial condition.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "Beginning in the second quarter of 2025, new U.S. Tariffs were announced, including additional tariffs on imports from China, India, Japan, South Korea, Taiwan, Vietnam and the EU, among others.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Supply Chain",
+    "excerpt": "Tariffs and other measures that are applied to the Company\u2019s products or their components can have a material adverse impact on the Company\u2019s business, results of operations and financial condition, including impacting the Company\u2019s supply chain.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Foreign Exchange / Currency",
+    "excerpt": "The weakness in foreign currencies relative to the U.S. dollar had an unfavorable year-over-year impact on Americas net sales during 2025.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Litigation",
+    "excerpt": "The Company is subject to various legal proceedings and claims that arise in the ordinary course of business, the outcomes of which are inherently uncertain.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "Resolution of legal matters in a manner inconsistent with management\u2019s expectations could have a material impact on the Company\u2019s financial condition and operating results.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "The evaluation of the Company\u2019s uncertain tax positions involves significant judgment in the interpretation and application of GAAP and complex domestic and international tax laws.",
+    "severity_language": "hedged"
+  }
+]

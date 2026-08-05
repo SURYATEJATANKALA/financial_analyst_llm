@@ -71,15 +71,21 @@ def run(ticker: str, form: str, period_end: str, on_step=print) -> Path | None:
     (out_dir / "financials_raw.txt").write_text(sections.financials_text, encoding="utf-8")
 
     on_step("[3/4] Extracting financial metrics via GPT-4o...")
-    metrics = extract_metrics.extract(sections.financials_text)
+    metrics, metrics_meta = extract_metrics.extract(sections.financials_text)
     extract_metrics.save_results(metrics, out_dir / "extracted_metrics.json")
+    extract_metrics.save_meta(metrics_meta, out_dir / "extraction_meta.json")
+    on_step(f"  -> {metrics_meta.model}: {metrics_meta.total_tokens} tokens, "
+            f"{metrics_meta.latency_seconds}s, ~${metrics_meta.estimated_cost_usd}")
     unverified = [m for m in metrics if m.value is not None and not m.verified_in_source]
     if unverified:
         on_step(f"  ⚠ {len(unverified)} metric(s) failed the snippet-verification check — review before trusting.")
 
     on_step("[4/4] Extracting risk signals from MD&A via GPT-4o...")
-    risks = extract_risks.extract(sections.mdna_text)
+    risks, risks_meta = extract_risks.extract(sections.mdna_text)
     extract_risks.save_results(risks, out_dir / "risk_mentions.json")
+    extract_risks.save_meta(risks_meta, out_dir / "risk_extraction_meta.json")
+    on_step(f"  -> {risks_meta.model}: {risks_meta.total_tokens} tokens, "
+            f"{risks_meta.latency_seconds}s, ~${risks_meta.estimated_cost_usd}")
 
     on_step(f"Done. Outputs written to {out_dir}")
     return out_dir

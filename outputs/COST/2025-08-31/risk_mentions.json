@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Macroeconomic / Market Conditions",
+    "excerpt": "Sales comparisons can also be particularly influenced by certain factors that are beyond our control: fluctuations in currency exchange rates... and inflation or deflation in the cost of gasoline.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Competition",
+    "excerpt": "Net sales growth and gross margins are also impacted by competition, which is vigorous and widespread, across a wide range of global, national and regional wholesalers and retailers.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "Government actions in various countries relating to tariffs affect the costs of some of our merchandise.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Foreign Exchange / Currency",
+    "excerpt": "Changes in foreign currencies relative to the U.S. dollar negatively impacted net sales by approximately $1,943, or 78 basis points.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Labor / Talent",
+    "excerpt": "Achieving our longer-term objectives... requires maintaining compensation levels that are better than the industry average for much of our workforce.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Foreign Exchange / Currency",
+    "excerpt": "Foreign-currency transaction gains, net, include revaluation or settlement of monetary assets and liabilities, and mark-to-market adjustments for forward foreign-exchange contracts.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Macroeconomic / Market Conditions",
+    "excerpt": "Our paid-membership growth rate may be adversely impacted when warehouse openings occur in existing markets as compared to new markets.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Macroeconomic / Market Conditions",
+    "excerpt": "Our financial performance depends heavily on controlling costs. Some significant costs are partially outside our control, particularly health care and utility expenses.",
+    "severity_language": "explicit"
+  }
+]

@@ -59,7 +59,7 @@ TITLE_WINDOW = 250
 SECTION_BOUNDARIES = {
     "10-K": {
         "mdna": {
-            "start": [(r"^item\s*7[^a]", ["discussion and analysis of financial condition"])],
+            "start": [(r"^item\s*7[^a]", [("discussion and analysis", "financial condition")])],
             "end": [
                 (r"^item\s*7a", ["quantitative and qualitative disclosures about market risk"]),
                 (r"^item\s*8", ["financial statements and supplementary data"]),
@@ -72,12 +72,12 @@ SECTION_BOUNDARIES = {
     },
     "10-Q": {
         "mdna": {
-            "start": [(r"^item\s*2[^0-9]", ["discussion and analysis of financial condition"])],
+            "start": [(r"^item\s*2[^0-9]", [("discussion and analysis", "financial condition")])],
             "end": [(r"^item\s*3", ["quantitative and qualitative disclosures about market risk"])],
         },
         "financials": {
             "start": [(r"^item\s*1[^0-9]", ["financial statements"])],
-            "end": [(r"^item\s*2[^0-9]", ["discussion and analysis of financial condition"])],
+            "end": [(r"^item\s*2[^0-9]", [("discussion and analysis", "financial condition")])],
         },
     },
 }
@@ -107,13 +107,28 @@ def _normalize_ws(s: str) -> str:
     return re.sub(r"\s+", "", s)
 
 
-def _find_validated_matches(text_lower: str, alternatives: list[tuple[str, list[str]]]) -> list[re.Match]:
+def _find_validated_matches(text_lower: str, alternatives: list[tuple[str, list]]) -> list[re.Match]:
+    """Each hint in `title_hints` is either a single phrase (string) or a
+    tuple/list of fragments that must ALL appear somewhere in the window
+    (order-independent) for that hint to count as satisfied. A match is
+    valid if ANY hint is satisfied. The tuple form exists because filers
+    don't agree on word order for standard-sounding titles — Apple/
+    Microsoft write "...discussion and analysis of financial condition
+    and results of operations", Johnson & Johnson writes "...discussion
+    and analysis of results of operations and financial condition". A
+    single contiguous phrase requirement rejects one or the other; two
+    independent fragments ("discussion and analysis", "financial
+    condition") that must both appear, regardless of order, survive both.
+    """
     matches = []
     for pattern, title_hints in alternatives:
-        normalized_hints = [_normalize_ws(h) for h in title_hints]
+        normalized_hint_groups = []
+        for hint in title_hints:
+            fragments = (hint,) if isinstance(hint, str) else tuple(hint)
+            normalized_hint_groups.append(tuple(_normalize_ws(f) for f in fragments))
         for m in re.finditer(pattern, text_lower, re.MULTILINE):
             window = _normalize_ws(text_lower[m.start(): m.start() + TITLE_WINDOW])
-            if any(hint in window for hint in normalized_hints):
+            if any(all(frag in window for frag in group) for group in normalized_hint_groups):
                 matches.append(m)
     matches.sort(key=lambda m: m.start())
     return matches

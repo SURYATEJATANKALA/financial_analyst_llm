@@ -1,0 +1,27 @@
+[
+  {
+    "category": "Macroeconomic / Market Conditions",
+    "excerpt": "Etsy marketplace GMS declined year-over-year, reflecting a dynamic macroeconomic environment, including ongoing pressure on consumer discretionary spending and evolving buyer behavior.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "There is considerable uncertainty regarding the evolving tariff landscape, how recent changes to de minimis exemptions may play out, and the impact higher tariffs might have on consumer demand.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Foreign Exchange / Currency",
+    "excerpt": "Changes in exchange rates negatively impacted our non-functional currency cash and intercompany balances, which resulted in a loss for 2025 as compared to a gain for 2024.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Litigation",
+    "excerpt": "We have uncertain tax positions of $55.7 million and non-income tax related contingency reserves of $32.2 million on our Consolidated Balance Sheet as of December 31, 2025.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Labor / Talent",
+    "excerpt": "Product development expenses increased primarily due to increased employee compensation-related expenses.",
+    "severity_language": "explicit"
+  }
+]

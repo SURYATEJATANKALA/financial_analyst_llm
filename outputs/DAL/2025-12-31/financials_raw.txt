@@ -1,0 +1,5119 @@
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+Page
+Report of Independent Registered Public Accounting Firm
+ (PCAOB ID: 
+42
+)
+53
+Consolidated Balance Sheets - December 31, 20
+2
+5
+ and 20
+24
+55
+Consolidated Statements of Operations for the years ended December 31, 20
+2
+5
+, 20
+2
+4
+ and 20
+23
+56
+Consolidated Statements of Comprehensive Income for the years ended December 31, 
+20
+2
+5
+, 20
+2
+4
+ and 20
+23
+57
+Consolidated Statements of Cash Flows for the years ended December 31, 
+20
+2
+5
+, 20
+2
+4
+ and 20
+23
+58
+Consolidated Statements of Stockholders' Equity for the years ended December 31, 
+20
+2
+5
+, 20
+2
+4
+ and 20
+23
+59
+Notes to the Consolidated Financial Statements
+60
+Note 1 - Summary of Significant Accounting Policies
+60
+Note 
+2
+ - Revenue Recognition
+63
+Note 
+3
+ - Fair Value Measurements
+67
+Note 
+4
+ - Investments
+68
+Note 
+5
+ -
+ Goodwill and
+ Intangible Assets
+69
+Note 6 - Debt
+71
+Note 
+7
+ - Leases
+73
+Note 
+8
+ - Employee Benefit Plans
+76
+Note 
+9
+ - Commitments and Contingencies
+81
+Note 
+10
+ - Income Taxes
+84
+Note 1
+1
+ - Equity and Equity Compensation
+87
+Note 1
+2
+ - Earnings Per Share
+89
+Note 1
+3
+ - Accumulated Other Comprehensive Loss
+89
+Note 1
+4
+ - Segments
+90
+Delta Air Lines, Inc. | 2025 Form 10-K
+52
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+To the Stockholders and the Board of Directors of Delta Air Lines, Inc.
+Opinion on the Financial Statements
+We have audited the accompanying consolidated balance sheets of Delta Air Lines, Inc. (the Company) as of December 31, 2025 and 2024, the related consolidated statements of operations, comprehensive income, cash flows, and stockholders' equity for each of the three years in the period ended December 31, 2025, and the related notes (collectively referred to as the 
+"
+consolidated financial statements
+"
+). In our opinion, the consolidated financial statements present fairly, in all material respects, the financial position of the Company at December 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended December 31, 2025, in conformity with U.S. generally accepted accounting principles.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of December 31, 2025, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework), and our report dated February 10, 2026 expressed an unqualified opinion thereon.
+Basis for Opinion
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company’s financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matters
+The critical audit matters communicated below are matters arising from the current period audit of the financial statements that were communicated or required to be communicated to the audit committee and that: (1) relate to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matters below, providing separate opinions on the critical audit matters or on the accounts or disclosures to which they relate.
+Employee Benefit Plans - Net Asset Value Per Share (NAV) Asset Valuation
+Description of the Matter
+At December 31, 2025, the fair value of the Company’s benefit plan assets measured at fair value on a recurring basis totaled $17.3 billion, of which $13.0 billion do not have a readily determinable fair value and are measured at NAV as a practical expedient. Management determines the fair value of NAV assets by applying the methodologies described in Note 8 to the consolidated financial statements.
+Auditing the Company’s estimates of the fair value of its NAV assets required significant judgment, primarily resulting from the lag in the availability of data provided by the investment fund managers. 
+Delta Air Lines, Inc. | 2025 Form 10-K
+53
+How We Addressed the Matter in Our Audit
+We obtained an understanding, evaluated the design and tested the operating effectiveness of controls over the Company’s accounting for the fair value measurement of its NAV assets, including controls over management’s assessment of the significant inputs and estimates affecting the fair value measurement.
+To test the fair value of plan assets measured at NAV, our audit procedures included, among others, evaluating the valuation methodologies used by the Company and comparing significant inputs and underlying data used in the Company's valuations to third-party source documentation. Additionally, we performed sensitivity analyses to evaluate the changes to the Company’s net periodic benefit that would result from changes in the fair value measurement, compared the Company’s asset performance results to applicable third-party benchmarks, and assessed management’s historical accuracy of estimating fair value by performing retrospective review procedures comparing the Company’s estimates of fair value as of the prior year end to the fair value NAV in the investment’s audited financial statements made available during the current year.
+/s/ 
+Ernst & Young LLP
+We have served as the Company's auditor since 2006.
+Atlanta, Georgia
+February 10, 2026
+Delta Air Lines, Inc. | 2025 Form 10-K
+54
+Financial Statements
+DELTA AIR LINES, INC.
+Consolidated Balance Sheets
+December 31,
+(in millions, except share data)
+2025
+2024
+ASSETS
+Current Assets:
+Cash and cash equivalents
+$
+4,310
+ 
+$
+3,069
+ 
+Accounts receivable, net of an allowance for uncollectible accounts of $
+13
+ and $
+18
+2,850
+ 
+3,224
+ 
+Fuel, expendable parts and supplies inventories, net of an allowance for obsolescence of $
+124
+ and $
+120
+ 
+1,601
+ 
+1,428
+ 
+Prepaid expenses and other
+2,207
+ 
+2,123
+ 
+Total current assets
+10,968
+ 
+9,844
+ 
+Noncurrent Assets:
+Property and equipment, net of accumulated depreciation and amortization of $
+24,719
+ and $
+23,228
+ 
+39,743
+ 
+37,595
+ 
+Operating lease right-of-use assets
+6,244
+ 
+6,644
+ 
+Goodwill
+9,753
+ 
+9,753
+ 
+Identifiable intangibles, net of accumulated amortization of $
+928
+ and $
+919
+5,966
+ 
+5,975
+ 
+Equity investments
+4,222
+ 
+2,846
+ 
+Other noncurrent assets
+4,421
+ 
+2,715
+ 
+Total noncurrent assets
+70,349
+ 
+65,528
+ 
+Total assets
+$
+81,317
+ 
+$
+75,372
+ 
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities:
+Current maturities of debt and finance leases
+$
+1,605
+ 
+$
+2,175
+ 
+Current maturities of operating leases
+809
+ 
+763
+ 
+Air traffic liability
+7,157
+ 
+7,094
+ 
+Accounts payable
+5,226
+ 
+4,650
+ 
+Accrued salaries and related benefits
+4,906
+ 
+4,762
+ 
+Loyalty program deferred revenue
+4,876
+ 
+4,314
+ 
+Fuel card obligation
+1,100
+ 
+1,100
+ 
+Other accrued liabilities
+1,945
+ 
+1,812
+ 
+Total current liabilities
+27,624
+ 
+26,670
+ 
+Noncurrent Liabilities:
+Debt and finance leases
+12,507
+ 
+14,019
+ 
+Noncurrent operating leases
+5,353
+ 
+5,814
+ 
+Pension, postretirement and related benefits
+3,156
+ 
+3,144
+ 
+Loyalty program deferred revenue
+4,386
+ 
+4,512
+ 
+Deferred income taxes, net
+3,444
+ 
+2,176
+ 
+Other noncurrent liabilities
+3,994
+ 
+3,744
+ 
+Total noncurrent liabilities
+32,840
+ 
+33,409
+ 
+Commitments and Contingencies
+Stockholders' Equity:
+Common stock at $
+0.0001
+ par value; 
+1,500,000,000
+ shares authorized, 
+659,669,346
+ and 
+654,571,606
+ shares issued 
+—
+ 
+—
+ 
+Additional paid-in capital
+11,883
+ 
+11,740
+ 
+Retained earnings
+13,343
+ 
+8,783
+ 
+Accumulated other comprehensive loss
+(
+4,135
+)
+(
+4,979
+)
+Treasury stock, at cost, 
+6,498,109
+ and 
+8,098,971
+ shares
+(
+238
+)
+(
+251
+)
+Total stockholders' equity
+20,853
+ 
+15,293
+ 
+Total liabilities and stockholders' equity
+$
+81,317
+ 
+$
+75,372
+ 
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+Delta Air Lines, Inc. | 2025 Form 10-K
+55
+Financial Statements
+DELTA AIR LINES, INC.
+Consolidated Statements of Operations
+Year Ended December 31,
+(in millions, except per share data)
+2025
+2024
+2023
+Operating Revenue:
+Passenger
+$
+51,768
+ 
+$
+50,894
+ 
+$
+48,909
+ 
+Cargo
+900
+ 
+822
+ 
+723
+ 
+Other
+10,696
+ 
+9,927
+ 
+8,416
+ 
+Total operating revenue
+63,364
+ 
+61,643
+ 
+58,048
+ 
+Operating Expense:
+Salaries and related costs
+17,520
+ 
+16,161
+ 
+14,607
+ 
+Aircraft fuel and related taxes
+9,819
+ 
+10,566
+ 
+11,069
+ 
+Ancillary businesses and refinery
+5,987
+ 
+5,416
+ 
+4,172
+ 
+Contracted services
+4,617
+ 
+4,228
+ 
+4,041
+ 
+Landing fees and other rents
+3,564
+ 
+3,150
+ 
+2,563
+ 
+Regional carrier expense
+2,553
+ 
+2,328
+ 
+2,200
+ 
+Passenger commissions and other selling expenses
+2,485
+ 
+2,485
+ 
+2,334
+ 
+Depreciation and amortization
+2,443
+ 
+2,513
+ 
+2,341
+ 
+Aircraft maintenance materials and outside repairs
+2,432
+ 
+2,616
+ 
+2,432
+ 
+Passenger service
+1,855
+ 
+1,788
+ 
+1,750
+ 
+Profit sharing
+1,337
+ 
+1,389
+ 
+1,383
+ 
+Aircraft rent
+542
+ 
+548
+ 
+532
+ 
+Pilot agreement and related expenses
+—
+ 
+—
+ 
+864
+ 
+Other
+2,388
+ 
+2,460
+ 
+2,239
+ 
+Total operating expense
+57,542
+ 
+55,648
+ 
+52,527
+ 
+Operating Income
+5,822
+ 
+5,995
+ 
+5,521
+ 
+Non-Operating Income/(Expense):
+Interest expense, net
+(
+679
+)
+(
+747
+)
+(
+834
+)
+Gain/(loss) on investments, net
+1,212
+ 
+(
+319
+)
+1,263
+ 
+Loss on extinguishment of debt 
+(
+26
+)
+(
+39
+)
+(
+63
+)
+Miscellaneous, net
+(
+144
+)
+(
+232
+)
+(
+279
+)
+Total non-operating income/(expense), net
+363
+ 
+(
+1,337
+)
+87
+ 
+Income Before Income Taxes
+6,185
+ 
+4,658
+ 
+5,608
+ 
+Income Tax Provision
+(
+1,180
+)
+(
+1,201
+)
+(
+999
+)
+Net Income
+$
+5,005
+ 
+$
+3,457
+ 
+$
+4,609
+ 
+Basic Earnings Per Share
+$
+7.72
+ 
+$
+5.39
+ 
+$
+7.21
+ 
+Diluted Earnings Per Share
+$
+7.66
+ 
+$
+5.33
+ 
+$
+7.17
+ 
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+Delta Air Lines, Inc. | 2025 Form 10-K
+56
+Financial Statements
+DELTA AIR LINES, INC.
+Consolidated Statements of Comprehensive Income
+Year Ended December 31,
+(in millions)
+2025
+2024
+2023
+Net Income
+$
+5,005
+ 
+$
+3,457
+ 
+$
+4,609
+ 
+Other comprehensive income:
+Net change in pension and other benefits
+844
+ 
+864
+ 
+(
+44
+)
+Net change in other
+—
+ 
+2
+ 
+—
+ 
+Total Other Comprehensive Income/(Loss)
+844
+ 
+866
+ 
+(
+44
+)
+Comprehensive Income
+$
+5,849
+ 
+$
+4,323
+ 
+$
+4,565
+ 
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+Delta Air Lines, Inc. | 2025 Form 10-K
+57
+Financial Statements
+DELTA AIR LINES, INC.
+Consolidated Statements of Cash Flows
+Year Ended December 31,
+(in millions)
+2025
+2024
+2023
+Cash Flows From Operating Activities:
+Net income
+$
+5,005
+ 
+$
+3,457
+ 
+$
+4,609
+ 
+Adjustments to reconcile net income to net cash provided by operating activities:
+Depreciation and amortization
+2,443
+ 
+2,513
+ 
+2,341
+ 
+Deferred income taxes
+1,109
+ 
+1,155
+ 
+980
+ 
+(Gain)/loss on fair value investments
+(
+1,209
+)
+323
+ 
+(
+1,283
+)
+Pension, postretirement and postemployment payments greater than expense
+(
+210
+)
+(
+296
+)
+(
+121
+)
+Changes in certain assets and liabilities:
+Receivables
+432
+ 
+(
+126
+)
+(
+7
+)
+Prepaids and other current assets
+(
+183
+)
+(
+241
+)
+137
+ 
+Air traffic liability
+63
+ 
+50
+ 
+(
+1,216
+)
+Loyalty program deferred revenue
+435
+ 
+407
+ 
+538
+ 
+Profit sharing
+(
+53
+)
+6
+ 
+821
+ 
+Other payables, deferred revenue and accrued liabilities
+842
+ 
+614
+ 
+(
+285
+)
+Other, net
+(
+332
+)
+163
+ 
+(
+50
+)
+Net cash provided by operating activities
+8,342
+ 
+8,025
+ 
+6,464
+ 
+Cash Flows From Investing Activities:
+Property and equipment additions:
+Flight equipment, including advance payments
+(
+3,521
+)
+(
+3,914
+)
+(
+3,645
+)
+Ground property and equipment, including technology
+(
+978
+)
+(
+1,226
+)
+(
+1,678
+)
+Purchase of equity investments
+(
+276
+)
+—
+ 
+(
+152
+)
+Purchase of short-term investments
+—
+ 
+—
+ 
+(
+2,312
+)
+Redemption of short-term investments
+—
+ 
+1,137
+ 
+4,547
+ 
+Other, net
+589
+ 
+264
+ 
+92
+ 
+Net cash used in investing activities
+(
+4,186
+)
+(
+3,739
+)
+(
+3,148
+)
+Cash Flows From Financing Activities:
+Proceeds from long-term obligations
+2,215
+ 
+—
+ 
+878
+ 
+Payments on debt and finance lease obligations
+(
+4,827
+)
+(
+3,953
+)
+(
+4,071
+)
+Cash dividends
+(
+440
+)
+(
+321
+)
+(
+128
+)
+Other, net
+(
+24
+)
+14
+ 
+(
+73
+)
+Net cash used in financing activities
+(
+3,076
+)
+(
+4,260
+)
+(
+3,394
+)
+Net Increase/(Decrease) in Cash, Cash Equivalents and Restricted Cash
+1,080
+ 
+26
+ 
+(
+78
+)
+Cash, cash equivalents and restricted cash at beginning of period
+3,421
+ 
+3,395
+ 
+3,473
+ 
+Cash, cash equivalents and restricted cash at end of period
+$
+4,501
+ 
+$
+3,421
+ 
+$
+3,395
+ 
+Supplemental Disclosure of Cash Paid for Interest
+$
+850
+ 
+$
+1,001
+ 
+$
+1,164
+ 
+Non-Cash Transactions:
+Right-of-use assets acquired or modified under operating leases
+$
+375
+ 
+$
+327
+ 
+$
+661
+ 
+Flight and ground equipment acquired or modified under finance leases
+184
+ 
+(
+17
+)
+31
+ 
+Operating leases converted to finance leases
+312
+ 
+25
+ 
+84
+ 
+Debt agreements modified
+371
+ 
+—
+ 
+—
+ 
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+Delta Air Lines, Inc. | 2025 Form 10-K
+58
+Financial Statements
+DELTA AIR LINES, INC.
+Consolidated Statements of Stockholders' Equity
+Common Stock
+Additional Paid-In Capital
+Retained Earnings / (Accumulated Deficit)
+Accumulated Other Comprehensive Loss
+Treasury Stock
+(in millions, except per share data)
+Shares
+Amount
+Shares
+Amount
+Total
+Balance at January 1, 2023
+652
+ 
+$
+—
+ 
+$
+11,526
+ 
+$
+1,170
+ 
+$
+(
+5,801
+)
+11
+ 
+$
+(
+313
+)
+$
+6,582
+ 
+Net income
+— 
+— 
+— 
+4,609
+ 
+— 
+— 
+— 
+4,609
+ 
+Dividends declared ($
+0.20
+ per share)
+— 
+— 
+— 
+(
+129
+)
+— 
+— 
+— 
+(
+129
+)
+Other comprehensive loss
+— 
+— 
+— 
+— 
+(
+44
+)
+— 
+— 
+(
+44
+)
+Common stock issued for employee equity awards
+(1)
+3
+ 
+— 
+115
+ 
+— 
+— 
+— 
+(
+28
+)
+87
+ 
+Balance at December 31, 2023
+655
+ 
+—
+ 
+11,641
+ 
+5,650
+ 
+(
+5,845
+)
+11
+ 
+(
+341
+)
+11,105
+ 
+Net income
+— 
+— 
+— 
+3,457
+ 
+— 
+— 
+— 
+3,457
+ 
+Dividends declared ($
+0.50
+ per share)
+— 
+— 
+— 
+(
+324
+)
+— 
+— 
+— 
+(
+324
+)
+Other comprehensive income
+— 
+— 
+— 
+— 
+866
+ 
+— 
+— 
+866
+ 
+Common stock issued for employee equity awards
+(1)
+(
+1
+)
+— 
+31
+ 
+— 
+— 
+(
+3
+)
+90
+ 
+121
+ 
+Stock options exercised
+1
+ 
+— 
+68
+ 
+— 
+— 
+— 
+— 
+68
+ 
+Balance at December 31, 2024
+655
+ 
+—
+ 
+11,740
+ 
+8,783
+ 
+(
+4,979
+)
+8
+ 
+(
+251
+)
+15,293
+ 
+Net income
+— 
+— 
+— 
+5,005
+ 
+— 
+— 
+— 
+5,005
+ 
+Dividends declared ($
+0.675
+ per share)
+— 
+— 
+— 
+(
+445
+)
+— 
+— 
+— 
+(
+445
+)
+Other comprehensive income
+— 
+— 
+— 
+— 
+844
+ 
+— 
+— 
+844
+ 
+Common stock issued for employee equity awards
+(1)
+— 
+— 
+120
+ 
+— 
+— 
+(
+2
+)
+13
+ 
+133
+ 
+Stock options exercised
+— 
+— 
+23
+ 
+— 
+— 
+— 
+— 
+23
+ 
+Warrants exercised
+5
+ 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+Balance at December 31, 2025
+660
+ 
+$
+—
+ 
+$
+11,883
+ 
+$
+13,343
+ 
+$
+(
+4,135
+)
+6
+ 
+$
+(
+238
+)
+$
+20,853
+ 
+(1)
+Treasury shares were withheld for payment of taxes, at a weighted average price per share of $
+67.23
+, $
+40.84
+ and $
+40.08
+ in 2025, 2024 and 2023, respectively. Share counts in the table above may not calculate exactly due to rounding.
+The accompanying notes are an integral part of these Consolidated Financial Statements.
+Delta Air Lines, Inc. | 2025 Form 10-K
+59
+Notes to the Consolidated Financial Statements
+NOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS
+NOTE 1.
+ 
+SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+Basis of Presentation
+Delta Air Lines, Inc., a Delaware corporation, provides scheduled air transportation for passengers and cargo throughout the United States ("U.S.") and around the world. Our Consolidated Financial Statements include the accounts of Delta Air Lines, Inc. and our consolidated subsidiaries and have been prepared in accordance with generally accepted accounting principles in the U.S. ("GAAP"). We are not the primary beneficiary of, nor do we have a controlling financial interest in, any variable interest entity. Accordingly, we have not consolidated any variable interest entity.
+Unless otherwise noted, all amounts disclosed are stated before consideration of income taxes.
+Use of Estimates
+We are required to make estimates and assumptions when preparing our Consolidated Financial Statements in accordance with GAAP. These estimates and assumptions affect the amounts reported in our Consolidated Financial Statements and the accompanying notes. Actual results could differ materially from those estimates.
+Recent Accounting Standards
+Recently Adopted Standards
+Income Taxes.
+ In December 2023, the Financial Accounting Standards Board ("FASB") issued Accounting Standards Update ("ASU") No. 2023-09, "Income Taxes (Topic 740): Improvements to Income Tax Disclosures." This standard enhances disclosures related to income taxes, including the rate reconciliation and information on income taxes paid. We adopted this standard effective January 1, 2025. See Note 10, "Income Taxes," for our income tax disclosures.
+Standards Effective in Future Years
+Disaggregation of Income Statement Expenses.
+ In November 2024, the FASB issued ASU No. 2024-03, "Income Statement - Reporting Comprehensive Income - Expense Disaggregation Disclosures (Subtopic 220-40)." This standard requires disclosure of specific information about costs and expenses and becomes effective January 1, 2027. We are assessing the impact of this ASU and, upon adoption, may be required to include certain additional disclosures in the footnotes to our Consolidated Financial Statements.
+Internal Use Software.
+ In September 2025, the FASB issued ASU No. 2025-06, "Targeted Improvements to the Accounting for Internal-Use Software." This standard is intended to improve the operability and application of guidance related to capitalized software development costs and becomes effective January 1, 2028. We are assessing the potential impact this ASU may have on our Consolidated Financial Statements upon adoption.
+Interim Reporting. 
+In December 2025, the FASB issued ASU No. 2025-11, "Interim Reporting (Topic 270)." This standard clarifies interim reporting guidance, develops a list of disclosures required by other Topics and intends to enhance consistency in interim reporting across entities. This standard becomes effective January 1, 2028 with early adoption permitted. We do not expect this standard to have a material impact on our interim reporting.
+Delta Air Lines, Inc. | 2025 Form 10-K
+60
+Notes to the Consolidated Financial Statements
+Significant Accounting Policies
+Our significant accounting policies are disclosed below or included within the topic-specific notes included herein.
+Cash and Cash Equivalents
+Short-term, highly liquid investments with maturities of three months or less when purchased are classified as cash and cash equivalents.
+The following table provides a reconciliation of cash, cash equivalents and restricted cash reported within the Consolidated Balance Sheets ("balance sheets") that sum to the total of the same such amounts shown within the Consolidated Statements of Cash Flows ("cash flows statement").
+Reconciliation of cash, cash equivalents and restricted cash
+December 31,
+(in millions)
+2025
+2024
+2023
+Current assets:
+Cash and cash equivalents
+$
+4,310
+ 
+$
+3,069
+ 
+$
+2,741
+ 
+Restricted cash included in prepaid expenses and other
+135
+ 
+168
+ 
+199
+ 
+Noncurrent assets:
+Restricted cash included in other noncurrent assets
+56
+ 
+184
+ 
+455
+ 
+Total cash, cash equivalents and restricted cash
+$
+4,501
+ 
+$
+3,421
+ 
+$
+3,395
+ 
+Inventories
+Fuel.
+ As part of our strategy to mitigate the cost of the refining margin reflected in the price of jet fuel, our wholly owned subsidiary, Monroe Energy, LLC ("Monroe"), operates the Trainer oil refinery. Refined products (finished goods) and feedstock and blendstock inventories (work-in-process) are carried at the lower of cost and net realizable value. We use jet fuel in our airline operations that is produced by the refinery, purchased directly from third parties and procured through the exchanges with third parties of gasoline, diesel and other refined products ("non-jet fuel products") the refinery produces. Cost is determined using the first-in, first-out method. Costs include the raw material consumed plus direct manufacturing costs (such as labor, utilities and supplies) as incurred and an applicable portion of manufacturing overhead.
+Expendables Parts and Supplies.
+ Inventories of expendable parts related to flight equipment, which cannot be economically repaired, reconditioned or reused after removal from the aircraft, are carried at moving average cost and charged to aircraft maintenance materials and outside repairs as consumed. An allowance for obsolescence is provided over the remaining useful life of the related fleet. We also provide allowances for parts identified as excess or obsolete to reduce the carrying costs to the lower of cost or net realizable value. These parts are estimated to have residual value of 
+5
+% of the original cost.
+Accounting for Refinery Related Buy/Sell Agreements
+To the extent that we receive jet fuel for non-jet fuel products exchanged under buy/sell agreements, we account for these transactions as nonmonetary exchanges. We have recorded these nonmonetary exchanges at the carrying amount of the non-jet fuel products transferred within aircraft fuel and related taxes on our Consolidated Statements of Operations ("income statement").
+Derivatives
+Changes in fuel prices, interest rates and foreign currency exchange rates impact our results of operations. In an effort to manage our exposure to these risks, we may enter into derivative contracts and adjust our derivative portfolio as market conditions change. 
+Our derivative contracts are recognized at fair value on our balance sheets and had net balances of $
+1
+ million and $
+17
+ million at December 31, 2025 and 2024, respectively. See Note 3, "Fair Value Measurements," for further information regarding our derivative contracts.
+Delta Air Lines, Inc. | 2025 Form 10-K
+61
+Notes to the Consolidated Financial Statements
+Long-Lived Assets
+Our long-lived lived assets include property and equipment, net and operating lease right-of-use ("ROU") assets on our balance sheets. Our tangible assets consist primarily of flight equipment, which is mobile across geographic markets. Accordingly, assets are not allocated to specific geographic regions. 
+See Note 7, "Leases," for further information regarding our leases. 
+The following table summarizes our property and equipment:
+Property and equipment by classification
+December 31,
+(in millions, except for estimated useful life)
+Estimated Useful Life
+2025
+2024
+Flight equipment
+(1)
+30
+-
+34
+ years
+$
+47,981
+ 
+$
+44,722
+ 
+Ground property and equipment
+3
+-
+40
+ years
+11,165
+ 
+10,695
+ 
+Information technology-related assets
+3
+-
+15
+ years
+3,167
+ 
+3,135
+ 
+Flight and ground equipment under finance leases
+Lease term or estimated useful life
+1,185
+ 
+1,196
+ 
+Advance payments for equipment
+964
+ 
+1,075
+ 
+Less: accumulated depreciation and amortization
+(2)
+(
+24,719
+)
+(
+23,228
+)
+Total property and equipment, net
+$
+39,743
+ 
+$
+37,595
+ 
+(1)
+Includes aircraft and associated engines and parts.
+(2)
+Includes accumulated amortization for flight and ground equipment under finance leases in the amount of $
+350
+ million and $
+371
+ million at December 31, 2025 and 2024, respectively.
+We record property and equipment at cost and depreciate or amortize these assets on a straight-line basis to their estimated residual values over their estimated useful lives. The estimated useful life for leasehold improvements is the shorter of lease term or estimated useful life.
+ Depreciation and amortization expense related to our property and equipment was $
+2.4
+ billion, $
+2.5
+ billion and $
+2.3
+ billion for the years ended December 31, 2025, 2024 and 2023, respectively. Residual values for owned aircraft, engines, spare parts and simulators are generally 
+5
+% to 
+10
+% of cost. Modifications that enhance the operating performance or extend the useful lives of airframes or engines are capitalized and amortized over the remaining estimated useful life of the asset or the remaining lease term, whichever is shorter.
+We capitalize certain internal and external costs incurred to develop and implement software and amortize those costs over an estimated useful life of 
+three
+ to 
+fifteen years
+.
+ Included in the depreciation and amortization expense discussed above, we recorded $
+314
+ million, $
+324
+ million and $
+340
+ million for amortization of capitalized software for the years ended December 31, 2025, 2024 and 2023, respectively. The net book value of these assets, which are included in information technology-related assets above, totaled $
+1.1
+ billion and $
+933
+ million at December 31, 2025 and 2024, respectively.
+We review flight equipment, ROU assets and other long-lived assets used in operations for impairment losses when events and circumstances indicate the assets may be impaired. Factors which could be indicators of impairment include, but are not limited to (1) a decision to permanently remove flight equipment or other long-lived assets from operations, (2) significant changes in the estimated useful life, (3) significant changes in projected cash flows, (4) permanent and significant declines in fleet fair values and (5) changes to the regulatory environment. For long-lived assets held for sale, we discontinue depreciation and record impairment losses when the carrying amount of these assets is greater than the fair value less the cost to sell.
+To determine whether impairments exist for aircraft used in operations, we group assets at the fleet type level or at the contract level for aircraft operated by third-party regional carriers (i.e., the lowest level for which there are identifiable cash flows) and then estimate future cash flows based on projections of capacity, passenger mile yield, fuel and labor costs and other relevant factors. If an asset group is impaired, the impairment loss recognized is the amount by which the asset group's carrying amount exceeds its estimated fair value. We estimate aircraft fair values using published sources, appraisals and bids received from third parties, as available.
+Fuel Card Obligation
+We have a purchasing card with American Express for the purpose of buying jet fuel and crude oil.
+ The card carried a maximum credit limit of $
+1.1
+ billion as of December 31, 2025 and must be paid monthly. At both December 31, 2025 and 2024, we had
+ 
+$
+1.1
+ billion outstanding on this purchasing card and the activity was classified as a financing activity in our cash flows statement.
+Delta Air Lines, Inc. | 2025 Form 10-K
+62
+Notes to the Consolidated Financial Statements
+Manufacturers' Credits
+We periodically receive credits in connection with the acquisition of aircraft and engines or in connection with delivery delays or manufacturing defects. These credits are applied as a reduction to the cost of the related equipment.
+Collaborative Arrangements
+We have marketing alliances with other airlines to enhance our access to domestic and international markets. Some of our marketing arrangements provide for the sharing of revenues and expenses. Revenues and expenses associated with the flights we operate under collaborative arrangements are presented on a gross basis in the applicable line items on our income statement.
+Maintenance Costs
+We record maintenance costs related to our mainline and regional fleets in aircraft maintenance materials and outside repairs and regional carrier expense, respectively. Maintenance costs are expensed as incurred, except for costs incurred under power-by-the-hour contracts, which are expensed based on actual hours flown. Power-by-the-hour contracts transfer certain risk to third-party service providers and fix the amount we pay per flight hour or per flight cycle to the service provider in exchange for maintenance and repairs under a predefined maintenance program.
+Advertising Costs
+We expense advertising costs in passenger commissions and other selling expenses in the year the advertising first takes place.
+ Advertising expense was $
+405
+ million, $
+438
+ million and $
+347
+ million for the years ended December 31, 2025, 2024 and 2023, respectively.
+Commissions and Merchant Fees
+Passenger sales commissions and merchant fees are recognized in passenger commissions and other selling expenses when the related revenue is recognized.
+NOTE 2. 
+REVENUE RECOGNITION
+Passenger Revenue
+Passenger revenue is composed of passenger ticket sales, loyalty travel awards and travel-related services performed in conjunction with a passenger’s flight.
+Passenger revenue by category
+Year Ended December 31,
+(in millions)
+2025
+2024
+2023
+Ticket
+$
+45,488
+ 
+$
+45,096
+ 
+$
+43,596
+ 
+Loyalty travel awards
+4,237
+ 
+3,841
+ 
+3,462
+ 
+Travel-related services
+2,043
+ 
+1,957
+ 
+1,851
+ 
+Total passenger revenue
+$
+51,768
+ 
+$
+50,894
+ 
+$
+48,909
+ 
+Ticket
+Passenger Tickets.
+ We defer sales of passenger tickets to be flown by us or that we sell on behalf of other airlines in our air traffic liability. Passenger revenue is recognized when we provide transportation. For tickets that we sell on behalf of other airlines, we reduce the air traffic liability when consideration is remitted to those airlines. The air traffic liability primarily includes sales of passenger tickets with scheduled departure dates in the future and travel credits, which can be applied as payment toward the cost of a ticket. We periodically evaluate the estimated air traffic liability and may record adjustments in our income statement. These adjustments relate primarily to tickets that expire unused ("ticket breakage") and items for which final settlement occurs in periods subsequent to the sale of the related tickets such as refunds, exchanges and transactions with other airlines.
+Delta Air Lines, Inc. | 2025 Form 10-K
+63
+Notes to the Consolidated Financial Statements
+We recognized approximately $
+6.4
+ billion, $
+6.5
+ billion and $
+7.4
+ billion in passenger revenue during the years ended December 31, 2025, 2024 and 2023, respectively, that had been recorded in our air traffic liability balance at the beginning of those periods.
+Ticket Breakage.
+ We estimate the value of ticket breakage and recognize revenue at the scheduled flight date. Our ticket breakage estimates are primarily based on historical experience, ticket contract terms and customers’ travel behavior.
+Regional Carriers.
+ Our regional carriers include both third-party regional carriers with which we have contract carrier agreements ("contract carriers") and Endeavor Air, Inc., our wholly owned subsidiary. Our contract carrier agreements are primarily structured as capacity purchase agreements where we purchase all or a portion of the contract carrier's capacity and are responsible for selling the seat inventory we purchase. We record revenue related to our capacity purchase agreements in passenger revenue and the related expenses in regional carrier expense. See Note 9, "Commitments and Contingencies," for additional information regarding contract carrier agreements.
+Loyalty Travel Awards
+Loyalty travel awards revenue is related to the redemption of mileage credits ("miles") for travel. We recognize loyalty travel awards revenue in passenger revenue as miles are redeemed and transportation is provided. See below for discussion of our loyalty program accounting policies.
+Travel-Related Services
+Travel-related services are primarily composed of services performed in conjunction with a passenger’s flight, including baggage fees, administrative fees and on-board sales. We recognize revenue for these services when the related transportation service is provided.
+Loyalty Program
+Our SkyMiles loyalty program generates customer loyalty by rewarding customers with incentives to travel on Delta. This program allows customers to earn miles by flying on Delta, Delta Connection carriers and other airlines that participate in the loyalty program. When traveling, customers earn miles primarily based on the passenger's loyalty program status, fare class and ticket price. Customers can also earn miles through participating companies. Miles are redeemable by customers for air travel on Delta and other participating airlines, access to Delta Sky Clubs, and other program awards. To facilitate transactions with participating companies, we sell miles to non-airline businesses and other airlines.
+The loyalty program includes two types of transactions that are considered revenue arrangements with multiple performance obligations (1) passenger ticket sales earning miles and (2) sale of miles to participating companies.
+Passenger Ticket Sales Earning Miles.
+ Passenger ticket sales earning miles provide customers with (1) miles earned and (2) air transportation, which are each considered performance obligations. We value each performance obligation on a standalone basis. To value the miles earned, we consider the quantitative value a passenger receives by redeeming miles for a ticket rather than paying cash, which is referred to as equivalent ticket value ("ETV"). Our estimate of ETV is adjusted for miles that are not likely to be redeemed ("mileage breakage"). We use statistical models to estimate mileage breakage based on historical redemption patterns. A change in assumptions regarding the redemption activity for miles or the estimated fair value of miles expected to be redeemed could have a material impact on our revenue in the year in which the change occurs and in future years. We recognize mileage breakage proportionally during the period in which the remaining miles are actually redeemed.
+We defer revenue for the miles when earned and recognize loyalty travel awards in passenger revenue as the miles are redeemed and transportation is provided. We record the air transportation portion of the passenger ticket sales in air traffic liability and recognize passenger revenue when we provide transportation or if the ticket goes unused.
+Sale of Miles to Participating Companies.
+ Customers earn miles based on their spending with participating companies, such as credit card, car rental, ridesharing, retail, and hotel companies, with which we have marketing agreements to sell miles. Our contracts to sell miles under these marketing agreements have multiple performance obligations. Payments are typically due to us monthly based on the volume of miles sold during the period, and the initial terms of our marketing contracts are from 
+one
+ to 
+thirteen years
+. During the years ended December 31, 2025, 2024 and 2023, total cash sales from marketing agreements related to our loyalty program were $
+8.0
+ billion, $
+7.4
+ billion and $
+6.9
+ billion, respectively, which are allocated to travel and other performance obligations, as discussed below.
+Delta Air Lines, Inc. | 2025 Form 10-K
+64
+Notes to the Consolidated Financial Statements
+Substantially all of our total cash sales from marketing agreements relate to our co-brand credit card relationship with American Express. Our agreements with American Express provide for joint marketing, grant certain benefits to Delta-American Express co-branded credit card holders ("cardholders") and American Express Membership Rewards program participants, and allow American Express to market its services or products using our customer database. Cardholders earn miles for making purchases using co-branded cards, and certain cardholders may also receive baggage fee waivers, lounge access, priority boarding and other benefits while traveling on Delta. Additionally, participants in the American Express Membership Rewards program may exchange their points for miles under the loyalty program. We sell miles to American Express which are then provided to their customers under the co-brand credit card program and the Membership Rewards program.
+We account for marketing agreements, including those with American Express, by allocating the consideration to the individual products and services delivered. We allocate the value based on the relative selling prices of those products and services, which generally consist of award travel, baggage fee waivers, lounge access, priority boarding and the use of our brand. We determine our best estimate of the selling prices by using a discounted cash flow analysis using multiple inputs and assumptions, including (1) the expected number of miles awarded and number of miles redeemed, (2) ETV for the award travel obligation adjusted for mileage breakage, (3) published rates on our website for baggage fees, lounge access and priority boarding while traveling on Delta, (4) brand value (using estimated royalties generated from the use of our brand) and (5) volume discounts provided to certain partners.
+We defer the amount allocated to award travel as part of loyalty program deferred revenue and recognize loyalty travel awards in passenger revenue as the miles are redeemed and transportation is provided. Revenue allocated to services performed in conjunction with a passenger’s flight, such as baggage fee waivers, is recognized as travel-related services in passenger revenue when the related service is performed. Revenue allocated to lounge access is recognized as miscellaneous in other revenue as access is provided. Revenue allocated to the remaining performance obligations, primarily brand value, is recorded as loyalty program in other revenue as miles are delivered.
+Current Activity of the Loyalty Program.
+ Miles are combined in one homogeneous pool and are not separately identifiable. Therefore, the revenue is comprised of miles that were part of the loyalty program deferred revenue balance at the beginning of the period as well as miles that were issued during the period.
+The table below presents the activity of the current and noncurrent loyalty program deferred revenue, and includes miles earned through travel and miles sold to participating companies, which are primarily through marketing agreements.
+Loyalty program activity
+(in millions)
+2025
+2024
+2023
+Balance at January 1
+$
+8,826
+ 
+$
+8,420
+ 
+$
+7,882
+ 
+Miles earned
+4,892
+ 
+4,463
+ 
+4,173
+ 
+Travel miles redeemed
+(
+4,237
+)
+(
+3,841
+)
+(
+3,462
+)
+Non-travel miles redeemed
+(
+219
+)
+(
+216
+)
+(
+173
+)
+Balance at December 31
+$
+9,262
+ 
+$
+8,826
+ 
+$
+8,420
+ 
+The timing of mile redemptions can vary widely; however, the majority of new miles have historically been redeemed within 
+two years
+ of being earned. The loyalty program deferred revenue classified as a current liability represents our estimate of revenue expected to be recognized in the next twelve months based on projected redemptions, while the balance classified as a noncurrent liability represents our estimate of revenue expected to be recognized beyond twelve months.
+Cargo Revenue
+Cargo revenue is recognized when we provide the transportation.
+Delta Air Lines, Inc. | 2025 Form 10-K
+65
+Notes to the Consolidated Financial Statements
+Other Revenue
+Year Ended December 31,
+(in millions)
+2025
+2024
+2023
+Refinery
+$
+5,077
+ 
+$
+4,642
+ 
+$
+3,379
+ 
+Loyalty program
+3,362
+ 
+3,297
+ 
+3,093
+ 
+Ancillary businesses
+937
+ 
+772
+ 
+840
+ 
+Miscellaneous
+1,320
+ 
+1,216
+ 
+1,104
+ 
+Total other revenue
+$
+10,696
+ 
+$
+9,927
+ 
+$
+8,416
+ 
+Refinery.
+ This represents refinery sales to third parties. See Note 14, "Segments," for more information on revenue recognition within our refinery segment.
+Loyalty Program.
+ This relates to revenues from brand usage by third parties and other performance obligations embedded in miles sold, which are included within the total cash sales from marketing agreements, discussed above. This also includes the redemption of miles for non-travel awards.
+Ancillary Businesses.
+ This includes revenues from our Delta TechOps third-party maintenance, repair and overhaul ("MRO") business and our vacation package operations. During the years ended December 31, 2025 and 2024, the MRO business generated revenues of $
+822
+ million and $
+658
+ million, respectively.
+Miscellaneous.
+ This is primarily composed of revenues related to lounge access, including access provided to certain American Express cardholders, travel products (e.g., car rentals or hotels booked with our commercial partners), codeshare agreements and international joint venture partnership contractual settlements.
+Revenue by Geographic Region
+Operating revenue for the airline segment is recognized in a specific geographic region based on the origin, flight path and destination of each flight segment. A significant portion of the refinery segment's revenues typically consists of fuel sales to support the airline, which is eliminated in the Consolidated Financial Statements. The remaining operating revenue for the refinery segment is included in the domestic region. 
+Our passenger and operating revenue by geographic region are summarized in the following table:
+Revenue by geographic region
+Passenger Revenue
+Operating Revenue
+Year Ended December 31,
+Year Ended December 31,
+(in millions)
+2025
+2024
+2023
+2025
+2024
+2023
+Domestic
+$
+35,731
+ 
+$
+35,226
+ 
+$
+33,968
+ 
+$
+44,655
+ 
+$
+43,508
+ 
+$
+40,845
+ 
+Atlantic
+9,270
+ 
+9,133
+ 
+9,057
+ 
+10,766
+ 
+10,535
+ 
+10,458
+ 
+Latin America
+3,980
+ 
+3,995
+ 
+3,798
+ 
+4,579
+ 
+4,564
+ 
+4,292
+ 
+Pacific
+2,787
+ 
+2,540
+ 
+2,086
+ 
+3,364
+ 
+3,036
+ 
+2,453
+ 
+Total
+$
+51,768
+ 
+$
+50,894
+ 
+$
+48,909
+ 
+$
+63,364
+ 
+$
+61,643
+ 
+$
+58,048
+ 
+Accounts Receivable
+Accounts receivable primarily consist of amounts due from credit card companies from the sale of passenger tickets, ancillary businesses, refinery sales and other companies for the purchase of miles under the loyalty program. We provide an allowance for uncollectible accounts using an expected credit loss model which represents our estimate of expected credit losses over the lifetime of the asset.
+Delta Air Lines, Inc. | 2025 Form 10-K
+66
+Notes to the Consolidated Financial Statements
+Passenger Taxes and Fees
+We are required to charge certain taxes and fees on our passenger tickets, including U.S. federal transportation taxes, federal security charges, airport passenger facility charges and foreign arrival and departure taxes. These taxes and fees are assessments on the customer for which we act as a collection agent and these amounts are not included in passenger revenue. We record a liability when the amounts are collected and reduce the liability when payments are made to the applicable government agency or operating carrier (i.e., for codeshare-related fees).
+NOTE 3. 
+FAIR VALUE MEASUREMENTS
+Fair value is defined as an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants. Fair value is a market-based measurement that is determined based on assumptions that market participants would use in pricing an asset or liability. Each fair value measurement is classified into one of the following levels based on the information used in the valuation:
+•
+Level 1.
+ Observable inputs such as quoted prices in active markets.
+•
+Level 2.
+ Inputs, other than quoted prices in active markets, that are observable either directly or indirectly.
+•
+Level 3.
+ Unobservable inputs in which there is little or no market data, which require the reporting entity to develop its own assumptions.
+Assets and liabilities measured at fair value are based on the valuation techniques identified in the tables below. The valuation techniques are as follows:
+(a)
+Market Approach.
+ Prices and other relevant information generated by observable transactions involving identical or comparable assets or liabilities.
+(b)
+Income Approach.
+ Techniques to convert future amounts to a single present value amount based on market expectations (including present value techniques and option-pricing models).
+Assets (Liabilities) Measured at Fair Value on a Recurring Basis
+(1)
+December 31, 2025
+Valuation Technique
+(in millions)
+Total
+Level 1
+Level 2
+Level 3
+Cash equivalents
+$
+2,868
+ 
+$
+2,868
+ 
+$
+—
+ 
+$
+—
+ 
+(a)
+Restricted cash equivalents
+191
+ 
+191
+ 
+—
+ 
+—
+ 
+(a)
+Long-term investments and related
+3,644
+ 
+3,366
+ 
+217
+ 
+61
+ 
+(a)(b)
+Fuel hedge contracts
+1
+ 
+—
+ 
+1
+ 
+—
+ 
+(a)(b)
+December 31, 2024
+Valuation Technique
+(in millions)
+Total
+Level 1
+Level 2
+Level 3
+Cash equivalents
+$
+1,619
+ 
+$
+1,619
+ 
+$
+—
+ 
+$
+—
+ 
+(a)
+Restricted cash equivalents
+351
+ 
+351
+ 
+—
+ 
+—
+ 
+(a)
+Long-term investments and related
+2,372
+ 
+2,085
+ 
+160
+ 
+127
+ 
+(a)(b)
+Fuel hedge contracts
+(
+17
+)
+—
+ 
+(
+17
+)
+—
+ 
+(a)(b)
+(1)
+See Note 8, "Employee Benefit Plans," for fair value of benefit plan assets.
+Cash Equivalents and Restricted Cash Equivalents.
+ Cash equivalents generally consist of money market funds. Restricted cash equivalents are recorded in prepaid expenses and other and other noncurrent assets on our balance sheets and generally consist of money market funds, time deposits, commercial paper and negotiable certificates of deposit, which primarily relate to certain self-insurance obligations, debt related reserves, airport commitments and proceeds from debt issued to finance, among other things, a portion of the construction costs for our new terminal facilities at New York's LaGuardia Airport. The fair value of these cash equivalents is based on a market approach using prices generated by market transactions involving identical or comparable assets.
+Delta Air Lines, Inc. | 2025 Form 10-K
+67
+Notes to the Consolidated Financial Statements
+Long-Term Investments and Related.
+ Our long-term investments measured at fair value primarily consist of equity investments, which are valued based on market prices or other observable transactions and inputs, and are recorded in equity investments on our balance sheets. Certain equity investments in private companies are classified as Level 3 in the fair value hierarchy as their equity is not traded on a public exchange and our valuations may incorporate certain unobservable inputs, including non-public equity issuances. Fair value measurement using unobservable inputs is inherently uncertain, and a change in significant inputs could result in different fair values. During the year ended December 31, 2025 there were no material gains or losses related to investments classified as Level 3 as a result of fair value adjustments.
+ See Note 4, "Investments," for further information on our long-term investments.
+Fuel Hedge Contracts.
+ Our derivative contracts are negotiated over-the-counter with counterparties without going through a public exchange. Accordingly, our fair value assessments give consideration to the risk of counterparty default (as well as our own credit risk) and are classified as Level 2 within the fair value hierarchy.
+ 
+Substantially all of our derivative contracts to hedge the financial risk from changing fuel prices are related to Monroe’s inventory. Our fuel hedge portfolio consists of swap contracts which are valued under discounted cash flow models based on data either readily observable in public markets, derived from public markets or provided by counterparties who regularly trade in public markets.
+ We recognized gains of $
+36
+ million, and losses of $
+31
+ million and $
+6
+ million, on our fuel hedge contracts in aircraft fuel and related taxes on our income statement for the years ended December 31, 2025, 2024 and 2023, respectively. See Note 14, "Segments," for further information on our Monroe refinery segment.
+NOTE 4. 
+INVESTMENTS
+We have developed strategic relationships with a number of airlines and airline services companies through joint ventures and other forms of cooperation and support, including equity investments. Our equity investments reinforce our commitment to these relationships and generally enhance our ability to offer input to the investee on strategic issues and direction, in some cases through representation on the board of directors of the investee.
+Fair Value Investments.
+ Changes in the valuation of investments accounted for at fair value are recorded in gain/(loss) on investments, net in our income statement within non-operating expense and are driven by changes in stock prices, foreign currency fluctuations and other valuation techniques for investments in companies without publicly-traded shares. We elect to measure certain equity securities without readily determinable fair values under the "measurement alternative" (i.e., at their cost less impairment, adjusted for observable price changes).
+Equity Method Investments.
+ We record our share of our equity method investees' financial results in our income statement as described in the table below.
+Equity investments ownership interest and carrying value
+Accounting Treatment
+Ownership Interest
+(4)
+Carrying Value
+(in millions)
+December 31, 2025
+December 31, 2024
+December 31, 2025
+December 31, 2024
+Air France-KLM
+Fair Value
+3
+ 
+%
+3
+ 
+%
+$
+100
+ 
+$
+62
+ 
+China Eastern
+Fair Value
+2
+ 
+%
+2
+ 
+%
+319
+ 
+155
+ 
+Grupo Aeroméxico
+Equity Method
+(1)
+19
+ 
+%
+20
+ 
+%
+377
+ 
+354
+ 
+Hanjin-KAL
+Fair Value
+(2)
+15
+ 
+%
+15
+ 
+%
+861
+ 
+507
+ 
+LATAM
+Fair Value
+11
+ 
+%
+10
+ 
+%
+1,644
+ 
+837
+ 
+Republic Airways
+Fair Value
+14
+ 
+%
+17
+ 
+%
+124
+ 
+84
+ 
+Unifi Aviation
+Equity Method
+20
+ 
+%
+49
+ 
+%
+51
+ 
+146
+ 
+WestJet
+Fair Value
+13
+ 
+%
+—
+ 
+%
+248
+ 
+—
+ 
+Wheels Up
+Fair Value
+(3)
+36
+ 
+%
+38
+ 
+%
+173
+ 
+435
+ 
+Other investments
+Various
+325
+ 
+266
+ 
+Equity investments
+$
+4,222
+ 
+$
+2,846
+ 
+(1)
+Results are included in miscellaneous, net in our income statement under non-operating expense.
+(2)
+At December 31, 2025, we held 
+14.8
+% of the outstanding shares (including common and preferred), and 
+14.9
+% of the common shares, of Hanjin KAL.
+(3)
+Our voting rights with respect to Wheels Up are capped at 
+29.9
+%. We elected to account for our equity method investment under the fair value option.
+(4)
+Unless otherwise indicated below, movements in our ownership interest result from changes in our equity investees' outstanding shares.
+Delta Air Lines, Inc. | 2025 Form 10-K
+68
+Notes to the Consolidated Financial Statements
+Grupo Aeroméxico. 
+In November 2025, Grupo Aeroméxico issued shares through an initial public offering which reduced our ownership interest to 
+19
+%. We continue to account for our investment under the equity method as the reduced ownership stake does not change our ability to exercise significant influence with Grupo Aeroméxico. Our equity investment is subject to contractual transfer restrictions until November 2029.
+Republic Airways Holdings. 
+In November 2025, Republic Airways and Mesa Air Group merged to create Republic Airways Holdings, Inc., a publicly traded company, and as a result our ownership decreased to 
+14
+%. This investment is subject to contractual transfer restrictions until May 2026.
+Unifi Aviation. 
+In December 2025, we sold a portion of our Unifi investment to Argenbright Holdings for $
+80
+ million, reducing our ownership from 
+49
+% to 
+20
+%. We continue to account for our investment under the equity method. Results are included in contracted services in our income statement as this entity is integral to the operations of our business by providing services at many of our airport locations.
+WestJet.
+ In October 2025, we acquired a 
+12.7
+% equity stake in WestJet for $
+276
+ million. As part of the transaction, we also assumed a commensurate portion of a shareholder loan receivable from the previous owner.
+Wheels Up.
+ We concluded that Wheels Up is a variable interest entity ("VIE"). A VIE requires consolidation by the entity’s primary beneficiary. We determined that we are not the primary beneficiary after assessing the decision-making process for the significant activities of Wheels Up, concluding that Wheels Up's Board of Directors continues to possess the decision-making authority over the significant activities. Although we are represented on the Board, we do not control Wheels Up's Board. Based on this assessment, Wheels Up is not consolidated in our financial statements.
+During the September 2025 quarter, we agreed to extend the contractual transfer restrictions on our investment in Wheels Up until May 2026 and thereafter will remain subject to certain, more limited transfer restrictions.
+Other Investments
+This category includes various investments that are accounted for at fair value or under the equity method, depending on our ownership interest and the level of influence conveyed by our investment. Among others, this category includes our equity method investments in Virgin Atlantic and JFK IAT Member LLC.
+Virgin Atlantic.
+ The carrying value of our investment in Virgin Atlantic remains 
+zero
+ as of December 31, 2025. We maintain our 
+49
+% equity interest and continue to track our share of Virgin Atlantic's losses under the equity method of accounting. These previously unrecognized losses are only recorded to the extent we make additional investments in Virgin Atlantic (i.e., additional shareholder support). As of December 31, 2025, we have approximately $
+620
+ million of unrecognized equity method losses related to our 
+49
+% interest in Virgin Atlantic.
+JFK IAT Member LLC.
+ We have an equity method investment in JFK IAT Member LLC, which owns JFK International Air Terminal LLC ("IAT"), our landlord at the New York-JFK Airport. We have a long-term agreement with IAT to sublease space in Terminal 4 through 2043 ("Sublease") which requires us to pay certain fixed management fees. We determined that the investment is a VIE and assessed whether we have a controlling financial interest in IAT. Our rights under the Sublease, with respect to management of Terminal 4, are consistent with rights granted to an anchor tenant under a standard airport lease. Accordingly, we do not consolidate this entity in our Consolidated Financial Statements.
+NOTE 5. 
+GOODWILL AND INTANGIBLE ASSETS
+Goodwill and Indefinite-Lived Intangible Assets
+Our goodwill and identifiable intangible assets relate to the airline segment. We apply a fair value-based impairment test to the carrying value of goodwill and indefinite-lived intangible assets on an annual basis (as of October 1) and, if certain events or circumstances indicate that an impairment loss may have been incurred, on an interim basis. We assess the value of our goodwill and indefinite-lived assets under either a qualitative or quantitative approach. Under a qualitative approach, we consider various market factors, including certain of the key assumptions listed below. We analyze these factors to determine if events and circumstances have affected the fair value of goodwill and indefinite-lived intangible assets. If we determine that it is more likely than not that the asset may be impaired, we use the quantitative approach to assess the asset's fair value and the amount of the impairment. Under a quantitative approach, we calculate the fair value of the asset incorporating the key assumptions listed below into our calculation.
+Delta Air Lines, Inc. | 2025 Form 10-K
+69
+Notes to the Consolidated Financial Statements
+We value goodwill and indefinite-lived intangible assets primarily using market and income approach valuation techniques. These measurements include the following key assumptions (1) forecasted revenues, expenses and cash flows, (2) current discount rates, (3) observable market transactions and (4) anticipated changes to the regulatory environment (e.g., changes in slot access and/or availability, additional Open Skies agreements or changes to antitrust approvals). These assumptions are consistent with those that hypothetical market participants would use. Because we are required to make estimates and assumptions when evaluating goodwill and indefinite-lived intangible assets for impairment, actual transaction amounts may differ materially from these estimates. We recognize an impairment charge if the asset's carrying value exceeds its estimated fair value.
+Changes in certain events and circumstances could result in impairment or a change from indefinite-lived to definite-lived. Factors which could cause impairment include, but are not limited to (1) negative trends in our market capitalization, (2) reduced profitability resulting from lower passenger mile yields or higher input costs, (3) lower passenger demand as a result of weakened U.S. and global economies or other factors, (4) prolonged interruption to our operations, (5) changes to the regulatory environment, (6) operational or performance changes by other airlines and (7) strategic changes to our operations leading to diminished utilization of the intangible assets.
+Identifiable Intangible Assets.
+ Indefinite-lived assets are not amortized and consist of routes, slots, the Delta tradename and assets related to alliances and collaborative arrangements. Definite-lived intangible assets consist primarily of marketing and maintenance service agreements and are amortized on a straight-line basis or under the undiscounted cash flows method over the estimated economic life of the respective agreements. Costs incurred to renew or extend the term of an intangible asset are expensed as incurred.
+During the December 2025 quarter, we performed qualitative assessments of goodwill and indefinite-lived intangible assets, including applicable factors noted above, and determined that there was no indication that the assets were impaired. Our qualitative assessments include analyses and weighting of all relevant factors that impact the fair value of our goodwill and indefinite-lived intangible assets. We previously performed quantitative assessments in the December 2023 quarter, noting no impairment of goodwill or indefinite-lived intangible assets.
+Goodwill and indefinite-lived intangible assets by category
+Carrying Value at
+(in millions)
+December 31, 2025
+December 31, 2024
+Goodwill
+$
+9,753
+ 
+$
+9,753
+ 
+International routes and slots
+2,583
+ 
+2,583
+ 
+Airline alliances
+1,863
+ 
+1,863
+ 
+Delta tradename
+850
+ 
+850
+ 
+Domestic slots
+622
+ 
+622
+ 
+Total
+$
+15,671
+ 
+$
+15,671
+ 
+International Routes and Slots.
+ This primarily relates to Pacific route authorities and slots at capacity-constrained airports in Asia, and slots at London-Heathrow airport.
+Airline Alliances.
+ This primarily relates to our commercial agreements with LATAM and our SkyTeam partners.
+Domestic Slots.
+ This primarily relates to our slots at New York-LaGuardia and Washington-Reagan National airports.
+Delta Air Lines, Inc. | 2025 Form 10-K
+70
+Notes to the Consolidated Financial Statements
+Definite-Lived Intangible Assets
+Definite-lived intangible assets by category
+December 31, 2025
+December 31, 2024
+(in millions)
+Gross Carrying Value
+Accumulated Amortization
+Gross Carrying Value
+Accumulated Amortization
+Marketing agreements
+$
+730
+ 
+$
+(
+717
+)
+$
+730
+ 
+$
+(
+712
+)
+Maintenance contracts
+192
+ 
+(
+158
+)
+192
+ 
+(
+154
+)
+Other
+54
+ 
+(
+53
+)
+54
+ 
+(
+53
+)
+Total
+$
+976
+ 
+$
+(
+928
+)
+$
+976
+ 
+$
+(
+919
+)
+Amortization expense was $
+8
+ million for the year ended December 31, 2025 and was $
+9
+ million for the years ended 2024 and 2023. Based on our definite-lived intangible assets at December 31, 2025, we estimate that we will incur approximately $
+7
+ million of amortization expense annually from 2026 through 2030.
+NOTE 6. 
+DEBT
+The following table summarizes our debt as of the dates indicated below:
+Summary of outstanding debt by category
+Maturity Dates
+Interest Rate(s) Per Annum at December 31, 2025
+December 31,
+(in millions)
+2025
+2024
+Unsecured notes
+2028
+to
+2030
+3.75
+%
+to
+5.30
+%
+$
+2,884
+ 
+$
+1,575
+ 
+Unsecured Payroll Support Program Loans
+(1)
+2031
+1.00
+%
+1,848
+ 
+3,496
+ 
+Financing arrangements secured by SkyMiles assets:
+SkyMiles Notes
+(2)
+2026
+to
+2028
+4.75
+%
+3,422
+ 
+3,970
+ 
+SkyMiles Term Loan
+(2)(3)
+2026
+to
+2028
+5.38
+%
+588
+ 
+784
+ 
+NYTDC Special Facilities Revenue Bonds
+(2)
+2026
+to
+2045
+4.00
+%
+to
+6.00
+%
+3,522
+ 
+3,591
+ 
+Financing arrangements secured by aircraft:
+Certificates
+(2)
+2026
+to
+2028
+2.00
+%
+to
+8.00
+%
+894
+ 
+992
+ 
+Notes
+(2)(3)
+2026
+to
+2033
+5.96
+%
+to
+7.18
+%
+78
+ 
+87
+ 
+Financing arrangements secured by slots, gates and/or routes:
+Senior Secured Notes
+2025
+—
+%
+—
+ 
+812
+ 
+Other financings
+(2)
+2030
+5.00
+%
+66
+ 
+66
+ 
+Corporate Revolving Credit Facility
+2026
+to
+2028
+Undrawn
+—
+ 
+—
+ 
+Other revolving credit facilities
+(3)
+2026
+Undrawn
+—
+ 
+—
+ 
+Total secured and unsecured debt
+13,302
+ 
+15,373
+ 
+Unamortized (discount)/premium and debt issuance cost, net and other
+6
+ 
+(
+26
+)
+Total debt
+13,308
+ 
+15,347
+ 
+Less: current maturities
+(
+1,372
+)
+(
+1,801
+)
+Total long-term debt
+$
+11,936
+ 
+$
+13,546
+ 
+(1)
+Interest rates on the Payroll Support Program ("PSP") loans are 
+1.00
+% for the first 
+five years
+ and the applicable SOFR plus 
+2.00
+% in the final 
+five years
+. The applicable interest rates will begin to adjust for each loan in January 2026 and April 2026.
+(2)
+Due in installments during the years shown above.
+(3)
+Certain financings are comprised of variable rate debt. All variable rates are equal to SOFR (generally subject to a floor) or another index rate plus a specified margin.
+Delta Air Lines, Inc. | 2025 Form 10-K
+71
+Notes to the Consolidated Financial Statements
+2025 Unsecured Notes
+In June 2025, we issued $
+2.0
+ billion in aggregate principal amounts of unsecured notes, consisting of $
+1.0
+ billion of 
+4.95
+% Notes due 2028 and $
+1.0
+ billion of 
+5.25
+% Notes due 2030 (collectively, the "Notes"). The Notes are included in Unsecured notes in the table above. The net proceeds from the offering of the Notes were used to repay the Payroll Support Program ("PSP") loan due 2030 included in Unsecured Payroll Support Program Loans in the table above and for general corporate purposes.
+SkyMiles Credit Facility
+In September 2025, we and our indirect wholly-owned subsidiary SkyMiles IP Ltd. entered into an amendment to the SkyMiles Term Loan credit and guaranty agreement (the "SkyMiles Credit Facility"). This amendment, among other things, (i) refinanced the existing term loans with the proceeds of replacement term loans bearing interest at a variable rate equal to an adjusted term SOFR, plus a reduced margin of 
+1.50
+% per annum, payable quarterly; (ii) extended the scheduled maturity from October 2027 to October 2028; (iii) reduced the principal amortization payments from 
+20
+% to 
+1
+% per year, payable quarterly; and (iv) added a prepayment premium of 
+1.00
+% payable in connection with a Repricing Event (as defined in the amended SkyMiles Credit Facility) occurring within six months following September 30, 2025. No such repricing event has occurred as of December 31, 2025.
+2026 Term Loan
+In January 2026, we entered into a $
+1.3
+ billion term loan issued by a group of lenders due December 2026. The proceeds of the term loan were used to repay $
+957
+ million of the PSP loans due 2031 included in Unsecured Payroll Support Program Loans in the table above and for general corporate purposes.
+Availability Under Revolving Facilities
+As of December 31, 2025, we had approximately $
+3.1
+ billion undrawn and available under our revolving credit facilities.
+Fair Value of Debt
+Market risk associated with our fixed- and variable-rate debt relates to the potential reduction in fair value and negative impact to future earnings, respectively, from an increase in interest rates. 
+The fair value of debt, shown below, is principally based on reported market values, recently completed market transactions and estimates based on interest rates, maturities, credit risk and underlying collateral. Debt is primarily classified as Level 1 or Level 2 within the fair value hierarchy.
+Fair value of outstanding debt
+(in millions)
+December 31, 2025
+December 31, 2024
+Net carrying amount
+$
+13,308
+ 
+$
+15,347
+ 
+Fair value
+$
+13,400
+ 
+$
+15,300
+ 
+Covenants
+Our debt agreements contain various affirmative, negative and financial covenants. For example, certain credit facilities, including our SkyMiles financing agreements, contain, among other things, minimum coverage ratios. Our SkyMiles financing agreements also include a minimum liquidity covenant which requires us to maintain at least $
+2.0
+ billion of liquidity (defined as cash, cash equivalents, short-term investments and aggregate principal amount committed and available to be drawn under our revolving credit facilities). In addition, the SkyMiles financing agreements restrict our ability to, among other things, (1) modify the terms of the SkyMiles program, or otherwise change the policies and procedures of the SkyMiles program, in a manner that would reasonably be expected to materially impair repayment of the SkyMiles Debt, (2) sell pre-paid miles in excess of $
+550
+ million in the aggregate and (3) terminate or materially modify the intercompany arrangements governing the relationship between Delta and SkyMiles IP Ltd. with respect to the SkyMiles program. Certain of our debt agreements limit our ability to (1) incur liens under certain circumstances, (2) dispose of collateral and (3) engage in mergers and consolidations or transfer all or substantially all of our assets.
+Each of these restrictions is subject to certain exceptions and qualifications that are set forth in these debt agreements. We were in compliance with the covenants in our debt agreements at December 31, 2025.
+Delta Air Lines, Inc. | 2025 Form 10-K
+72
+Notes to the Consolidated Financial Statements
+Future Maturities
+The following table summarizes scheduled maturities of our debt for the years succeeding December 31, 2025:
+Future debt maturities
+(in millions)
+Total Debt
+Amortization of Debt (Discount)/Premium and Debt Issuance Cost, net and other
+2026
+$
+1,367
+ 
+$
+(
+2
+)
+2027
+1,878
+ 
+2
+ 
+2028
+3,460
+ 
+(
+1
+)
+2029
+621
+ 
+4
+ 
+2030
+1,222
+ 
+5
+ 
+Thereafter
+4,754
+ 
+(
+2
+)
+Total
+$
+13,302
+ 
+$
+6
+ 
+$
+13,308
+ 
+NOTE 7. 
+LEASES
+We lease property and equipment under finance and operating leases. For leases with terms greater than 12 months, we record the related asset and obligation at the present value of the fixed minimum lease payments over the term. Many of our leases include rental escalation clauses, renewal options and/or termination options that are factored into our determination of lease payments when appropriate. We do not separate lease and nonlease components of contracts, except for regional aircraft and information technology ("IT") assets as discussed below.
+We use the rate implicit in the lease to discount lease payments to present value, when readily determinable. When the rate implicit in the lease is not readily determinable, we use our incremental borrowing rate, which is based on the estimated interest rate for collateralized borrowing over a similar term of the lease at commencement date.
+Some of our aircraft lease agreements include provisions for residual value guarantees. These guarantees represent an immaterial portion of our lease liability.
+Aircraft
+As of December 31, 2025, including aircraft operated by our regional carriers, we leased 
+122
+ aircraft, of which 
+20
+ were under finance leases and 
+102
+ were operating leases. Our aircraft leases had remaining lease terms of 
+two months
+ to 
+10
+ years.
+In addition, we have regional aircraft leases that are embedded within our capacity purchase agreements and included in the ROU asset and lease liability. We allocated the consideration in each capacity purchase agreement to the lease and nonlease components based on their relative standalone fair values. Lease components of these agreements consist of 
+119
+ aircraft as of December 31, 2025 and nonlease components primarily consist of flight operations, in-flight and maintenance services. We determined our best estimate of the standalone fair value of the individual components by considering observable information including rates paid by our wholly owned subsidiary, Endeavor Air, Inc., and rates published by independent valuation firms. See Note 9, "Commitments and Contingencies," for additional information about our capacity purchase agreements.
+Airport Facilities
+Our facility leases are primarily for space at approximately 
+300
+ airports around the world that we serve. These leases reflect our use of airport terminals, office space, cargo warehouses and maintenance facilities. We generally lease space from government agencies that control the use of the airport, and as a result, these leases are classified as operating leases. The remaining lease terms vary from 
+one month
+ to 
+28
+ years. At the majority of the U.S. airports, the lease rates depend on airport operating costs or use of the facilities and are reset at least annually. Because of the variable nature of the rates, these leases are not recorded on our balance sheets.
+Some airport facilities have fixed payment schedules, the most significant of which is New York-JFK, which comprises the majority of our ground and other operating ROU asset and lease liability. For those airport leases with fixed payment schedules, we have recorded a ROU asset and lease liability representing the fixed component of the lease payments.
+Delta Air Lines, Inc. | 2025 Form 10-K
+73
+Notes to the Consolidated Financial Statements
+Other Ground Property and Equipment
+We lease certain IT assets (including servers, mainframes, etc.), ground support equipment (including tugs, tractors, fuel trucks and de-icers) and various other equipment. The remaining lease terms range from 
+one month
+ to 
+five years
+. Certain leased assets are embedded within various ground and IT service agreements. For ground service contracts, we have elected to include both the lease and nonlease components in the lease asset and lease liability balances on our balance sheets. For IT service contracts, we have elected to separate the lease and nonlease components and only the lease components are included in the lease asset and lease liability balances on our balance sheets. The amounts of these lease and nonlease components are not significant.
+Lease Position
+The table below presents the lease-related assets and liabilities recorded on the balance sheets.
+Lease asset and liability balance sheet position by category
+December 31,
+(in millions)
+Classification on the Balance Sheets
+2025
+2024
+Assets
+Operating lease assets - Fleet
+(1)
+Operating lease right-of-use assets
+$
+2,575
+ 
+$
+2,910
+ 
+Operating lease assets - Ground and other
+Operating lease right-of-use assets
+3,669
+ 
+3,734
+ 
+Finance lease assets
+Property and equipment, net
+835
+ 
+825
+ 
+Total lease assets
+$
+7,079
+ 
+$
+7,469
+ 
+Liabilities
+Current
+Operating - Fleet
+(1)
+Current maturities of operating leases
+$
+591
+ 
+$
+551
+ 
+Operating - Ground and other
+Current maturities of operating leases
+218
+ 
+212
+ 
+Finance
+Current maturities of debt and finance leases
+233
+ 
+374
+ 
+Noncurrent
+Operating - Fleet
+(1)
+Noncurrent operating leases
+2,190
+ 
+2,627
+ 
+Operating - Ground and other
+Noncurrent operating leases
+3,163
+ 
+3,187
+ 
+Finance
+Debt and finance leases
+572
+ 
+473
+ 
+Total lease liabilities
+$
+6,967
+ 
+$
+7,424
+ 
+Weighted-average remaining lease term
+Operating leases
+12
+ years
+12
+ years
+Finance leases
+3
+ years
+3
+ years
+Weighted-average discount rate
+Operating leases
+4.21
+ 
+%
+4.28
+ 
+%
+Finance leases
+3.63
+ 
+%
+3.53
+ 
+%
+(1)
+Includes mainline and regional aircraft leases, regional aircraft leases embedded within our capacity purchase arrangements, and engine leases. The interest portion of straight-line rent expense related to fleet operating leases was $
+140
+ million and $
+165
+ million during the years ended December 31, 2025 and 2024, respectively.
+Delta Air Lines, Inc. | 2025 Form 10-K
+74
+Notes to the Consolidated Financial Statements
+Lease Costs
+The table below presents certain information related to the lease costs for finance and operating leases.
+Lease cost by category
+Year Ended December 31,
+(in millions)
+2025
+2024
+2023
+Finance lease cost
+Amortization of leased assets
+$
+66
+ 
+$
+88
+ 
+$
+109
+ 
+Interest of lease liabilities
+37
+ 
+54
+ 
+42
+ 
+Operating lease cost
+(1)
+976
+ 
+974
+ 
+981
+ 
+Short-term lease cost
+(1)
+268
+ 
+206
+ 
+258
+ 
+Variable lease cost
+(1)
+3,343
+ 
+2,902
+ 
+2,230
+ 
+Total lease cost
+$
+4,690
+ 
+$
+4,224
+ 
+$
+3,620
+ 
+(1)
+Expenses are primarily classified within aircraft rent, landing fees and other rents and regional carrier expense
+ 
+on our income statement.
+Other Information
+The table below presents supplemental cash flow information related to leases.
+Supplemental lease-related cash flow information
+Year Ended December 31,
+(in millions)
+2025
+2024
+2023
+Cash paid for amounts included in the measurement of lease liabilities
+Operating cash flows for operating leases
+$
+981
+ 
+$
+1,225
+ 
+$
+1,230
+ 
+Operating cash flows for finance leases
+36
+ 
+56
+ 
+71
+ 
+Financing cash flows for finance leases
+114
+ 
+190
+ 
+264
+ 
+Undiscounted Cash Flows
+The table below reconciles the undiscounted cash flows for each of the first five years and total of the remaining years to the finance lease liabilities and operating lease liabilities recorded on the balance sheet.
+Future lease cash flows and reconciliation to the balance sheet
+(in millions)
+Operating Leases
+Finance Leases
+2026
+$
+1,020
+ 
+$
+256
+ 
+2027
+967
+ 
+289
+ 
+2028
+846
+ 
+61
+ 
+2029
+641
+ 
+49
+ 
+2030
+508
+ 
+109
+ 
+Thereafter
+3,784
+ 
+106
+ 
+Total minimum lease payments
+7,766
+ 
+870
+ 
+Less: amount of lease payments representing interest
+(
+1,604
+)
+(
+65
+)
+Present value of future minimum lease payments
+6,162
+ 
+805
+ 
+Less: current obligations under leases
+(
+809
+)
+(
+233
+)
+Long-term lease obligations
+$
+5,353
+ 
+$
+572
+ 
+As of December 31, 2025, we had additional leases that will commence in the future (primarily in 2027) with contractual lease payments of $
+122
+ million. These are primarily regional aircraft leases with lease terms of 
+seven years
+.
+Delta Air Lines, Inc. | 2025 Form 10-K
+75
+Notes to the Consolidated Financial Statements
+NOTE 8. 
+EMPLOYEE BENEFIT PLANS
+We sponsor defined benefit and defined contribution pension plans, healthcare plans and disability and survivorship plans for eligible employees and retirees and their eligible family members.
+Defined Benefit Pension Plans.
+ We sponsor defined benefit pension plans for eligible employees and retirees. These plans are generally closed to new entrants and frozen for future benefit accruals. Our funding obligations for qualified defined benefit plans are governed by the Employee Retirement Income Security Act and any additional applicable legislation. Under current legislation, any required funding would be amortized over a rolling 15-year period and calculated using a discount rate of no less than 4.75% through 2030. We estimate that there will be approximately $
+5
+ million of minimum funding requirements under these plans in 2026.
+We also sponsor a market based cash balance plan, a defined benefit pension plan for eligible pilots that is funded by company contributions in excess of IRS limits in the 401(k) plan. We fund this plan with cash contributions as benefits are earned and invest those assets. The participants’ benefit is the sum of the contributions made on their behalf plus any positive return on the invested contributions. In estimating the related benefit obligation and net benefit cost, the expected long-term rate of return on plan assets is used in determining the interest crediting rate.
+Defined Contribution Pension Plans.
+ We sponsor several defined contribution plans. These plans generally cover different employee groups and employer contributions vary by plan. The costs associated with our defined contribution pension plans were approximately $
+1.4
+ billion, $
+1.3
+ billion and $
+1.2
+ billion for the years ended December 31, 2025, 2024 and 2023, respectively.
+Postretirement Healthcare Plans.
+ We sponsor healthcare plans that provide benefits to eligible retirees and their dependents who are under age 
+65
+. We have generally eliminated company-paid post age 
+65
+ healthcare coverage, except for (1) subsidies available to a limited group of retirees and their dependents, (2) a group of retirees who retired prior to 1987 and (3) retiree medical accounts which provide a fixed dollar amount to eligible employees who retired under the 2012 voluntary workforce reduction programs or the 2020 voluntary early retirement and separation programs ("voluntary programs").
+Postemployment Plans.
+ We provide certain other welfare benefits to eligible former or inactive employees after employment but before retirement, primarily as part of the disability and survivorship plans. Substantially all employees are eligible for benefits under these plans in the event of death and/or disability.
+Benefits under our postretirement and postemployment plans are funded from current assets and employee contributions.
+Delta Air Lines, Inc. | 2025 Form 10-K
+76
+Notes to the Consolidated Financial Statements
+Benefit Obligations, Fair Value of Plan Assets and Funded Status
+Pension Benefits
+December 31,
+(1)
+Other Postretirement and Postemployment Benefits
+December 31,
+(in millions)
+2025
+2024
+2025
+2024
+Benefit obligation at beginning of period
+$
+14,967
+ 
+$
+15,911
+ 
+$
+3,265
+ 
+$
+3,503
+ 
+Service cost
+273
+ 
+233
+ 
+132
+ 
+92
+ 
+Interest cost
+831
+ 
+820
+ 
+181
+ 
+182
+ 
+Actuarial loss/(gain)
+266
+ 
+(
+738
+)
+141
+ 
+(
+50
+)
+Benefits paid, including lump sums and annuities
+(
+1,315
+)
+(
+1,259
+)
+(
+489
+)
+(
+497
+)
+Participant contributions
+—
+ 
+—
+ 
+27
+ 
+30
+ 
+Special termination benefits
+—
+ 
+—
+ 
+1
+ 
+5
+ 
+Benefit obligation at end of period
+(2)
+$
+15,022
+ 
+$
+14,967
+ 
+$
+3,258
+ 
+$
+3,265
+ 
+Fair value of plan assets at beginning of period
+$
+15,905
+ 
+$
+15,766
+ 
+$
+27
+ 
+$
+33
+ 
+Actual gain on plan assets
+2,338
+ 
+1,142
+ 
+10
+ 
+(
+7
+)
+Employer contributions
+352
+ 
+256
+ 
+466
+ 
+468
+ 
+Benefits paid, including lump sums and annuities
+(
+1,315
+)
+(
+1,259
+)
+(
+489
+)
+(
+497
+)
+Participant contributions
+—
+ 
+—
+ 
+27
+ 
+30
+ 
+Fair value of plan assets at end of period
+$
+17,280
+ 
+$
+15,905
+ 
+$
+41
+ 
+$
+27
+ 
+Funded status at end of period
+$
+2,258
+ 
+$
+938
+ 
+$
+(
+3,217
+)
+$
+(
+3,238
+)
+(1)
+Service cost shown above relates to the market based cash balance plan. There is no service cost associated with traditional frozen defined benefit plans.
+(2)
+At the end of each year presented, our accumulated benefit obligations for our pension plans are equal to the benefit obligations shown above.
+During 2025, net actuarial losses increased our benefit obligation primarily due to the decrease in discount rates. During 2024, net actuarial gains decreased our benefit obligation primarily due to the increase in discount rates. These gains and losses are recorded in AOCI and reflected in the table below. Amounts are generally amortized from AOCI over the expected future lifetime of plan participants.
+Balance Sheet Position
+Pension Benefits
+December 31,
+Other Postretirement and Postemployment Benefits
+December 31,
+(in millions)
+2025
+2024
+2025
+2024
+Other noncurrent assets 
+$
+2,320
+ 
+$
+1,005
+ 
+$
+—
+ 
+$
+—
+ 
+Current liabilities
+(
+8
+)
+(
+9
+)
+(
+425
+)
+(
+430
+)
+Noncurrent liabilities
+(
+54
+)
+(
+58
+)
+(
+2,792
+)
+(
+2,808
+)
+Funded status at end of period
+$
+2,258
+ 
+$
+938
+ 
+$
+(
+3,217
+)
+$
+(
+3,238
+)
+Net actuarial loss
+$
+(
+4,201
+)
+$
+(
+5,407
+)
+$
+(
+216
+)
+$
+(
+103
+)
+Prior service credit
+—
+ 
+—
+ 
+(
+6
+)
+(
+3
+)
+Total accumulated other comprehensive loss, pre-tax
+$
+(
+4,201
+)
+$
+(
+5,407
+)
+$
+(
+222
+)
+$
+(
+106
+)
+Certain pension plans have benefit obligations in excess of plan assets. These plans have aggregate projected benefit obligations of $
+62
+ million and are unfunded at December 31, 2025.
+Delta Air Lines, Inc. | 2025 Form 10-K
+77
+Notes to the Consolidated Financial Statements
+Net Periodic Cost
+Pension Benefits
+Year Ended December 31,
+(1)
+Other Postretirement and Postemployment Benefits
+Year Ended December 31,
+(in millions)
+2025
+2024
+2023
+2025
+2024
+2023
+Service cost
+$
+273
+ 
+$
+233
+ 
+$
+95
+ 
+$
+132
+ 
+$
+92
+ 
+$
+71
+ 
+Interest cost
+831
+ 
+820
+ 
+855
+ 
+181
+ 
+182
+ 
+200
+ 
+Expected return on plan assets
+(
+1,067
+)
+(
+1,062
+)
+(
+1,060
+)
+(
+2
+)
+(
+2
+)
+(
+1
+)
+Amortization of prior service credit
+—
+ 
+—
+ 
+—
+ 
+(
+4
+)
+(
+4
+)
+(
+5
+)
+Recognized net actuarial loss
+202
+ 
+248
+ 
+240
+ 
+20
+ 
+18
+ 
+14
+ 
+Special termination benefits
+—
+ 
+—
+ 
+—
+ 
+1
+ 
+5
+ 
+—
+ 
+Net periodic cost
+$
+239
+ 
+$
+239
+ 
+$
+130
+ 
+$
+328
+ 
+$
+291
+ 
+$
+279
+ 
+(1)
+Service cost shown above relates to the market based cash balance plan. There is no service cost associated with traditional frozen defined benefit plans.
+Service cost is recorded in salaries and related costs in the income statement, while all other components are recorded within miscellaneous, net under non-operating expense.
+Assumptions
+We used the following actuarial assumptions to determine our benefit obligations and our net periodic cost for the periods presented:
+December 31,
+Benefit Obligations
+(1)
+2025
+2024
+Weighted average discount rate
+5.50
+ 
+%
+5.71
+ 
+%
+Year Ended December 31,
+Net Periodic Cost
+(1)
+2025
+2024
+2023
+Weighted average discount rate
+5.53
+ 
+%
+5.33
+ 
+%
+5.59
+ 
+%
+Weighted average expected long-term rate of return on plan assets
+6.96
+ 
+%
+6.97
+ 
+%
+7.00
+ 
+%
+Assumed healthcare cost trend rate for the next year
+(2)
+7.25
+ 
+%
+6.50
+ 
+%
+6.25
+ 
+%
+(1)
+Future employee compensation levels do not impact our frozen defined benefit pension plans or other postretirement plans and impact only a small portion of our other postemployment obligation.
+(2)
+Healthcare cost trend rate is assumed to decline gradually to 
+5.00
+% by 2036 and remain unchanged thereafter.
+Expected Long-Term Rate of Return.
+ Our expected long-term rate of return on plan assets is based primarily on plan-specific investment studies using historical market return and volatility data. Modest excess return expectations versus some public market indices are incorporated into the return projections based on the actively managed structure of the investment programs and their records of achieving such returns historically. We also expect to receive a premium for investing in less liquid private markets. We review our rate of return on plan assets assumptions annually. Our annual investment performance for one particular year does not, by itself, significantly influence our evaluation. The investment strategy for our defined benefit pension plan assets is to earn a long-term return that meets or exceeds our annualized return target while taking an acceptable level of risk and maintaining sufficient liquidity to pay current benefits and other cash obligations of the plan. This is achieved by investing in a globally diversified mix of public and private equity, fixed income, real assets, hedge funds and other assets and instruments. Our weighted average expected long-term rate of return on assets for net periodic cost for the year ended December 31, 2025 was 
+6.96
+%.
+Life Expectancy.
+ Changes in life expectancy may significantly impact our benefit obligations and future net periodic cost. Each year we review information published by the Society of Actuaries and other publicly available information to develop our best estimate of life expectancy for purposes of measuring pension and other postretirement and postemployment benefit obligations.
+Delta Air Lines, Inc. | 2025 Form 10-K
+78
+Notes to the Consolidated Financial Statements
+Benefit Payments
+Benefit payments in the table below are based on the same assumptions used to measure the related benefit obligations. Actual benefit payments may vary significantly from these estimates. Benefits earned under our pension plans are expected to be paid from funded benefit plan trusts, while our other postretirement and postemployment benefits are funded from current assets. 
+The following table summarizes the benefit payments that are expected to be paid in the years ending December 31:
+Expected future benefit payments
+(in millions)
+Pension Benefits
+Other Postretirement and Postemployment Benefits
+2026
+1,390
+ 
+480
+ 
+2027
+1,400
+ 
+480
+ 
+2028
+1,390
+ 
+490
+ 
+2029
+1,380
+ 
+490
+ 
+2030
+1,380
+ 
+500
+ 
+2031-2035
+6,530
+ 
+2,450
+ 
+Plan Assets
+We have adopted and implemented investment policies for our defined benefit pension plans that incorporate strategic asset allocation mixes intended to best meet the plans' long-term obligations, while maintaining an appropriate level of risk and liquidity. These asset portfolios employ a diversified mix of investments, which are reviewed periodically. Active management strategies are utilized where feasible in an effort to realize investment returns in excess of market indices. Derivatives in the plans are primarily used to manage risk and gain asset class exposure while preserving liquidity. As part of these strategies, the plans are required to hold cash collateral associated with certain derivatives. Our investment strategies target a mix of 
+20
+-
+40
+% growth-seeking assets, 
+25
+-
+35
+% income-generating assets and 
+35
+-
+45
+% risk-diversifying assets. Risk diversifying assets include hedge funds implementing long-short, market neutral and relative value strategies that invest primarily in publicly-traded equity, fixed income, foreign currency and commodity securities and are used to improve the impact of active management on the plans.
+Benefit Plan Assets Measured at Fair Value on a Recurring Basis
+Benefit plan assets relate to our defined benefit pension plans and certain of our postemployment benefit plans. These investments are presented net of the related benefit obligation in either other noncurrent assets or pension, postretirement and related benefits on the balance sheets depending on the funded status of each plan. See Note 3, "Fair Value Measurements," for a description of the levels within the fair value hierarchy and associated valuation techniques used to measure fair value. 
+The following table shows our benefit plan assets by asset class.
+Benefit plan assets measured at fair value on a recurring basis
+December 31, 2025
+December 31, 2024
+Valuation Technique
+(in millions)
+Level 1
+Level 2
+Total
+Level 1
+Level 2
+Total
+Fixed income and fixed income-related instruments
+$
+78
+ 
+$
+1,255
+ 
+$
+1,333
+ 
+$
+85
+ 
+$
+1,080
+ 
+$
+1,165
+ 
+(a)(b)
+Cash equivalents
+494
+ 
+290
+ 
+784
+ 
+330
+ 
+138
+ 
+468
+ 
+(a)
+Equities and equity-related instruments
+1,365
+ 
+7
+ 
+1,372
+ 
+978
+ 
+3
+ 
+981
+ 
+(a)
+Delta common stock
+570
+ 
+—
+ 
+570
+ 
+595
+ 
+—
+ 
+595
+ 
+(a)
+Real assets
+17
+ 
+160
+ 
+177
+ 
+—
+ 
+25
+ 
+25
+ 
+(a)
+Benefit plan assets
+$
+2,524
+ 
+$
+1,712
+ 
+$
+4,236
+ 
+$
+1,988
+ 
+$
+1,246
+ 
+$
+3,234
+ 
+Investments measured at net asset value ("NAV")
+(1)
+13,045
+ 
+12,438
+ 
+Total benefit plan assets
+$
+17,281
+ 
+$
+15,672
+ 
+(1)
+Investments that were measured at NAV per share (or its equivalent) as a practical expedient have not been classified in the fair value hierarchy.
+Delta Air Lines, Inc. | 2025 Form 10-K
+79
+Notes to the Consolidated Financial Statements
+Fixed Income and Fixed Income-Related Instruments.
+ These investments include corporate bonds, government bonds, collateralized mortgage obligations and other asset-backed securities, and are generally valued at the bid price or the average of the bid and ask price. Prices are based on pricing models, quoted prices of securities with similar characteristics or broker quotes. Fixed income-related instruments include investments in securities traded on exchanges, including listed futures and options, which are valued at the last reported sale prices on the last business day of the year, or if not available, the last reported bid prices. Over-the-counter securities are valued at the bid prices or the average of the bid and ask prices on the last business day of the year from published sources or, if not available, from other sources considered reliable, generally broker quotes.
+Cash Equivalents.
+ These investments primarily consist of high-quality, short-term obligations that are a part of institutional money market mutual funds that are valued using current market quotations or an appropriate substitute that reflects current market conditions.
+Equities and Equity-Related Instruments.
+ These investments include common stock and equity-related instruments. Common stock is valued at the closing price reported on the active market on which the individual securities are traded. Equity-related instruments include investments in securities traded on exchanges, including listed futures and options, which are valued at the last reported sale prices on the last business day of the year or, if not available, the last reported bid prices. Over-the-counter securities are valued at the bid prices or the average of the bid and ask prices on the last business day of the year from published sources or, if not available, from other sources considered reliable, generally broker quotes.
+Delta Common Stock.
+ The Delta common stock investment is managed by an independent fiduciary. Valuation is based on the closing price reported on the exchange where the stock is traded.
+Real Assets.
+ These investments include commodities such as precious metals and precious metals-related instruments, some of which are valued at the closing price reported on the active market on which the individual instruments are traded, while others are priced based on pricing models, quoted prices of securities with similar characteristics or broker quotes.
+The following table summarizes investments measured at fair value based on NAV per share as a practical expedient:
+Benefit plan investment assets measured at NAV
+December 31, 2025
+December 31, 2024
+(in millions)
+Fair Value
+Redemption Frequency
+Redemption Notice Period
+Fair Value
+Redemption Frequency
+Redemption Notice Period
+Hedge funds and hedge fund-related strategies
+$
+6,916
+ 
+(1)
+15
+-
+180
+ Days
+$
+6,519
+ 
+(1)
+15
+-
+180
+ Days 
+Commingled funds, private equity and private equity-related instruments
+(4)
+2,300
+ 
+(1) (2)
+2
+-
+45
+ Days
+2,351
+ 
+(1) (2)
+2
+-
+45
+ Days
+Fixed income and fixed income-related instruments
+(4)
+1,624
+ 
+(1) (2)
+1
+-
+180
+ Days
+1,427
+ 
+(1) (2)
+1
+-
+180
+ Days
+Real assets
+(4)
+1,016
+ 
+(2)
+N/A
+979
+ 
+(2)
+N/A
+Balanced allocation
+621
+ 
+(5)
+0
+-
+3
+ Days
+349
+ 
+(5)
+0
+-
+3
+ Days
+Other
+568
+ 
+(3)
+2
+-
+10
+ Days
+813
+ 
+(3)
+2
+-
+10
+ Days
+Total investments measured at NAV
+$
+13,045
+ 
+$
+12,438
+ 
+(1)
+Various. Includes funds with monthly or more frequent, quarterly and/or custom redemption frequencies as well as funds with a redemption window following the anniversary of the initial investment.
+(2)
+Includes private funds that are closed-ended structures in which the plans' investments are generally not eligible for redemption.
+(3)
+Includes funds with monthly or more frequent redemptions.
+(4)
+Unfunded commitments were $
+1.5
+ billion for commingled funds, private equity and private equity-related instruments, $
+224
+ million for fixed income and fixed income-related instruments and $
+693
+ million for real assets at December 31, 2025.
+(5)
+Includes funds with daily redemptions. The 
+0
+ Days Redemption Notice Period applies to participant-level redemptions. The 
+3
+ Days Redemption Notice Period applies to plan-level redemptions.
+On an annual basis we assess the potential for adjustments to the fair value of all investments. Due to a lag in the availability of data for certain of these investments (this primarily applies to private equity, private equity-related strategies and real assets), we solicit valuation updates from the investment fund managers and use their information and corroborating data from public markets to determine any needed fair value adjustments.
+Hedge Funds and Hedge Fund-Related Strategies.
+ These investments are primarily made through shares of limited partnerships or similar structures for which a liquid secondary market does not exist.
+Delta Air Lines, Inc. | 2025 Form 10-K
+80
+Notes to the Consolidated Financial Statements
+Commingled Funds, Private Equity and Private Equity-Related Instruments.
+ These investments include commingled funds invested primarily in equity securities, as well as private equity and private equity-related instruments. Commingled funds are valued based on fair market value of the underlying assets minus the liabilities. Private equity and private equity-related instruments are typically valued quarterly by the fund managers using valuation models where one or more of the significant inputs into the model cannot be observed and which require the development of assumptions.
+Fixed Income and Fixed Income-Related Instruments.
+ These investments include private fixed income instruments that are typically valued monthly or quarterly by third-party valuation agents in the majority of cases and, less commonly, by the fund managers. In the latter case, a fund manager may use valuation models where one or more of significant inputs into the model cannot be observed and which require the development of assumptions.
+Real Assets.
+ These investments include real estate, energy, timberland, agriculture and infrastructure. The valuation of real assets requires significant judgment due to the absence of quoted market prices as well as the inherent lack of liquidity and the long-term nature of these assets. Real assets are typically valued quarterly by the fund managers using valuation models where one or more of the significant inputs into the model cannot be observed and which require the development of assumptions
+.
+Balanced Allocation.
+ The investments include commingled funds invested primarily in equity and fixed income securities. Commingled funds are valued based on the fair market value of the underlying assets minus the liabilities.
+Other.
+ Primarily includes globally-diversified, risk-managed commingled funds consisting mainly of equity, fixed income and commodity exposures.
+Other
+We also sponsor defined benefit pension plans for eligible employees in certain foreign countries. These plans did not have a material impact on our Consolidated Financial Statements in any period presented.
+Profit Sharing Program
+Our broad-based employee profit sharing program provides that, for each year in which we have an annual pre-tax profit, as defined by the terms of the program, we will pay a specified portion of that profit to employees. In determining the amount of profit sharing, the program defines profit as pre-tax profit adjusted for profit sharing and certain other items.
+For the years ended December 31, 2025 and 2024, we recorded profit sharing expense under the program of $
+1.3
+ billion and $
+1.4
+ billion, respectively.
+NOTE 9. 
+COMMITMENTS AND CONTINGENCIES
+Aircraft Purchase Commitments
+Our future aircraft purchase commitments totaled approximately $
+15.4
+ billion at December 31, 2025:
+Aircraft purchase commitments
+(1)
+(in millions)
+Total
+2026
+$
+3,650
+ 
+2027
+5,860
+ 
+2028
+4,150
+ 
+2029
+1,290
+ 
+2030
+480
+ 
+Thereafter
+—
+ 
+Total
+$
+15,430
+ 
+(1)
+The timing of these commitments is based on our contractual agreements with the aircraft manufacturers and remains uncertain due to supply chain, manufacturing and regulatory constraints.
+Delta Air Lines, Inc. | 2025 Form 10-K
+81
+Notes to the Consolidated Financial Statements
+Our future aircraft purchase commitments included the following aircraft at December 31, 2025:
+Aircraft purchase commitments by fleet type
+Fleet Type
+Purchase Commitments
+A220-300
+64
+ 
+A321-200neo
+68
+ 
+A350-900
+4
+ 
+A350-1000
+20
+ 
+B-737-10
+100
+ 
+Total
+256
+ 
+In addition to the aircraft purchase commitments above, on January 12, 2026, we entered into a definitive agreement with The Boeing Company to acquire 
+30
+ Boeing 787-10 aircraft, with an option to purchase up to an additional 
+30
+ of the same aircraft. The B-787-10 aircraft will include GEnx engines manufactured by General Electric. Deliveries of the B-787-10 aircraft will begin in 2031.
+On January 27, 2026, we entered into a definitive agreement with Airbus S.A.S. to purchase 
+16
+ Airbus A330-900 aircraft and 
+15
+ Airbus A350-900 aircraft, with an option to purchase up to an additional 
+20
+ widebody aircraft. The A330-900 aircraft will be powered by the Trent 7000 engine and the A350-900 aircraft will utilize the Trent XWB-84 EP engine, both manufactured by Rolls-Royce. Deliveries of the aircraft will begin in 2029.
+Contract Carrier Agreements
+We have contract carrier agreements with regional carriers expiring through 2035. These agreements are structured as either capacity purchase or revenue proration agreements.
+Capacity Purchase Agreements.
+ Our contractual agreements with regional carriers are primarily capacity purchase arrangements, under which we control the scheduling, pricing, reservations, ticketing and seat inventories for the regional carriers' flights operating under our "DL" designator code. We are entitled to all ticket, cargo, mail, in-flight and ancillary revenues associated with the flights under these capacity purchase arrangements. We pay those airlines an amount, as defined in the applicable agreement, which is based on a determination of their cost of operating those flights and other factors intended to approximate market rates for those services.
+The following table shows our minimum obligations at December 31, 2025 under our existing capacity purchase agreements with third-party regional carriers, excluding contract carrier payments accounted for as leases of aircraft, which are described in Note 7, "Leases." 
+The obligations set forth in the table contemplate minimum levels of flying by the regional carriers under the respective agreements and also reflect assumptions regarding certain costs associated with the minimum levels of flying such as the cost of fuel, labor, maintenance, insurance, catering, property tax and landing fees. Accordingly, our actual payments under these agreements could differ materially from the minimum fixed obligations set forth in the table below.
+Contract carrier minimum obligations
+(in millions)
+Amount
+2026
+$
+1,760
+ 
+2027
+1,625
+ 
+2028
+1,265
+ 
+2029
+700
+ 
+2030
+290
+ 
+Thereafter
+390
+ 
+Total
+$
+6,030
+ 
+Delta Air Lines, Inc. | 2025 Form 10-K
+82
+Notes to the Consolidated Financial Statements
+Legal Contingencies
+We are involved in various legal proceedings related to employment practices, environmental issues, commercial disputes, antitrust and other regulatory matters concerning our business. We record liabilities for losses from legal proceedings when we determine that it is probable that the outcome in a legal proceeding will be unfavorable and the amount of loss can be reasonably estimated. Although the outcome of the legal proceedings in which we are involved cannot be predicted with certainty, we believe that the resolution of current matters will not have a material adverse effect on our Consolidated Financial Statements.
+Credit Card Processing Agreements
+Our VISA/MasterCard and American Express credit card processing agreements provide that no cash reserve ("Reserve") is required, and no withholding of payment related to receivables collected will occur, except in certain circumstances, including when we do not maintain a required level of liquidity as outlined in the merchant processing agreements. In circumstances in which the credit card processor can establish a Reserve or withhold payments, the amount of the Reserve or payments that may be withheld would be equal to the potential liability of the credit card processor for tickets purchased with VISA/MasterCard or American Express credit cards, as applicable, that had not yet been used for travel. We did not have a Reserve or an amount withheld as of December 31, 2025 or 2024.
+Other Contingencies
+General Indemnifications
+We are the lessee under many commercial real estate leases. It is common in these transactions for us, as the lessee, to agree to indemnify the lessor and the lessor's related parties for tort, environmental and other liabilities that arise out of or relate to our use or occupancy of the leased premises. This type of indemnity would typically make us responsible to indemnified parties for liabilities arising out of the conduct of, among others, contractors, licensees and invitees at, or in connection with, the use or occupancy of the leased premises. This indemnity often extends to related liabilities arising from the negligence of the indemnified parties, but usually excludes any liabilities caused by either their sole or gross negligence or their willful misconduct.
+Our aircraft and other equipment lease and financing agreements typically contain provisions requiring us, as the lessee or obligor, to indemnify the other parties to those agreements, including certain of those parties' related persons, against virtually any liabilities that might arise from the use or operation of the aircraft or other equipment.
+We believe that our insurance would cover most of our exposure to liabilities and related indemnities associated with the commercial real estate leases and aircraft and other equipment lease and financing agreements described above. While our insurance does not typically cover environmental liabilities, we have insurance policies in place as required by applicable environmental laws.
+Some of our aircraft and other financing transactions include provisions that require us to make payments to preserve an expected economic return to the lenders if that economic return is diminished due to specified changes in law or regulations. In some of these financing transactions, we also bear the risk of changes in tax laws that would subject payments to non-U.S. lenders to withholding taxes.
+We cannot reasonably estimate our potential future payments under the indemnities and related provisions described above because we cannot predict (1) when and under what circumstances these provisions may be triggered and (2) the amount that would be payable if the provisions were triggered because the amounts would be based on facts and circumstances existing at such time.
+Delta Air Lines, Inc. | 2025 Form 10-K
+83
+Notes to the Consolidated Financial Statements
+Employees Under Collective Bargaining Agreements
+As of December 31, 2025, we had approximately 
+103,000
+ full-time equivalent employees, approximately 
+20
+% of whom were represented by unions.
+Domestic airline employees represented by collective bargaining agreements by group
+Employee Group
+Approximate Number of Employees Represented
+Union
+Date on which Collective Bargaining Agreement Becomes Amendable
+Delta Pilots
+17,260
+ 
+ALPA
+December 31, 2026
+Delta Flight Superintendents (Dispatchers)
+530
+ 
+PAFCA
+August 1, 2030
+Endeavor Pilots
+1,770
+ 
+ALPA
+January 1, 2029
+Endeavor Flight Attendants
+1,910
+ 
+AFA
+March 31, 2027
+In addition to the domestic airline employee groups discussed above, approximately 
+200
+ refinery employees of Monroe are represented by the United Steel Workers under an agreement that expires on February 28, 2026. This agreement is governed by the National Labor Relations Act, which generally allows either party to engage in self-help upon the expiration of the agreement. Certain of our employees outside the U.S. are represented by unions, work councils or other local representative groups.
+Other
+We have certain contracts for goods and services that require us to pay a penalty, acquire inventory specific to us or purchase contract-specific equipment, as defined by each respective contract, if we terminate the contract without cause prior to its expiration date. Because these obligations are contingent on our termination of the contract without cause prior to its expiration date, no obligation would exist unless such a termination occurs.
+NOTE 10. 
+INCOME TAXES
+Income Tax Provision
+Components of income tax provision
+Year Ended December 31,
+(in millions)
+2025
+2024
+2023
+Current tax provision:
+Federal
+$
+(
+10
+)
+$
+—
+ 
+$
+—
+ 
+State and local
+(
+17
+)
+(
+35
+)
+(
+8
+)
+International
+(
+44
+)
+(
+11
+)
+(
+11
+)
+Deferred tax provision:
+Federal
+(
+970
+)
+(
+1,038
+)
+(
+896
+)
+State and local
+(
+139
+)
+(
+117
+)
+(
+84
+)
+Income tax provision
+$
+(
+1,180
+)
+$
+(
+1,201
+)
+$
+(
+999
+)
+Delta Air Lines, Inc. | 2025 Form 10-K
+84
+Notes to the Consolidated Financial Statements
+The following table presents the principal reasons for the difference between the effective tax rate and the U.S. federal statutory income tax rate:
+Reconciliation of statutory federal income tax rate to the effective income tax rate
+Year Ended December 31,
+2025
+2024
+2023
+(in millions, except for percentages)
+Amount
+Percent
+Amount
+Percent
+Amount
+Percent
+U.S. federal statutory income tax rate
+$
+1,299
+ 
+21.0
+ 
+%
+$
+978
+ 
+21.0
+ 
+%
+$
+1,178
+ 
+21.0
+ 
+%
+State and local income tax, net of federal income tax effect
+(1)
+123
+ 
+2.0
+ 
+115
+ 
+2.5
+ 
+112
+ 
+2.0
+ 
+Nontaxable or nondeductible items
+41
+ 
+0.7
+ 
+59
+ 
+1.3
+ 
+46
+ 
+0.8
+ 
+Changes in valuation allowances
+(
+272
+)
+(
+4.4
+)
+89
+ 
+1.9
+ 
+(
+274
+)
+(
+4.9
+)
+Other
+(
+11
+)
+(
+0.2
+)
+(
+40
+)
+(
+0.9
+)
+(
+63
+)
+(
+1.1
+)
+Effective income tax rate
+$
+1,180
+ 
+19.1
+ 
+%
+$
+1,201
+ 
+25.8
+ 
+%
+$
+999
+ 
+17.8
+ 
+%
+(1)
+New York City, New York, Georgia and California make up the majority (greater than 50%) of the tax effect in this category in 2024 and 2025. Georgia, New York City, New York and New Jersey make up the majority (greater than 50%) of the tax effect in this category in 2023.
+Taxes paid across all jurisdictions were immaterial for all periods presented.
+Deferred Taxes
+We account for deferred income taxes under the asset and liability method. We recognize deferred tax assets and liabilities based on the tax effects of temporary differences between the financial statement and tax basis of assets and liabilities, as measured by current enacted tax rates. Deferred tax assets and liabilities are net by jurisdiction and are recorded as noncurrent on the balance sheets.
+We have elected to recognize Global Intangible Low-Taxed Income ("GILTI") in the period it arises and do not recognize deferred taxes for basis differences that may reverse in future years.
+Deferred income taxes reflect the net tax effect of temporary differences between the carrying amounts of assets and liabilities for financial reporting and income tax purposes.
+Delta Air Lines, Inc. | 2025 Form 10-K
+85
+Notes to the Consolidated Financial Statements
+Significant components of deferred income tax assets and liabilities
+December 31,
+(in millions)
+2025
+2024
+Deferred tax assets:
+Net operating loss carryforwards
+$
+694
+ 
+$
+799
+ 
+Pension, postretirement and other benefits
+916
+ 
+1,205
+ 
+Investments
+593
+ 
+936
+ 
+Deferred revenue
+2,254
+ 
+2,158
+ 
+Lease liabilities
+2,660
+ 
+2,816
+ 
+Other
+488
+ 
+608
+ 
+Valuation allowance
+(
+643
+)
+(
+951
+)
+Total deferred tax assets
+$
+6,962
+ 
+$
+7,571
+ 
+Deferred tax liabilities:
+Depreciation
+$
+7,839
+ 
+$
+7,040
+ 
+Operating lease assets
+1,264
+ 
+1,369
+ 
+Intangible assets
+1,188
+ 
+1,165
+ 
+Other
+114
+ 
+78
+ 
+Total deferred tax liabilities
+$
+10,405
+ 
+$
+9,652
+ 
+Balance Sheet Position:
+Other noncurrent assets
+$
+1
+ 
+$
+95
+ 
+Deferred income taxes, net
+3,444
+ 
+2,176
+ 
+Net deferred tax liabilities
+$
+3,443
+ 
+$
+2,081
+ 
+Valuation Allowance
+A valuation allowance is recorded to reduce deferred tax assets when necessary. We periodically assess whether it is more likely than not that we will generate sufficient taxable income to realize our deferred income tax assets. We establish valuation allowances if it is more likely than not that we will be unable to realize our deferred income tax assets. In making this determination, we consider available positive and negative evidence and make certain assumptions. We consider, among other things, projected future taxable income, scheduled reversals of deferred tax liabilities, the overall business environment, our historical financial results and tax planning strategies.
+At December 31, 2025 our net deferred tax liability balance was $
+3.4
+ billion, including a $
+643
+ million valuation allowance primarily related to certain net realized and unrealized capital losses and certain state net operating losses.
+As of December 31, 2025, we had approximately $
+2.4
+ billion of U.S. federal pre-tax net operating loss carryforwards which we are expecting to utilize during 2026. These net operating loss carryforwards were primarily generated in 2020 and do not expire. Therefore, we have not recorded a valuation allowance on our deferred tax assets other than the certain net realized and unrealized capital losses and certain state net operating losses that have short expiration periods.
+The following table presents the balance of our valuation allowance on our deferred income tax assets and the associated activity:
+Valuation allowance activity
+(in millions)
+2025
+2024
+Balance at January 1
+$
+951
+ 
+$
+877
+ 
+Tax provision
+(
+308
+)
+74
+ 
+Balance at December 31
+$
+643
+ 
+$
+951
+ 
+Delta Air Lines, Inc. | 2025 Form 10-K
+86
+Notes to the Consolidated Financial Statements
+Other
+The amount of, and changes to, our uncertain tax positions were not material in any of the years presented. We are currently under audit by the IRS for the 2025 and 2024 tax years.
+On July 4, 2025, the One Big Beautiful Bill Act was signed into law. The legislation did not have a material impact on our income tax expense or effective income tax rate for the year ended December 31, 2025.
+NOTE 11. 
+EQUITY AND EQUITY COMPENSATION
+Equity
+We are authorized to issue 
+2.0
+ billion shares of capital stock, of which up to 
+1.5
+ billion may be shares of common stock, par value $
+0.0001
+ per share, and up to 
+500
+ million may be shares of preferred stock.
+Preferred Stock.
+ We may issue preferred stock in one or more series. The Board of Directors is authorized (1) to fix the descriptions, powers (including voting powers), preferences, rights, qualifications, limitations and restrictions with respect to any series of preferred stock and (2) to specify the number of shares of any series of preferred stock. We have not issued any preferred stock.
+Treasury Stock.
+ We generally withhold shares of Delta common stock to cover employees' portion of required tax withholdings when employee equity awards vest. These shares are valued at cost, which equals the market price of the common stock on the date of vesting. The weighted average cost per share held in treasury was $
+36.71
+ 
+and $
+31.06
+ as of December 31, 2025 and 2024, respectively.
+Warrants.
+ During 2020 and 2021, in connection with the Coronavirus Aid, Relief, and Economic Security Act of 2020 (the "CARES Act") payroll support program ("PSP") and extensions, we issued warrants to the U.S Department of the Treasury to acquire more than
+ 
+11.1
+ million s
+hares of Delta common stock, which were subsequently sold to a third party during 2024. The warrants under PSP1 and PSP2 were exercised and settled in a net share settlement in March 2025. As of December 31, 2025, there were 
+1.9
+ million warrants outstanding related to the Payroll Support Program 3 (PSP3) which have an exercise price of $
+46.48
+ and expire during 2026. In January 2026, approximately half of the PSP3 warrants were exercised and settled in a net share settlement.
+Equity Compensation
+Our broad-based equity and cash compensation plan provides for grants of restricted stock, restricted stock units, stock options, performance awards, including cash incentive awards and other equity-based awards (the "Plan"). Shares of common stock issued under the Plan may be made available from authorized, but unissued, common stock or common stock we acquire. If any shares of our common stock are covered by an award that expires, is canceled, forfeited or otherwise terminates without delivery of shares (including shares surrendered or withheld for payment of taxes related to an award), such shares will again be available for issuance under the Plan except for (1) any shares tendered in payment of an option, (2) shares withheld to satisfy any tax withholding obligation with respect to the exercise of an option or stock appreciation right ("SAR") or (3) shares covered by a stock-settled SAR or other awards that were not issued upon the settlement of the award. The Plan authorizes the issuance of up to 
+173
+ million shares of common stock. As of December 31, 2025, there were 
+19
+ million shares available for future grants.
+We make long-term incentive awards annually to eligible employees under the Plan. Generally, awards vest over time, subject to the employee's continued employment. Equity compensation expense, including awards payable in common stock or cash, is recognized in salaries and related costs over the employee's requisite service period (generally, the vesting period of the award) and totaled $
+313
+ million, $
+236
+ million and $
+180
+ million for the years ended December 31, 2025, 2024 and 2023, respectively. We record expense on a straight-line basis for awards with installment vesting. As of December 31, 2025, unrecognized costs related to unvested shares totaled $
+112
+ million. We expect substantially all unvested awards to vest and recognize forfeitures as they occur.
+Delta Air Lines, Inc. | 2025 Form 10-K
+87
+Notes to the Consolidated Financial Statements
+Restricted Stock.
+ Restricted stock is common stock that may not be sold or otherwise transferred for a period of time and is subject to forfeiture in certain circumstances. The fair value of restricted stock awards is based on the closing price of the common stock on the grant date. As of December 31, 2025, there were 
+3.6
+ million unvested restricted stock awards. 
+Restricted stock activity under the Plan for the years ended December 31, 2025, 2024 and 2023 is as follows:
+Restricted stock award activity
+2025
+2024
+2023
+Restricted Stock Awards
+Weighted-Average 
+Grant Price
+Restricted Stock Awards
+Weighted-Average 
+Grant Price
+Restricted Stock Awards
+Weighted-Average 
+Grant Price
+(in millions, except weighted avg grant price)
+Outstanding at January 1
+4.3
+ 
+$
+40.60
+ 
+4.2
+ 
+$
+40.51
+ 
+3.1
+ 
+$
+43.43
+ 
+Granted
+1.6
+ 
+67.76
+ 
+2.6
+ 
+40.75
+ 
+2.7
+ 
+39.63
+ 
+Vested
+(
+2.2
+)
+42.30
+ 
+(
+2.3
+)
+40.60
+ 
+(
+1.5
+)
+44.79
+ 
+Forfeited
+(
+0.1
+)
+52.07
+ 
+(
+0.2
+)
+40.49
+ 
+(
+0.1
+)
+40.94
+ 
+Outstanding at December 31
+3.6
+ 
+$
+51.37
+ 
+4.3
+ 
+$
+40.60
+ 
+4.2
+ 
+$
+40.51
+ 
+Stock Options.
+ Stock options are granted with an exercise price equal to the closing price of Delta common stock on the grant date and generally have a 
+10-year
+ term. We determine the fair value of stock options at the grant date using an option pricing model. As of December 31, 2025, there were 
+4.3
+ million outstanding exercisable stock option awards with a weighted average exercise price of $
+50.36
+. 
+Stock option activity under the Plan for the years ended December 31, 2025, 2024 and 2023 is as follows:
+Stock option activity
+2025
+2024
+2023
+Stock Options
+Weighted-Average 
+Exercise Price
+Stock Options
+Weighted-Average 
+Exercise Price
+Stock Options
+Weighted-Average 
+Exercise Price
+(in millions, except weighted avg grant price)
+Outstanding at January 1
+4.8
+ 
+$
+50.41
+ 
+6.2
+ 
+$
+50.42
+ 
+6.2
+ 
+$
+50.40
+ 
+Granted
+—
+ 
+—
+ 
+—
+ 
+—
+ 
+—
+ 
+—
+ 
+Exercised
+(1)
+(
+0.5
+)
+51.07
+ 
+(
+1.4
+)
+50.35
+ 
+—
+ 
+39.78
+ 
+Forfeited
+(1)
+—
+ 
+—
+ 
+—
+ 
+52.89
+ 
+—
+ 
+51.91
+ 
+Outstanding at December 31
+4.3
+ 
+$
+50.36
+ 
+4.8
+ 
+$
+50.41
+ 
+6.2
+ 
+$
+50.42
+ 
+(1)
+Forfeitures in 2024 and 2023 and exercises in 2023 occurred, but round to zero in the table above.
+Performance Awards.
+ Performance awards are dollar-denominated long-term incentive opportunities which are payable in cash to all participants. Potential performance award payments range from 
+0
+%-
+200
+% of a target level and are contingent upon our achieving certain financial and operational goals over a 
+three-year
+ performance period.
+Performance Restricted Stock Units.
+ Performance restricted stock units are long-term incentive opportunities that provide executive officers with the right to receive shares of Delta stock based on our achievement of certain performance conditions at the end of a 
+three-year
+ period. Potential payouts range from 
+0
+%-
+300
+% of a target level for the grants in 2023 and range from 
+0
+%-
+200
+% of a target level for the grants in 2024 and 2025. Based on the closing stock price at year end and contingent on achieving the specified performance conditions, the maximum shares that could be issued were 
+5.4
+ million, 
+6.0
+ million and 
+3.3
+ million for the years ended December 31, 2025, 2024 and 2023 respectively.
+Delta Air Lines, Inc. | 2025 Form 10-K
+88
+Notes to the Consolidated Financial Statements
+NOTE 12. 
+EARNINGS PER SHARE
+We calculate basic earnings per share by dividing net income by the weighted average number of common shares outstanding, excluding restricted shares. We calculate diluted earnings per share by dividing net income by the weighted average number of common shares outstanding plus the dilutive effect of outstanding share-based instruments, including stock options, restricted stock awards and warrants. Antidilutive common stock equivalents excluded from the diluted earnings per share calculation are not material. 
+The following table shows our computation:
+Basic and diluted earnings per share
+Year Ended December 31,
+(in millions, except per share data)
+2025
+2024
+2023
+Net income
+$
+5,005
+ 
+$
+3,457
+ 
+$
+4,609
+ 
+Basic weighted average shares outstanding
+648
+ 
+641
+ 
+639
+ 
+Dilutive effect of share-based instruments
+6
+ 
+7
+ 
+4
+ 
+Diluted weighted average shares outstanding
+654
+ 
+648
+ 
+643
+ 
+Basic earnings per share
+$
+7.72
+ 
+$
+5.39
+ 
+$
+7.21
+ 
+Diluted earnings per share
+$
+7.66
+ 
+$
+5.33
+ 
+$
+7.17
+ 
+NOTE 13. 
+ACCUMULATED OTHER COMPREHENSIVE LOSS
+Components of accumulated other comprehensive loss
+(in millions)
+Pension and Other Benefits Liabilities
+(2)
+Other
+Tax Effect
+Total
+Balance at January 1, 2023
+$
+(
+6,624
+)
+$
+41
+ 
+$
+782
+ 
+$
+(
+5,801
+)
+Changes in value
+(
+303
+)
+(
+1
+)
+71
+ 
+(
+233
+)
+Reclassifications into earnings
+(1)
+246
+ 
+—
+ 
+(
+57
+)
+189
+ 
+Balance at December 31, 2023
+(
+6,681
+)
+40
+ 
+796
+ 
+(
+5,845
+)
+Changes in value
+859
+ 
+2
+ 
+(
+199
+)
+662
+ 
+Reclassifications into earnings
+(1)
+265
+ 
+—
+ 
+(
+61
+)
+204
+ 
+Balance at December 31, 2024
+(
+5,557
+)
+42
+ 
+536
+ 
+(
+4,979
+)
+Changes in value
+885
+ 
+—
+ 
+(
+205
+)
+680
+ 
+Reclassifications into earnings
+(1)
+213
+ 
+—
+ 
+(
+49
+)
+164
+ 
+Balance at December 31, 2025
+$
+(
+4,459
+)
+$
+42
+ 
+$
+282
+ 
+$
+(
+4,135
+)
+(1)
+Amounts reclassified from AOCI for pension and other benefits liabilities are recorded in miscellaneous, net in non-operating expense in our income statement.
+(2)
+Includes approximately $
+750
+ million of deferred income tax expense as a result of tax law changes and prior valuation allowance releases through continuing operations, that will not be recognized in net income until pension and other benefit obligations are fully extinguished.
+Delta Air Lines, Inc. | 2025 Form 10-K
+89
+Notes to the Consolidated Financial Statements
+NOTE 14. 
+SEGMENTS
+Operating segments are defined as components of an enterprise about which separate financial information is available that is evaluated regularly by the chief operating decision maker ("CODM") and is used in resource allocation and performance assessments. Our executive leadership team, the Delta Leadership Committee (“DLC”), is our CODM. The DLC regularly reviews information for our 
+two
+ operating segments: our airline segment and our refinery segment.
+The DLC uses operating income to evaluate segment performance. The DLC is involved in determining and reviewing projected operating income as part of the annual plan process. Throughout the year, the DLC considers forecast to actual results and variances on a monthly and quarterly basis to allocate resources for the airline segment's fleet and network and to optimize the refinery segment's operations. The DLC also considers this information in strategic decisions related to capital allocations, including investments in fleet, ground, information technology and refinery assets, route and network development, and human capital.
+Airline Segment
+Our airline segment is managed as a single business unit that provides scheduled air transportation for passengers and cargo throughout the U.S. and around the world and includes our loyalty program, as well as other ancillary businesses. This allows us to benefit from an integrated revenue pricing and route network. Our flight equipment forms 
+one
+ fleet, which is deployed through a single route scheduling system. When making resource allocation decisions, our CODM evaluates aggregated flight profitability data, which considers fleet type and route economics, but gives no weight to the financial impact of the resource allocation decision on a geographic region or mainline/regional carrier basis. Our objective in making resource allocation decisions is to optimize our consolidated financial results.
+Refinery Segment
+Our Monroe subsidiary operates the Trainer oil refinery and related assets located near Philadelphia, Pennsylvania, as part of our strategy to mitigate the cost of the refining margin reflected in the price of jet fuel. Monroe's operations include pipelines and terminal assets that allow the refinery to supply jet fuel to our airline operations throughout the northeastern U.S., including our New York hubs at LaGuardia and JFK.
+Our refinery segment operates for the benefit of the airline segment by providing jet fuel to the airline segment from its own production and through jet fuel obtained through agreements with third parties. The refinery's production consists of jet fuel, as well as non-jet fuel products. We exchange or sell the non-jet fuel products produced by the refinery with counterparties for jet fuel consumed in our airline operations. The gross fair value of the products under exchange agreements during the years ended December 31, 2025, 2024 and 2023 was $
+580
+ million, $
+1.5
+ billion and $
+2.4
+ billion, respectively. The volume of exchange transactions has declined in recent years due to changes in the counterparties used to supply jet fuel and our related buy/sell agreements. As of December 31, 2025, we do not plan to use exchange agreements to procure significant volumes of fuel.
+A refinery is subject to annual Environmental Protection Agency ("EPA") requirements to blend renewable fuels into the gasoline and on-road diesel fuel it produces. A refinery may meet its obligation by blending the necessary volumes of renewable fuels, by purchasing Renewable Identification Numbers ("RINs") in the open market, or through a combination of blending and purchasing RINs. Because Monroe is able to blend only a small amount of renewable fuels, it must purchase the majority of its RINs requirement in the secondary market. Renewable fuel compliance costs are accrued in accounts payable each period as the RINs obligation is generated. Purchased RINs are carried at the lower of cost and net realizable value and are recorded in prepaid expenses and other. The RINs asset and obligation are retired when used to satisfy EPA requirements.
+Segment Reporting
+Segment results are prepared based on our internal accounting methods described below, with reconciliations to consolidated amounts in accordance with GAAP. Our segments are not designed to measure operating income or loss directly related to the products and services included in each segment on a stand-alone basis. Our income tax provision is determined on a consolidated basis and is not calculated at the segment level.
+Delta Air Lines, Inc. | 2025 Form 10-K
+90
+Notes to the Consolidated Financial Statements
+Financial information by segment
+(in millions)
+Airline
+Refinery
+Intersegment Sales/Other
+Consolidated
+Year Ended December 31, 2025
+Operating revenue
+$
+58,287
+ 
+$
+6,961
+ 
+$
+(
+1,884
+)
+(1)
+$
+63,364
+ 
+Airline salaries and related costs
+17,520
+ 
+Aircraft fuel and related costs
+9,819
+ 
+Refinery cost of goods sold
+(2)
+6,259
+ 
+Depreciation and amortization
+2,443
+ 
+113
+ 
+Other segment items
+(3)
+22,840
+ 
+432
+ 
+Operating income
+(4)
+5,665
+ 
+157
+ 
+5,822
+ 
+Interest expense, net
+679
+ 
+1
+ 
+(
+1
+)
+679
+ 
+Other non-operating income
+1,042
+ 
+1,042
+ 
+Income before income taxes
+6,028
+ 
+156
+ 
+1
+ 
+6,185
+ 
+Total assets, end of period
+78,826
+ 
+2,552
+ 
+(
+61
+)
+81,317
+ 
+Capital expenditures
+4,431
+ 
+68
+ 
+4,499
+ 
+Year Ended December 31, 2024
+Operating revenue
+$
+57,001
+ 
+$
+7,767
+ 
+$
+(
+3,125
+)
+(1)
+$
+61,643
+ 
+Airline salaries and related costs
+16,161
+ 
+Aircraft fuel and related costs
+10,566
+ 
+Refinery cost of goods sold
+(2)
+7,234
+ 
+Depreciation and amortization
+2,513
+ 
+113
+ 
+Other segment items
+(3)
+21,804
+ 
+382
+ 
+Operating income
+(4)
+5,957
+ 
+38
+ 
+5,995
+ 
+Interest expense, net
+747
+ 
+3
+ 
+(
+3
+)
+747
+ 
+Other non-operating expense
+590
+ 
+590
+ 
+Income before income taxes
+4,620
+ 
+35
+ 
+3
+ 
+4,658
+ 
+Total assets, end of period
+72,979
+ 
+2,418
+ 
+(
+25
+)
+75,372
+ 
+Capital expenditures
+5,075
+ 
+65
+ 
+5,140
+ 
+Year Ended December 31, 2023
+Operating revenue
+$
+54,669
+ 
+$
+7,572
+ 
+$
+(
+4,193
+)
+(1)
+$
+58,048
+ 
+Airline salaries and related costs
+14,607
+ 
+Aircraft fuel and related costs
+11,069
+ 
+Refinery cost of goods sold
+(2)
+6,665
+ 
+Depreciation and amortization
+2,341
+ 
+94
+ 
+Other segment items
+(3)
+21,516
+ 
+428
+ 
+Operating income
+(4)
+5,136
+ 
+385
+ 
+5,521
+ 
+Interest expense, net
+834
+ 
+17
+ 
+(
+17
+)
+834
+ 
+Other non-operating income
+921
+ 
+921
+ 
+Income before income taxes
+5,223
+ 
+368
+ 
+17
+ 
+5,608
+ 
+Total assets, end of period
+71,529
+ 
+2,174
+ 
+(
+59
+)
+73,644
+ 
+Capital expenditures
+5,088
+ 
+235
+ 
+5,323
+ 
+(1)
+See table below for detail of the intersegment operating revenue amounts.
+(2)
+Refinery cost of goods sold are included within aircraft fuel and related taxes and ancillary businesses and refinery in our income statement.
+(3)
+The nature of other segment items for the airline segment are shown on the income statement and for the refinery segment include salaries and related costs, maintenance, utilities and other expenses.
+(4)
+Refinery segment operating results are included within aircraft fuel and related taxes in our income statement.
+Delta Air Lines, Inc. | 2025 Form 10-K
+91
+Notes to the Consolidated Financial Statements
+Operating revenue intersegment sales/other
+Year Ended December 31,
+(in millions)
+2025
+2024
+2023
+Sales to airline segment
+(1)
+$
+(
+1,150
+)
+$
+(
+1,421
+)
+$
+(
+1,535
+)
+Exchanged products
+(2)
+(
+580
+)
+(
+1,473
+)
+(
+2,354
+)
+Sales of refined products
+(
+154
+)
+(
+231
+)
+(
+304
+)
+Total operating revenue intersegment sales/other
+$
+(
+1,884
+)
+$
+(
+3,125
+)
+$
+(
+4,193
+)
+(1)
+Represents transfers, valued on a market price basis, from the refinery to the airline segment for use in airline operations. We determine market price for jet fuel from the refinery by reference to the market index for the primary delivery location, which is New York Harbor.
+(2)
+Represents value of products delivered under our exchange agreements, as discussed above, determined on a market price basis.
+Delta Air Lines, Inc. | 2025 Form 10-K
+92

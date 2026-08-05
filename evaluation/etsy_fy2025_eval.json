@@ -1,0 +1,122 @@
+{
+  "results": [
+    {
+      "company": "ETSY",
+      "period": "FY2025",
+      "metric": "Total Revenue",
+      "extracted_value": 2883501.0,
+      "extracted_unit": "thousands",
+      "true_value": 2883501.0,
+      "true_unit": "thousands",
+      "normalized_extracted": 2883501000.0,
+      "normalized_true": 2883501000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "ETSY",
+      "period": "FY2025",
+      "metric": "Net Income",
+      "extracted_value": 162982.0,
+      "extracted_unit": "thousands",
+      "true_value": 162982.0,
+      "true_unit": "thousands",
+      "normalized_extracted": 162982000.0,
+      "normalized_true": 162982000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "ETSY",
+      "period": "FY2025",
+      "metric": "Diluted EPS",
+      "extracted_value": 1.39,
+      "extracted_unit": "actual",
+      "true_value": 1.39,
+      "true_unit": "actual",
+      "normalized_extracted": 1.39,
+      "normalized_true": 1.39,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "ETSY",
+      "period": "FY2025",
+      "metric": "Gross Profit",
+      "extracted_value": 2065701.0,
+      "extracted_unit": "thousands",
+      "true_value": 2065701.0,
+      "true_unit": "thousands",
+      "normalized_extracted": 2065701000.0,
+      "normalized_true": 2065701000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "ETSY",
+      "period": "FY2025",
+      "metric": "Operating Income",
+      "extracted_value": 266210.0,
+      "extracted_unit": "thousands",
+      "true_value": 266210.0,
+      "true_unit": "thousands",
+      "normalized_extracted": 266210000.0,
+      "normalized_true": 266210000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "ETSY",
+      "period": "FY2025",
+      "metric": "Total Assets",
+      "extracted_value": 2827254.0,
+      "extracted_unit": "thousands",
+      "true_value": 2827254.0,
+      "true_unit": "thousands",
+      "normalized_extracted": 2827254000.0,
+      "normalized_true": 2827254000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "ETSY",
+      "period": "FY2025",
+      "metric": "Total Liabilities",
+      "extracted_value": 3925349.0,
+      "extracted_unit": "thousands",
+      "true_value": 3925349.0,
+      "true_unit": "thousands",
+      "normalized_extracted": 3925349000.0,
+      "normalized_true": 3925349000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "ETSY",
+      "period": "FY2025",
+      "metric": "Operating Cash Flow",
+      "extracted_value": 693414.0,
+      "extracted_unit": "thousands",
+      "true_value": 693414.0,
+      "true_unit": "thousands",
+      "normalized_extracted": 693414000.0,
+      "normalized_true": 693414000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    }
+  ],
+  "summary": {
+    "total_metrics_evaluated": 8,
+    "exact_matches": 8,
+    "accuracy_pct": 100.0,
+    "failures": []
+  }
+}

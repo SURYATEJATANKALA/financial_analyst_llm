@@ -53,7 +53,13 @@ class EvalResult:
 
 
 def normalize(value: float | None, unit: str | None) -> float | None:
-    if value is None:
+    # A blank cell in the ground-truth CSV (representing "this metric is not
+    # explicitly reported in the filing", the same absence extract_metrics.py
+    # itself encodes as value: null) round-trips through pandas as NaN, not
+    # None. Treat both as "no value" — otherwise a legitimately absent
+    # ground-truth metric crashes here instead of scoring as a mismatch
+    # against a hallucinated non-null extraction.
+    if value is None or pd.isna(value):
         return None
     mult = UNIT_MULTIPLIERS.get((unit or "actual").strip().lower(), None)
     if mult is None:

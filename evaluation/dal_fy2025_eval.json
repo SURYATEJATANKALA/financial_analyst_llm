@@ -1,0 +1,122 @@
+{
+  "results": [
+    {
+      "company": "DAL",
+      "period": "FY2025",
+      "metric": "Total Revenue",
+      "extracted_value": 63364.0,
+      "extracted_unit": "millions",
+      "true_value": 63364.0,
+      "true_unit": "millions",
+      "normalized_extracted": 63364000000.0,
+      "normalized_true": 63364000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "DAL",
+      "period": "FY2025",
+      "metric": "Net Income",
+      "extracted_value": 5005.0,
+      "extracted_unit": "millions",
+      "true_value": 5005.0,
+      "true_unit": "millions",
+      "normalized_extracted": 5005000000.0,
+      "normalized_true": 5005000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "DAL",
+      "period": "FY2025",
+      "metric": "Diluted EPS",
+      "extracted_value": 7.66,
+      "extracted_unit": "actual",
+      "true_value": 7.66,
+      "true_unit": "actual",
+      "normalized_extracted": 7.66,
+      "normalized_true": 7.66,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "DAL",
+      "period": "FY2025",
+      "metric": "Gross Profit",
+      "extracted_value": null,
+      "extracted_unit": null,
+      "true_value": NaN,
+      "true_unit": NaN,
+      "normalized_extracted": null,
+      "normalized_true": null,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "DAL",
+      "period": "FY2025",
+      "metric": "Operating Income",
+      "extracted_value": 5822.0,
+      "extracted_unit": "millions",
+      "true_value": 5822.0,
+      "true_unit": "millions",
+      "normalized_extracted": 5822000000.0,
+      "normalized_true": 5822000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "DAL",
+      "period": "FY2025",
+      "metric": "Total Assets",
+      "extracted_value": 81317.0,
+      "extracted_unit": "millions",
+      "true_value": 81317.0,
+      "true_unit": "millions",
+      "normalized_extracted": 81317000000.0,
+      "normalized_true": 81317000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "DAL",
+      "period": "FY2025",
+      "metric": "Total Liabilities",
+      "extracted_value": 60464.0,
+      "extracted_unit": "millions",
+      "true_value": 60464.0,
+      "true_unit": "millions",
+      "normalized_extracted": 60464000000.0,
+      "normalized_true": 60464000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    },
+    {
+      "company": "DAL",
+      "period": "FY2025",
+      "metric": "Operating Cash Flow",
+      "extracted_value": 8342.0,
+      "extracted_unit": "millions",
+      "true_value": 8342.0,
+      "true_unit": "millions",
+      "normalized_extracted": 8342000000.0,
+      "normalized_true": 8342000000.0,
+      "is_exact_match": true,
+      "is_citation_correct": null,
+      "failure_reason": null
+    }
+  ],
+  "summary": {
+    "total_metrics_evaluated": 8,
+    "exact_matches": 8,
+    "accuracy_pct": 100.0,
+    "failures": []
+  }
+}

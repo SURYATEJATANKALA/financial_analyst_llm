@@ -11,7 +11,7 @@
   },
   {
     "category": "Foreign Exchange / Currency",
-    "excerpt": "Products gross margin decreased during 2023 compared to 2022 due to the weakness in foreign currencies relative to the U.S. dollar.",
+    "excerpt": "Products gross margin decreased during 2023 compared to 2022 due to the weakness in foreign currencies relative to the U.S. dollar and lower Products volume.",
     "severity_language": "explicit"
   },
   {
@@ -20,8 +20,23 @@
     "severity_language": "explicit"
   },
   {
+    "category": "Labor / Talent",
+    "excerpt": "The year-over-year growth in R&D expense in 2023 was driven primarily by increases in headcount-related expenses.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "The Company\u2019s effective tax rate for 2023 was lower compared to 2022 due primarily to a lower effective tax rate on foreign earnings and the impact of U.S. foreign tax credit regulations.",
+    "severity_language": "hedged"
+  },
+  {
     "category": "Litigation",
     "excerpt": "The Company is subject to various legal proceedings and claims that arise in the ordinary course of business, the outcomes of which are inherently uncertain.",
     "severity_language": "hedged"
+  },
+  {
+    "category": "Litigation",
+    "excerpt": "Resolution of legal matters in a manner inconsistent with management\u2019s expectations could have a material impact on the Company\u2019s financial condition and operating results.",
+    "severity_language": "explicit"
   }
 ]

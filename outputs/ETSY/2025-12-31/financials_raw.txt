@@ -1,0 +1,4473 @@
+Item 8. Financial Statements and Supplementary Data.
+The supplementary financial information required by this item is included in Part II, Item 7, “Management’s Discussion and Analysis of Financial Condition and Results of Operations.”
+Etsy, Inc.
+Index to the Consolidated Financial Statements
+64
+Report of Independent Registered Public Accounting Firm (PCAOB ID 
+238
+)
+66
+Consolidated Balance Sheets 
+67
+Consolidated Statements of Operations
+68
+Consolidated Statements of Comprehensive Income
+69
+Consolidated Statements of Changes in Stockholders’ Deficit
+70
+Consolidated Statements of Cash Flows
+72
+Notes to Consolidated Financial Statements
+63
+Table of Contents
+Report of Independent Registered Public Accounting Firm
+To the Board of Directors and Stockholders of Etsy, Inc.
+Opinions on the Financial Statements and Internal Control over Financial Reporting
+We have audited the accompanying consolidated balance sheets of Etsy, Inc. and its subsidiaries (the "Company") as of 
+December 31, 2025 and 2024
+, and the related consolidated statements of operations, of comprehensive income, of changes in stockholders’ deficit and of cash flows for each of the three years in the period ended 
+December 31, 2025
+, including the related notes (collectively referred to as the "consolidated financial statements"). We also have audited the Company's internal control over financial reporting as of 
+December 31, 2025
+, based on criteria established in 
+Internal Control - Integrated Framework
+ (2013) issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO).
+In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial position of the Company as of 
+December 31, 2025
+ and 
+2024
+, and the results of its operations and its cash flows for each of the three years in the period ended 
+December 31, 2025
+ in conformity with accounting principles generally accepted in the United States of America. Also in our opinion, the Company maintained, in all material respects, effective internal control over financial reporting as of 
+December 31, 2025
+, based on criteria established in 
+Internal Control - Integrated Framework
+ (2013) issued by the COSO.
+Basis for Opinions
+The Company's management is responsible for these consolidated financial statements, for maintaining effective internal control over financial reporting, and for its assessment of the effectiveness of internal control over financial reporting, included in Management’s Report on Internal Controls Over Financial Reporting appearing under Item 9A. Our responsibility is to express opinions on the Company’s consolidated financial statements and on the Company's internal control over financial reporting based on our audits. We are a public accounting firm registered with the Public Company Accounting Oversight Board (United States) (PCAOB) and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the consolidated financial statements are free of material misstatement, whether due to error or fraud, and whether effective internal control over financial reporting was maintained in all material respects.
+Our audits of the consolidated financial statements included performing procedures to assess the risks of material misstatement of the consolidated financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the consolidated financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the consolidated financial statements. Our audit of internal control over financial reporting included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, and testing and evaluating the design and operating effectiveness of internal control based on the assessed risk. Our audits also included performing such other procedures as we considered necessary in the circumstances. We believe that our audits provide a reasonable basis for our opinions.
+Definition and Limitations of Internal Control over Financial Reporting
+A company’s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company’s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance 
+64
+Table of Contents
+with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+Critical Audit Matters
+The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that (i) relates to accounts or disclosures that are material to the consolidated financial statements and (ii) involved our especially challenging, subjective, or complex judgments. The communication of critical audit matters does not alter in any way our opinion on the consolidated financial statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the accounts or disclosures to which it relates.
+Revenue Recognition - Etsy Marketplace and Services Revenue
+As described in Notes 1 and 2 to the consolidated financial statements, the Company’s revenue was $2,884 million for the year ended December 31, 2025, of which a significant portion relates to revenue for Etsy marketplace and services. The Company generates revenue primarily from marketplace activities, including transaction fees (inclusive of offsite advertising), payments processing fees, and listing fees, as well as from optional seller services, which primarily include on-site advertising and shipping labels. Revenues are primarily recognized as the Company transfers control of promised goods or services to sellers, in an amount that reflects the consideration the Company expects to be entitled to in exchange for those goods or services. For marketplace revenue, as members of the Etsy marketplace, Etsy sellers receive the benefit of marketplace activities, including listing items for sale, completing sales transactions, and payments processing, which represents a single stand-ready performance obligation. Services revenue is derived from optional services offered to Etsy marketplace sellers, which primarily include on-site advertising and shipping labels. Each service represents an individual obligation that the Company must perform when a seller chooses to use the service. 
+The principal consideration for our determination that performing procedures relating to revenue recognition for Etsy marketplace and services revenue is a critical audit matter is a high degree of auditor effort in performing procedures related to the Company’s revenue recognition for Etsy marketplace and services revenue. 
+Addressing the matter involved performing procedures and evaluating audit evidence in connection with forming our overall opinion on the consolidated financial statements. These procedures included testing the effectiveness of controls relating to the revenue recognition processes, including controls over the revenue recognition for Etsy marketplace and services revenue at the agreed upon price, when the revenue recognition criteria have been met. These procedures also included, among others (i) testing revenue recognized, on a sample basis, of Etsy marketplace revenue transactions and testing revenue recognized, on a sample basis, of services revenue transactions attributable to the Etsy marketplace by obtaining and inspecting source documents, such as contracts, invoices, evidence of satisfaction of performance obligation, and cash receipts, and recalculating revenue recognized and (ii) testing, on a sample basis, refund transactions by obtaining and inspecting source documents, such as credit memos, invoices, and cash payments.
+/s/ 
+PricewaterhouseCoopers LLP
+New York, New York
+February 19, 2026 
+We have served as the Company’s auditor since 2012.
+65
+Table of Contents
+Etsy, Inc.
+Consolidated Balance Sheets 
+(In thousands, except per share amounts)
+ 
+As of December 31,
+2025
+2024
+Assets
+Current assets:
+Cash and cash equivalents
+$
+1,395,836
+ 
+$
+811,178
+ 
+Short-term investments
+224,088
+ 
+228,322
+ 
+Accounts receivable, net
+8,690
+ 
+8,702
+ 
+Prepaid and other current assets
+127,367
+ 
+89,931
+ 
+Funds receivable and seller accounts
+205,002
+ 
+189,558
+ 
+Total current assets
+1,960,983
+ 
+1,327,691
+ 
+Restricted cash
+8,524
+ 
+—
+ 
+Property and equipment, net
+229,197
+ 
+236,706
+ 
+Goodwill
+38,067
+ 
+137,089
+ 
+Intangible assets, net
+297,352
+ 
+413,898
+ 
+Deferred tax assets
+119,310
+ 
+145,630
+ 
+Long-term investments
+134,376
+ 
+111,725
+ 
+Other assets
+39,445
+ 
+45,043
+ 
+Total assets
+$
+2,827,254
+ 
+$
+2,417,782
+ 
+Liabilities and Stockholders’ Deficit
+Current liabilities:
+Accounts payable
+$
+28,810
+ 
+$
+25,979
+ 
+Accrued expenses
+393,015
+ 
+374,947
+ 
+Short-term debt, net 
+649,008
+ 
+—
+ 
+Funds payable and amounts due to sellers
+205,002
+ 
+189,558
+ 
+Deferred revenue
+27,049
+ 
+19,213
+ 
+Other current liabilities
+60,735
+ 
+55,416
+ 
+Total current liabilities
+1,363,619
+ 
+665,113
+ 
+Finance lease obligations—net of current portion
+93,482
+ 
+93,482
+ 
+Deferred tax liabilities
+8,808
+ 
+7,957
+ 
+Long-term debt, net
+2,333,230
+ 
+2,288,083
+ 
+Other liabilities
+126,210
+ 
+122,013
+ 
+Total liabilities
+3,925,349
+ 
+3,176,648
+ 
+Commitments and contingencies (Note 13)
+Stockholders' deficit:
+Common stock ($
+0.001
+ par value, 
+1,400,000
+ shares authorized as of December 31, 2025 and 2024; 
+97,031
+ and 
+108,540
+ shares issued and outstanding as of December 31, 2025 and 2024, respectively)
+97
+ 
+109
+ 
+Preferred stock ($
+0.001
+ par value, 
+25,000
+ shares authorized as of December 31, 2025 and 2024)
+—
+ 
+—
+ 
+Additional paid-in capital
+1,532,204
+ 
+1,322,809
+ 
+Accumulated deficit
+(
+2,404,020
+)
+(
+1,784,037
+)
+Accumulated other comprehensive loss
+(
+226,376
+)
+(
+297,747
+)
+Total stockholders' deficit
+(
+1,098,095
+)
+(
+758,866
+)
+Total liabilities and stockholders’ deficit
+$
+2,827,254
+ 
+$
+2,417,782
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+66
+Table of Contents
+Etsy, Inc.
+Consolidated Statements of Operations 
+(In thousands, except per share amounts)
+ 
+ 
+Year Ended  
+December 31,
+ 
+2025
+2024
+2023
+Revenue
+$
+2,883,501
+ 
+$
+2,808,332
+ 
+$
+2,748,377
+ 
+Cost of revenue
+817,800
+ 
+774,554
+ 
+828,675
+ 
+Gross profit
+2,065,701
+ 
+2,033,778
+ 
+1,919,702
+ 
+Operating expenses:
+Marketing
+914,830
+ 
+856,565
+ 
+759,196
+ 
+Product development
+450,192
+ 
+443,056
+ 
+469,332
+ 
+General and administrative
+332,766
+ 
+353,949
+ 
+343,242
+ 
+Asset impairment charges
+101,703
+ 
+—
+ 
+68,091
+ 
+Total operating expenses
+1,799,491
+ 
+1,653,570
+ 
+1,639,861
+ 
+Income from operations
+266,210
+ 
+380,208
+ 
+279,841
+ 
+Other (expense) income:
+Interest expense
+(
+18,509
+)
+(
+13,806
+)
+(
+14,042
+)
+Interest and other income
+44,489
+ 
+30,982
+ 
+35,999
+ 
+Foreign exchange (loss) gain
+(
+40,428
+)
+13,391
+ 
+(
+6,348
+)
+Loss on sale of business
+(
+5,097
+)
+—
+ 
+(
+2,630
+)
+Total other (expense) income
+(
+19,545
+)
+30,567
+ 
+12,979
+ 
+Income before income taxes
+246,665
+ 
+410,775
+ 
+292,820
+ 
+(Provision) benefit for income taxes
+(
+83,683
+)
+(
+107,494
+)
+14,748
+ 
+Net income
+$
+162,982
+ 
+$
+303,281
+ 
+$
+307,568
+ 
+Net income per share attributable to common stockholders:
+Basic
+$
+1.59
+ 
+$
+2.64
+ 
+$
+2.51
+ 
+Diluted
+$
+1.39
+ 
+$
+2.35
+ 
+$
+2.24
+ 
+Weighted average common shares outstanding:
+Basic
+102,356
+ 
+114,944
+ 
+122,503
+ 
+Diluted
+124,114
+ 
+131,721
+ 
+140,145
+ 
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+67
+Table of Contents
+Etsy, Inc.
+Consolidated Statements of Comprehensive Income 
+(In thousands)
+ 
+ 
+Year Ended  
+December 31,
+ 
+2025
+2024
+2023
+Net income
+$
+162,982
+ 
+$
+303,281
+ 
+$
+307,568
+ 
+Other comprehensive income (loss):
+Cumulative translation adjustment, net of tax of $
+4,159
+, $
+0
+, and $
+0
+, respectively
+70,951
+ 
+(
+30,503
+)
+44,977
+ 
+Unrealized gains on investments, net of tax of $
+136
+, $
+72
+, and $
+574
+, respectively
+420
+ 
+226
+ 
+1,770
+ 
+Total other comprehensive income (loss)
+71,371
+ 
+(
+30,277
+)
+46,747
+ 
+Comprehensive income
+$
+234,353
+ 
+$
+273,004
+ 
+$
+354,315
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+68
+Table of Contents
+Etsy, Inc.
+Consolidated Statements of Changes in Stockholders’ Deficit
+(In thousands)
+ 
+Common Stock
+Additional
+Paid-in 
+Capital
+Accumulated Deficit
+Accumulated Other Comprehensive Loss
+Total
+ 
+ 
+Shares
+Amount
+Balance as of December 31, 2022
+125,054
+ 
+$
+125
+ 
+$
+815,085
+ 
+$
+(
+1,048,267
+)
+$
+(
+314,217
+)
+$
+(
+547,274
+)
+Stock-based compensation (1)
+46
+ 
+— 
+300,687
+ 
+— 
+— 
+300,687
+ 
+Exercise of vested options
+624
+ 
+1
+ 
+14,227
+ 
+— 
+— 
+14,228
+ 
+Settlement of capped call
+(
+1,194
+)
+(
+1
+)
+34,224
+ 
+(
+34,223
+)
+— 
+—
+ 
+Settlement of convertible senior notes, net of taxes
+— 
+— 
+(
+1
+)
+— 
+— 
+(
+1
+)
+Vesting of restricted stock units, net of shares withheld
+1,419
+ 
+1
+ 
+(
+83,196
+)
+— 
+— 
+(
+83,195
+)
+Stock repurchase
+(
+6,880
+)
+(
+7
+)
+— 
+(
+582,468
+)
+— 
+(
+582,475
+)
+Other comprehensive income
+— 
+— 
+— 
+— 
+46,747
+ 
+46,747
+ 
+Net income
+— 
+— 
+— 
+307,568
+ 
+— 
+307,568
+ 
+Balance as of December 31, 2023
+119,069
+ 
+119
+ 
+1,081,026
+ 
+(
+1,357,390
+)
+(
+267,470
+)
+(
+543,715
+)
+Stock-based compensation (1)
+21
+ 
+— 
+299,472
+ 
+— 
+— 
+299,472
+ 
+Exercise of vested options
+158
+ 
+— 
+3,907
+ 
+— 
+— 
+3,907
+ 
+Vesting of restricted stock units, net of shares withheld
+1,493
+ 
+2
+ 
+(
+61,596
+)
+— 
+— 
+(
+61,594
+)
+Stock repurchase
+(
+12,201
+)
+(
+12
+)
+— 
+(
+729,928
+)
+— 
+(
+729,940
+)
+Other comprehensive loss
+— 
+— 
+— 
+— 
+(
+30,277
+)
+(
+30,277
+)
+Net income
+— 
+— 
+— 
+303,281
+ 
+— 
+303,281
+ 
+Balance as of December 31, 2024
+108,540
+ 
+109
+ 
+1,322,809
+ 
+(
+1,784,037
+)
+(
+297,747
+)
+(
+758,866
+)
+Stock-based compensation
+— 
+— 
+266,977
+ 
+— 
+— 
+266,977
+ 
+Exercise of vested options
+1,023
+ 
+1
+ 
+17,666
+ 
+— 
+— 
+17,667
+ 
+Vesting of restricted stock units, net of shares withheld
+1,861
+ 
+1
+ 
+(
+75,248
+)
+— 
+— 
+(
+75,247
+)
+Stock repurchase
+(
+14,393
+)
+(
+14
+)
+— 
+(
+782,965
+)
+— 
+(
+782,979
+)
+Other comprehensive income
+— 
+— 
+— 
+— 
+71,371
+ 
+71,371
+ 
+Net income
+— 
+— 
+— 
+162,982
+ 
+— 
+162,982
+ 
+Balance as of December 31, 2025
+97,031
+ 
+$
+97
+ 
+$
+1,532,204
+ 
+$
+(
+2,404,020
+)
+$
+(
+226,376
+)
+$
+(
+1,098,095
+)
+(1) 
+Includes the partial payment of Depop deferred consideration. See “Note 15—Stock-based Compensation” for additional information.
+The accompanying notes are an integral part of these consolidated financial statements.
+69
+Table of Contents
+Etsy, Inc.
+Consolidated Statements of Cash Flows
+(In thousands)
+ 
+Year Ended  
+December 31,
+ 
+2025
+2024
+2023
+Cash flows from operating activities
+Net income
+$
+162,982
+ 
+$
+303,281
+ 
+$
+307,568
+ 
+Adjustments to reconcile net income to net cash provided by operating activities:
+Stock-based compensation expense
+244,745
+ 
+282,847
+ 
+284,558
+ 
+Depreciation and amortization expense
+101,845
+ 
+108,074
+ 
+91,323
+ 
+Provision for expected credit losses
+9,006
+ 
+11,950
+ 
+19,634
+ 
+Deferred provision (benefit) for income taxes
+39,215
+ 
+(
+14,445
+)
+(
+50,086
+)
+Asset impairment charges
+101,703
+ 
+—
+ 
+68,091
+ 
+Other non-cash expense (income), net
+34,610
+ 
+(
+18,962
+)
+8,129
+ 
+Changes in operating assets and liabilities, net of sale of business:
+Accounts receivable
+(
+10,034
+)
+3,573
+ 
+(
+16,066
+)
+Funds receivable and seller accounts
+(
+23,035
+)
+69,093
+ 
+(
+29,328
+)
+Prepaid expenses and other current assets
+(
+33,814
+)
+39,317
+ 
+(
+47,490
+)
+Other assets
+4,560
+ 
+(
+1,381
+)
+(
+2,409
+)
+Accounts payable
+2,496
+ 
+(
+3,511
+)
+2,582
+ 
+Accrued and other current liabilities
+27,660
+ 
+34,240
+ 
+34,439
+ 
+Funds payable and amounts due to sellers
+23,035
+ 
+(
+69,093
+)
+29,328
+ 
+Deferred revenue
+6,975
+ 
+4,945
+ 
+457
+ 
+Other liabilities
+1,465
+ 
+2,541
+ 
+4,783
+ 
+Net cash provided by operating activities
+693,414
+ 
+752,469
+ 
+705,513
+ 
+Cash flows from investing activities
+Purchases of property and equipment
+(
+15,386
+)
+(
+14,208
+)
+(
+12,950
+)
+Website and app development
+(
+39,278
+)
+(
+29,290
+)
+(
+26,958
+)
+Purchases of investments
+(
+326,582
+)
+(
+330,763
+)
+(
+342,850
+)
+Sales and maturities of investments
+312,842
+ 
+321,160
+ 
+309,451
+ 
+Proceeds from sale of business, net of cash
+100,485
+ 
+—
+ 
+—
+ 
+Net cash provided by (used in) investing activities
+32,081
+ 
+(
+53,101
+)
+(
+73,307
+)
+Cash flows from financing activities
+Payment of tax obligations on vested equity awards
+(
+75,220
+)
+(
+61,588
+)
+(
+83,441
+)
+Repurchase of stock
+(
+776,899
+)
+(
+723,899
+)
+(
+576,968
+)
+Proceeds from exercise of stock options
+17,667
+ 
+3,907
+ 
+14,228
+ 
+Proceeds from issuance of convertible senior notes
+700,000
+ 
+—
+ 
+—
+ 
+Payment of debt issuance costs
+(
+11,339
+)
+—
+ 
+—
+ 
+Payments on finance lease obligations
+(
+6,162
+)
+(
+6,091
+)
+(
+6,278
+)
+Other financing, net
+(
+17,922
+)
+503
+ 
+(
+4,074
+)
+Net cash used in financing activities
+(
+169,875
+)
+(
+787,168
+)
+(
+656,533
+)
+Effect of exchange rate changes on cash
+37,562
+ 
+(
+15,345
+)
+12,031
+ 
+Net increase (decrease) in cash, cash equivalents, and restricted cash
+593,182
+ 
+(
+103,145
+)
+(
+12,296
+)
+Cash and cash equivalents at beginning of period
+811,178
+ 
+914,323
+ 
+926,619
+ 
+Cash, cash equivalents, and restricted cash at end of period
+$
+1,404,360
+ 
+$
+811,178
+ 
+$
+914,323
+ 
+70
+Table of Contents
+Etsy, Inc.
+Consolidated Statements of Cash Flows
+(In thousands)
+ 
+Year Ended 
+ December 31,
+ 
+2025
+2024
+2023
+Supplemental cash flow disclosures:
+Cash paid for interest
+$
+12,235
+ 
+$
+9,052
+ 
+$
+9,315
+ 
+Supplemental non-cash disclosures:
+Stock-based compensation capitalized in website and app development
+$
+22,232
+ 
+$
+15,964
+ 
+$
+15,381
+ 
+Excise tax payable 
+$
+6,087
+ 
+$
+6,041
+ 
+$
+5,507
+ 
+Lease assets obtained in exchange for new lease liabilities
+$
+—
+ 
+$
+5,472
+ 
+$
+7,751
+ 
+Deferred consideration (1)
+$
+—
+ 
+$
+1,413
+ 
+$
+4,611
+ 
+(1) See “Note 15—Stock-based Compensation” for more information on the settlement of deferred consideration. 
+The following table provides a reconciliation of cash and cash equivalents and restricted cash reported within the Consolidated Balance Sheets that sum to the total of the same such amounts shown above:
+As of December 31,
+2025
+2024
+2023
+Cash and cash equivalents
+$
+1,395,836
+ 
+$
+811,178
+ 
+$
+914,323
+ 
+Restricted cash
+8,524
+ 
+—
+ 
+—
+ 
+Total cash and cash equivalents and restricted cash
+$
+1,404,360
+ 
+$
+811,178
+ 
+$
+914,323
+ 
+The accompanying notes are an integral part of these consolidated financial statements.
+71
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Note 1—Basis of Presentation and Summary of Significant Accounting Policies
+ 
+Description of Business
+Etsy operates two-sided online marketplaces that connect millions of creative entrepreneurs with buyers around the world. These marketplaces share a mission to “Keep Commerce Human,
+”
+ which reflects the Company’s belief that creativity and connection set it apart in an increasingly automated world. Etsy sees lasting value in businesses that balance people, planet, and profit, and aligns its growth strategy with this principle—using its platform to foster entrepreneurship and sustainable economic impact. The Company’s primary marketplace, Etsy, is the global destination for unique, creative goods from independent sellers, connecting artisans with thoughtful consumers seeking items that reflect their tastes and values. The Company also operates Depop Limited (“Depop”), a leading fashion resale marketplace acquired in 2021. The Company generates revenue primarily from marketplace activities, including transaction fees (inclusive of offsite advertising), payments processing fees, and listing fees, as well as from optional seller services, which primarily include on-site advertising and shipping labels.
+Basis of Consolidation
+The consolidated financial statements include the accounts of Etsy and its wholly-owned subsidiaries. All intercompany balances and transactions have been eliminated in consolidation. On June 2, 2025, Etsy completed the sale of Reverb Holdings, Inc. (“Reverb”), its musical instrument marketplace, and on August 10, 2023, Etsy completed the sale of the parent holding company of Elo7 Serviços de Informática S.A. (“Elo7”), a Brazil-based marketplace for handmade and unique items. The financial results of Reverb and Elo7 have been included in Etsy’s consolidated financial statements until June 2, 2025 and through August 10, 2023, respectively.
+ See “Note 5—Sale of Business” for more information.
+Reclassifications
+Certain items in the prior years’ consolidated financial statements have been reclassified to conform to the current year presentation reflected in the consolidated financial statements.
+Use of Estimates
+The preparation of consolidated financial statements in conformity with accounting principles generally accepted in the United States of America (“GAAP”) requires the Company to make estimates and judgments that affect the amounts reported and disclosed in the consolidated financial statements and accompanying notes. Actual results could differ from these estimates and judgments. The accounting estimates that require management’s most subjective judgments include: income taxes; valuation of goodwill; and leases. As of December 31, 2025, there continues to be significant global macroeconomic and geopolitical uncertainty which may impact the Company’s business, results of operations, and financial condition. As a result, many of the Company’s estimates and judgments require increased judgment and carry a higher degree of variability and volatility. As additional information becomes available, the Company’s estimates may change materially in future periods.
+Revenue Recognition
+The Company’s revenue is diversified; generated from a mix of marketplace activities and other optional services the Company provides primarily to sellers to help them generate more sales and scale their businesses. Revenues are primarily recognized as the Company transfers control of promised goods or services to sellers, in an amount that reflects the consideration the Company expects to be entitled to in exchange for those goods or services. The majority of the Company’s revenue is recognized on a gross basis, with the primary exception being shipping label revenue, which is recorded on a net basis. Sales and usage-based taxes are excluded from revenue.
+72
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Marketplace revenue:
+ As members of the Etsy marketplace, Etsy sellers receive the benefit of marketplace activities, including listing items for sale, completing sales transactions, and payments processing, which represents a single stand-ready performance obligation. Etsy marketplace sellers pay a fixed listing fee of $
+0.20
+ for each item listed on the Etsy marketplace, and the listing fee is recognized ratably over a 
+four-month
+ listing period, unless the item is sold, at which time any remaining listing fee is recognized. Listing fees are nonrefundable.
+Variable fees include transaction fees and payments processing fees. Etsy marketplace sellers pay a 
+6.5
+% transaction fee for each completed transaction, inclusive of shipping fees charged. The Etsy marketplace charges sellers for Offsite Ads, whereby sellers pay a transaction fee of 
+12
+% or 
+15
+% of the value of a sale based on the seller’s volume of sales, if such sale is generated from an advertisement placed by Etsy on third-party internet platforms. The corresponding expense is recorded in marketing. Etsy marketplace sellers pay Etsy Payments processing fees, which typically vary between 
+3.0
+% and 
+6.5
+% of an item’s total sale price, including shipping, plus a flat fee per order that depends on the country in which a seller’s bank account is located, plus an additional transaction fee for foreign currency payments. The transaction fee, Offsite Ads transaction fee, and Etsy Payments processing fees are recognized when the corresponding transaction is consummated, and are recorded net of refunds.
+Depop marketplace revenue is comprised of seller and buyer transaction fees and payments processing fees. In 2024, Depop removed seller transaction fees for sellers based in the U.K. and the U.S., and introduced a buyer fee for buyers based in those locations of up to 
+5
+% of the item purchase price, excluding taxes and shipping fees charged, plus a flat fee per order. Prior to 2024, all Depop sellers paid a 
+10
+% transaction fee for each completed transaction, regardless of the seller’s location. Seller and buyer transaction fees and payments processing fees are recognized when the transaction is consummated, and are recorded net of refunds.
+Prior to its sale on June 2, 2025, Reverb marketplace revenue was comprised of seller transaction fees and payments processing fees, which were recognized when the transaction was consummated, and was recorded net of refunds. Reverb sellers paid a 
+5
+% transaction fee for each completed transaction, inclusive of shipping fees charged.
+Services revenue:
+ Services revenue is derived from optional services offered to Etsy marketplace sellers, which primarily include on-site advertising and shipping labels. Each service represents an individual obligation that the Company must perform when a seller chooses to use the service.
+On-site advertising services consist of cost-per-click fees an Etsy marketplace seller pays for prominent placement of her listings. These fees are nonrefundable and are charged to a seller’s Etsy bill when the listing is clicked, at which time revenue is recognized.
+Revenue from shipping labels consists of fees an Etsy marketplace seller pays the Company when they purchase shipping labels through the platform, net of the cost the Company incurs in purchasing those shipping labels. The Company provides its sellers access to purchase shipping labels at discounted pricing due to the volume of purchases through its platform. The Company recognizes shipping label revenue when an Etsy marketplace seller purchases a shipping label. The Company recognizes shipping label revenue on a net basis as it is an agent in this arrangement and does not take control of shipping labels prior to transferring the labels to the Etsy marketplace seller. Etsy shipping label revenue is recorded net of refunds.
+The Depop marketplace offers on-site advertising services and shipping labels services. Each service represents an individual obligation that Depop must perform when a seller chooses to use the service. Shipping label revenue is recorded net of refunds.
+Prior to its sale on June 2, 2025, the Reverb marketplace offered on-site advertising services and shipping labels services. Each service represented an individual obligation that Reverb performed when a seller chose to use the service. Shipping label revenue was recorded net of refunds.
+73
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Contract balances: 
+The Company primarily records deferred revenue when cash payments are received or due in advance of the completion of the 
+four-month
+ listing period on the Etsy marketplace, which represents the value of the Company’s unsatisfied performance obligations, unless the item is sold, at which time any remaining listing fee is recognized. The amount of revenue recognized in 2025 that was included in the deferred balance at January 1, 2025 was $
+19.2
+ million.
+Advertising
+Advertising expenses are recognized as incurred, with the exception of certain production expenses related to television and display advertising which are deferred until the first time an advertisement airs or is published. If such advertising is not expected to occur, costs are expensed immediately.
+ Advertising expenses related to direct marketing, included in marketing expenses on the Consolidated Statements of Operations, were $
+790.9
+ million, $
+726.8
+ million, and $
+624.3
+ million in 2025, 2024, and 2023, respectively.
+Stock-Based Compensation
+Service-based restricted stock units (“RSUs”) are awarded to employees and members of the Company’s Board of Directors and performance-based restricted stock units (“PBRSUs”) are awarded to employees. All such awards are measured at fair value at each grant date. The PBRSUs include financial performance-based restricted stock units (“Financial PBRSUs”) and total shareholder return performance-based restricted stock units (“TSR PBRSUs”), both of which have performance and service vesting requirements. The Company recognizes forfeitures as they occur.
+The fair value of RSUs and Financial PBRSUs is determined based on the closing price of the Company’s common stock on Nasdaq on the grant date. Additionally, the fair value of the Financial PBRSUs takes into consideration a vesting probability assessment as of each reporting date. The fair value of the TSR PBRSUs is determined using a Monte-Carlo simulation model on the grant date.
+The requisite service period for employee RSUs is generally 
+three
+ or 
+four years
+ from the grant date. For PBRSUs, the Company recognizes stock-based compensation expenses on a straight-line basis over the longer of the derived, explicit, or implicit service period. As of interim and annual reporting periods, the Financial PBRSUs stock-based compensation expense is adjusted based on expected achievement of performance targets, while TSR PBRSUs stock-based compensation expense is not adjusted.
+Foreign Currency
+The Company has determined that the functional currency for each of its foreign operations is the currency of the primary cash flow of the operations, which is generally the local currency in the jurisdiction in which the operation is located. All assets and liabilities are translated into U.S. dollars using exchange rates in effect at the balance sheet date, and revenue and expenses are translated using average exchange rates during the period. Foreign currency translation adjustments are reflected in stockholders’ equity (deficit) as a component of other comprehensive income (loss). Transaction gains and losses are included in foreign exchange gain (loss) within other income (expense) in the Consolidated Statements of Operations.
+Income Taxes
+The income tax benefit (provision) is based on income before income taxes and is accounted for under the asset and liability method. Under this method, deferred tax assets and liabilities are recognized for the future tax consequences attributable to differences between the financial statement and tax bases of assets and liabilities using enacted tax rates in effect for the year in which the differences are expected to settle. The Company recognizes future tax benefits, such as net operating losses and tax credits, to the extent that realizing these benefits is considered in its judgment to be more likely than not. The effect on deferred tax assets and liabilities of a change in tax rates is recognized as income or expense in the period that includes the enactment date. The Company regularly reviews the recoverability of its deferred tax assets by considering its historic profitability, projected future taxable income, timing of the reversals of existing temporary differences and the feasibility of its tax planning 
+74
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+strategies. Where appropriate, the Company records a valuation allowance against deferred tax assets that are deemed not more likely than not to be realizable.
+The Company records tax expense related to Global Intangible Low Taxed Income (“GILTI”) as a current period expense when incurred using the period cost method.
+The Company accounts for uncertainty in income taxes using a recognition threshold and a measurement attribute for the financial statement recognition and measurement of tax positions taken or expected to be taken in a tax return. For benefits to be recognized, a tax position must be more likely than not to be sustained upon examination by the taxing authorities. The amount recognized is measured as the largest amount of benefit that has a greater than 50% likelihood of being realized upon ultimate audit settlement.
+The Company recognizes interest and penalties, if any, associated with income tax matters as part of the income tax provision and includes accrued interest and penalties with the related income tax liability in the Consolidated Balance Sheets.
+For the periods that have adopted Accounting Standards Update (“ASU”) 2023-09, 
+Income Taxes (Topic 740): Improvements to Income Tax Disclosures (“
+ASU 2023-09”), all activity for all jurisdictions, including state and local, is included under category (8) “
+Changes in unrecognized tax benefit
+” within the effective tax rate reconciliation. Periods presented prior to the adoption of ASU 2023-09 have not been recast to reflect this presentation.
+Cash and Cash Equivalents, and Short- and Long-term Investments
+The Company considers all investments with an original maturity of three months or less at time of purchase to be cash equivalents. Cash restricted by third-parties is not considered cash and cash equivalents.
+ Short-term and long-term investments primarily consist of available-for-sale debt securities, which are reported at fair value using the specific identification method. The Company determines the appropriate classification of its investments at the time of purchase and reevaluates the classification at each balance sheet date. 
+Available-for-sale debt securities with maturities of 12 months or less as of the balance sheet date are classified as short-term investments and available-for-sale debt securities with maturities greater than 12 months are classified as long-term investments. Unrealized gains and losses are primarily excluded from earnings and reported as a component of other comprehensive income (loss), net of related tax expense (benefit).
+Restricted Cash
+The Company classifies any cash balances that are legally restricted as to withdrawal or usage as restricted cash on the Consolidated Balance Sheets.
+ The Company had restricted cash of $
+8.5
+ million as of December 31, 2025, primarily to comply with the Canada Retail Payment Activities Act. The Company had 
+no
+ restricted cash as of December 31, 2024.
+Concentration of Credit Risk
+Financial instruments that potentially subject the Company to concentrations of credit risk consist of cash and cash equivalents, short- and long-term investments, and funds receivable and seller accounts. The Company reduces credit risk by placing its cash and cash equivalents with major financial institutions with high credit ratings. At times, to the extent eligible, such amounts may exceed federally insured limits. The Company believes that minimal credit risk exists with respect to these investments due to the credit ratings of the financial institutions that hold its short- and long-term investments. In addition, funds receivable settle relatively quickly, and the Company’s historical experience of losses has not been significant.
+Funds Receivable and Seller Accounts and Funds Payable and Amounts due to Sellers
+The Company records funds receivable and seller accounts and funds payable and amounts due to sellers as current assets and liabilities, respectively, on the Consolidated Balance Sheets. Funds receivable and seller accounts represent amounts received or expected to be received from buyers via third-party credit card processors, which 
+75
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+flow through a bank account for payment to sellers. The amounts recorded to funds receivable and seller accounts is the same amount recorded to the funds payable and amounts due to sellers, the latter of which represents the total amount due to sellers, given the intent to use these funds to settle funds payable to sellers. For the Depop marketplace only, the amounts received from buyers which are owed to sellers is paid to the sellers at point of sale, and therefore no funds receivable and seller accounts and no funds payable and amounts due to sellers are recorded related to the Depop marketplace.
+Property and Equipment
+Property and equipment are recorded at cost. Depreciation and amortization begin at the time assets are placed into service and are recognized using the straight-line method over their estimated useful lives. Repairs and maintenance costs are expensed as incurred. Upon sale or retirement of assets, the cost and related accumulated depreciation or amortization are removed from the Consolidated Balance Sheets and the resulting gain or loss is reflected in the Consolidated Statements of Operations.
+Website and App Development Costs
+Costs incurred to develop the Company’s website and app for internal-use are capitalized and amortized over the estimated useful life of the technology, and are included in property and equipment, net within the Consolidated Balance Sheets. Capitalization of costs to develop technology begins when website application and infrastructure development efforts commence, management has authorized and committed project funding, and it is probable that the project will be completed and the technology will be used as intended. Costs related to the planning or maintenance of the Company’s website and app are expensed as incurred. If an asset is not expected to provide any future use, the asset is retired and any unamortized cost is expensed.
+Goodwill
+Goodwill represents the excess of the purchase price over the fair value of the assets acquired in a business combination, net of liabilities assumed. Goodwill is allocated to the reporting unit in which the business that created the goodwill resides. Following the sales of Reverb and Elo7 in the second quarter of 2025 and the third quarter of 2023, respectively, management has determined that the Company has two operating segments, Etsy and Depop, and each operating segment is determined to be a reporting unit.
+The Company performs its annual goodwill impairment test in the fourth quarter, or more frequently if an interim triggering event occurs that may indicate potential impairment. The Company has the option to first assess qualitative factors to determine whether the existence of events or circumstances leads to a determination that it is more likely than not that the fair value of the reporting unit is less than its carrying amount. If the Company determines that it is more likely than not that the fair value of the reporting unit is less than its carrying amount, then the Company is required to perform a quantitative assessment for impairment. Under the quantitative goodwill impairment test, if a reporting unit’s carrying amount exceeds its fair value, an impairment loss is recognized in an amount equal to the excess, not to exceed the total amount of goodwill allocated to that reporting unit.
+ 
+See “Note 6—Goodwill and Intangible Assets” for further information.
+Intangible Assets
+Finite intangible assets are amortized using the straight-line method over the estimated useful life of the asset.
+ 
+Leases
+The Company’s lease arrangements principally include real estate. At lease commencement, the Company evaluates whether an arrangement is or contains a lease, and, if yes, whether the arrangement is a finance or operating lease, and accounts for it accordingly. Operating leases are included in other assets, other current liabilities, and other liabilities on the Company’s Consolidated Balance Sheets. Finance leases are included in property and equipment, 
+76
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+net, other current liabilities, and finance lease obligations—net of current portion on the Company’s Consolidated Balance Sheets. 
+Leases with a term greater than one year are recognized on the Consolidated Balance Sheets as right-of-use (“ROU”) assets, lease obligations, and, if applicable, long-term lease obligations in the financial statement line items cited above. The Company has elected not to recognize leases with terms of one year or less on the Consolidated Balance Sheets. Lease obligations and their corresponding ROU assets are recorded based on the present value of lease payments over the expected lease term. As the interest rate implicit in lease contracts is typically not readily determinable, the Company utilizes the appropriate incremental borrowing rate, which is the rate incurred to borrow on a collateralized basis over a similar term in an amount equal to the lease payments in a similar economic environment. Certain adjustments to the ROU asset may be required for items such as initial direct costs paid or incentives received. The lease term may include options to extend or terminate the lease when it is reasonably certain that the Company will exercise that option.
+The Company has elected to combine lease and non-lease components as a single lease component. The lease expense is recognized over the expected term on a straight-line basis.
+Impairment of Long-Lived Assets
+The Company reviews its long-lived assets for impairment whenever events or changes in circumstances indicate the carrying amount of an asset may not be recoverable. Recoverability of assets held and used is measured by comparison of the carrying amount of an asset to the future undiscounted cash flows expected to be generated from the use of the asset and its eventual disposition. If such assets are considered to be impaired, the impairment to be recognized is measured as the amount by which the carrying amount exceeds the fair value of the impaired assets. Assets to be disposed of are reported at the lower of their carrying amount or fair value less cost to sell.
+ During 2023, the Company impaired property and equipment and finite-lived intangible assets of its Elo7 reporting unit in full. The Company did 
+no
+t recognize any long-lived asset impairment charges in 2025 and 2024. See “Note 6—Goodwill and Intangible Assets” and “Note 9—Property and Equipment” for further information.
+Contingencies
+The Company accrues for loss contingencies when losses become probable and are reasonably estimable. If the reasonable estimate of the loss is a range and no amount within the range is a better estimate, the minimum amount of the range is recorded as a liability. The Company does not accrue for contingent losses that, in its judgment, are considered to be reasonably possible, but not probable; however, it discloses the range of such reasonably possible losses.
+Recently Adopted Accounting Pronouncements
+In December 2023, the Financial Accounting Standards Board (“FASB”) issued ASU 2023-09, which expands income tax disclosure requirements, primarily related to the income tax rate reconciliation and income taxes paid. The amendments are effective for annual periods beginning after December 15, 2024, and can be applied on a prospective basis, although retrospective application to all periods presented is permitted. The Company adopted this standard in the fourth quarter of 2025 on a prospective basis. Refer to “Note 3—Income Taxes" for the additional disclosures required per this standard.
+Recently Issued Accounting Pronouncements
+In December 2025, the FASB issued ASU 2025-12, 
+Codification Improvements
+, which includes amendments that clarify guidance, correct errors, and make other minor improvements to the FASB Accounting Standards Codification. The amendments are effective for interim and annual reporting periods beginning after December 15, 2026, and are to be applied either prospectively or retrospectively, depending on the specific guidance amended. Early adoption is permitted, including on an issue-by-issue basis. The Company is currently evaluating the impact of this guidance on its consolidated financial statements and related disclosures.
+77
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+In December 2025, the FASB issued ASU 2025-11, 
+Interim Reporting (Topic 270): Narrow-Scope Improvements,
+ which clarifies the scope and applicability of the interim reporting guidance in Topic 270 and improves the navigability of the interim disclosure requirements. The amendments are effective for interim and annual periods beginning after December 15, 2027, and are to be applied prospectively. Early adoption is permitted. The Company is currently evaluating the impact of this guidance on its consolidated financial statements and related disclosures.
+In September 2025, the FASB issued ASU 2025-06, 
+Intangibles—Goodwill and Other—Internal-Use Software (Subtopic 350-40): Targeted Improvements to the Accounting for Internal-Use Software
+, which updates the guidance for accounting for internal-use software costs. An entity will be required to start capitalizing software costs when (1) management has authorized and committed to funding the project and (2) it is probable the project will be completed and the software will be used as intended. The amendments are effective for annual reporting periods beginning after December 15, 2027, including interim periods within those annual periods. Early adoption is permitted, and entities may apply the guidance on a prospective, retrospective, or modified transition basis. The Company is currently evaluating the impact of the standard on its consolidated financial statements and related disclosures.
+In July 2025, the FASB issued ASU 2025-05, 
+Financial Instruments—Credit Losses (Topic 326): Measurement of Credit Losses for Accounts Receivable and Contract Assets
+, which amends the guidance for estimating expected credit losses on accounts receivable and contract assets, requiring entities to apply a current expected credit loss model. The amendments are effective for annual reporting periods beginning after December 15, 2025, including interim periods within those annual periods. Early adoption is permitted. The Company plans to adopt this standard in the first quarter of 2026 on a prospective basis. The adoption is not expected to have a material effect on the Company’s financial position or results of operations.
+In November 2024, the FASB issued ASU 2024-04,
+ Debt—Debt with Conversion and Other Options (Subtopic 470-20): Induced Conversions of Convertible Debt Instruments
+, which clarifies the assessment of whether certain settlements of convertible debt instruments should be accounted for as an induced conversion or extinguishment of convertible debt. The amendments are effective for annual reporting periods beginning after December 15, 2025, and interim periods within those annual periods, and can be applied either on a prospective or retrospective basis. The Company plans to adopt this standard in the first quarter of 2026 on a prospective basis. The adoption is not expected to have a material effect on the Company’s financial position or results of operations.
+In November 2024, the FASB issued ASU 2024-03,
+ Income Statement—Reporting Comprehensive Income—Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses. 
+The primary objective is to disclose disaggregated information about specific categories underlying certain income statement expense line items for both annual and interim periods in a tabular format. The amendments are effective for annual reporting periods beginning after December 15, 2026, and interim reporting periods beginning after December 15, 2027, and can be applied on a prospective basis, although retrospective application to all periods presented is permitted. Early adoption is permitted. The Company is currently evaluating the impact that this new guidance will have on its disclosures.
+78
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Note 2—Revenue
+The following table summarizes revenue disaggregated by Marketplace revenue and optional Services revenue for the periods presented (in thousands):
+Year Ended December 31,
+2025
+2024
+2023
+Marketplace revenue
+$
+2,007,164
+ 
+$
+2,020,744
+ 
+$
+1,997,190
+ 
+Services revenue
+876,337
+ 
+787,588
+ 
+751,187
+ 
+Revenue
+$
+2,883,501
+ 
+$
+2,808,332
+ 
+$
+2,748,377
+ 
+Note 3—Income Taxes
+The following are the domestic and foreign components of the Company’s income before income taxes (in thousands):
+ 
+Year Ended  
+December 31,
+ 
+2025
+2024
+2023
+United States
+$
+132,455
+ 
+$
+189,734
+ 
+$
+167,924
+ 
+International
+114,210
+ 
+221,041
+ 
+124,896
+ 
+Income before income taxes
+$
+246,665
+ 
+$
+410,775
+ 
+$
+292,820
+ 
+The income tax provision (benefit) is comprised of the following (in thousands):
+ 
+Year Ended  
+December 31,
+ 
+2025
+2024
+2023
+Current:
+U.S. Federal
+$
+6,211
+ 
+$
+73,298
+ 
+$
+13,737
+ 
+U.S. State
+11,262
+ 
+18,170
+ 
+(
+5,642
+)
+International
+26,995
+ 
+30,472
+ 
+27,243
+ 
+Total current
+44,468
+ 
+121,940
+ 
+35,338
+ 
+Deferred:
+U.S. Federal
+30,461
+ 
+(
+10,877
+)
+(
+20,925
+)
+U.S. State
+5,309
+ 
+1,437
+ 
+5,176
+ 
+International
+3,445
+ 
+(
+5,006
+)
+(
+34,337
+)
+Total deferred
+39,215
+ 
+(
+14,446
+)
+(
+50,086
+)
+Total income tax provision (benefit)
+$
+83,683
+ 
+$
+107,494
+ 
+$
+(
+14,748
+)
+79
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Below is a reconciliation of the income tax provision (benefit) at the U.S. federal statutory income tax rate to the Company’s total income tax provision (benefit) pursuant to the disclosure requirements of ASU 2023-09 for the year ended December 31, 2025 (in thousands):
+ 
+Year Ended  
+December 31, 2025
+ 
+Amount
+Percent
+U.S. Federal statutory tax rate
+$
+51,799
+ 
+21.0
+ 
+%
+ (1) State and local income taxes, net of federal income tax effect (a)
+6,155
+ 
+2.5
+ 
+ (2) Foreign tax effects 
+Ireland
+Foreign rate differential
+(
+15,155
+)
+(
+6.1
+)
+Pillar Two top-up taxes
+4,712
+ 
+1.9
+ 
+Other
+(
+243
+)
+(
+0.1
+)
+United Kingdom
+Foreign rate differential
+(
+3,278
+)
+(
+1.3
+)
+Valuation allowance
+21,164
+ 
+8.6
+ 
+Tax deficiencies from stock-based compensation
+1,834
+ 
+0.7
+ 
+Stock-based compensation
+(
+3,935
+)
+(
+1.6
+)
+Other
+1,522
+ 
+0.6
+ 
+ Other foreign jurisdictions  
+(
+164
+)
+(
+0.1
+)
+ (3) Enactment of new tax laws
+—
+ 
+—
+ 
+ (4) Effect of cross-border tax laws
+ U.S. Tax on foreign earnings net of tax credits 
+6,630
+ 
+2.7
+ 
+ Foreign derived income deduction
+(
+1,274
+)
+(
+0.5
+)
+(5) Tax credits
+Research and development tax credits
+(
+17,155
+)
+(
+7.0
+)
+Other
+(
+184
+)
+(
+0.1
+)
+(6) Valuation allowances
+37,571
+ 
+15.2
+ 
+(7) Nontaxable or nondeductible items
+Tax deficiencies from stock-based compensation
+12,078
+ 
+4.9
+ 
+ Non-deductible compensation
+1,634
+ 
+0.7
+ 
+ Foreign stock-based compensation
+6,624
+ 
+2.7
+ 
+ Financing interest
+(
+12,818
+)
+(
+5.2
+)
+ Goodwill impairment 
+21,358
+ 
+8.7
+ 
+ Capital loss
+(
+37,411
+)
+(
+15.2
+)
+ Other 
+1,730
+ 
+0.7
+ 
+ (8) Changes in unrecognized tax benefits
+1,220
+ 
+0.5
+ 
+ (9) Other adjustments
+(
+731
+)
+(
+0.3
+)
+Effective tax rate
+$
+83,683
+ 
+33.9
+ 
+%
+(a) State taxes in California, New Jersey, New York, Pennsylvania, Illinois, and Tennessee make up a majority (greater than 50 percent) of the tax effect in this category.
+80
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Below is a reconciliation of the income tax provision (benefit) at the U.S. federal statutory income tax rate to the Company’s total income tax provision (benefit) pursuant to the disclosure requirements prior to the adoption of ASU 2023-09 for the years ended December 31, 2024 and 2023 (in thousands):
+ 
+Year Ended  
+December 31,
+ 
+2024
+2023
+Income tax provision (benefit) at the federal statutory rate
+$
+86,263
+ 
+$
+61,492
+ 
+State and local income taxes, net of federal benefit
+7,970
+ 
+4,329
+ 
+Foreign income tax rate differential
+(
+33,066
+)
+(
+40,506
+)
+Stock-based compensation
+39,036
+ 
+15,167
+ 
+Research and development credit
+(
+12,321
+)
+(
+19,034
+)
+Financing and interest
+5,736
+ 
+—
+ 
+Change in valuation allowance
+5,545
+ 
+10,285
+ 
+Divestiture of Elo7
+—
+ 
+(
+55,934
+)
+Other
+8,331
+ 
+9,453
+ 
+Total income tax provision (benefit)
+$
+107,494
+ 
+$
+(
+14,748
+)
+Effective income tax rate
+26.2
+ 
+%
+(
+5.0
+)
+%
+Deferred income taxes reflect the net tax effect of temporary differences between the carrying amounts of assets and liabilities for financial reporting purposes and the amounts used for income tax purposes. 
+Significant components of the Company’s deferred tax assets (liabilities) are as follows (in thousands):
+ 
+As of December 31,
+ 
+2025
+2024
+Deferred tax assets:
+ Net operating loss carryforwards 
+$
+100,999
+ 
+$
+81,679
+ 
+ Research and development credit carryforwards 
+—
+ 
+771
+ 
+ Capitalized research expenses
+76,691
+ 
+118,167
+ 
+ Capital Losses
+43,688
+ 
+—
+ 
+ Lease liability 
+31,094
+ 
+33,601
+ 
+ Stock-based compensation expense 
+21,662
+ 
+26,930
+ 
+ Financing and interest
+4,910
+ 
+15,309
+ 
+ Accrued bonus 
+10,885
+ 
+11,103
+ 
+ Excess tax basis in intangible assets 
+3,516
+ 
+2,696
+ 
+ Other deferred tax assets 
+23,026
+ 
+17,886
+ 
+ Total deferred tax assets 
+316,471
+ 
+308,142
+ 
+ Less: valuation allowance 
+79,067
+ 
+12,481
+ 
+ Total net deferred tax asset 
+237,404
+ 
+295,661
+ 
+ Deferred tax liabilities: 
+ Excess book basis in intangible assets 
+(
+72,650
+)
+(
+104,612
+)
+ Right-of-use asset 
+(
+27,919
+)
+(
+30,306
+)
+ Depreciation 
+(
+23,542
+)
+(
+22,030
+)
+ Other deferred tax liabilities 
+(
+2,791
+)
+(
+1,040
+)
+Total deferred tax liabilities
+(
+126,902
+)
+(
+157,988
+)
+Net deferred tax assets
+$
+110,502
+ 
+$
+137,673
+ 
+81
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Below is the amount of income taxes, net of refunds received, paid by the Company pursuant to the disclosure requirements of ASU 2023-09 for the year ended December 31, 2025 (in thousands):
+Year Ended  
+December 31, 2025
+Federal
+$
+34,585
+ 
+State
+2,907
+ 
+Foreign
+Ireland
+19,547
+ 
+Other
+6,366
+ 
+Total
+$
+63,405
+ 
+The Company paid total income taxes, net of refunds received, of $
+89.6
+ million and $
+42.7
+ million for the years ended December 31, 2024 and 2023, respectively.
+As of December 31, 2025, the Company had the following tax credit, capital loss and operating loss carryforwards available to offset income tax liability and taxable income, respectively, in future years (in thousands):
+December 31, 2025
+Expiration Period
+U.S. Federal credit carryforwards
+$
+4,247
+ 
+2031-2035
+U.S. Federal capital loss carryforwards
+178,148
+ 
+2030
+U.S. State net operating loss carryforwards
+28,537
+ 
+2037-2045
+U.S. State credit carryforwards
+4,359
+ 
+2030-Unlimited
+U.S. State capital loss carryforwards
+178,148
+ 
+2030-2040
+Non-U.S. net operating loss carryforwards
+395,982
+ 
+Unlimited
+Utilization of the net operating losses (“NOLs”) is dependent on generating sufficient taxable income from the Company’s operations in each of the respective jurisdictions to which the NOLs relate, while taking into account tax filing methodologies and limitations and/or restrictions on the Company’s ability to use them. A significant component of the Company’s Non-U.S. NOLs were acquired as part of the acquisition of Depop. Certain U.K. tax laws impose limitations on the utilization of these NOLs by any other entity. All NOLs are also subject to review by relevant tax authorities in the jurisdictions to which they relate.
+Utilization of U.S. capital loss carryforwards is dependent on the generation of sufficient capital gains in the U.S. Because the Company does not expect to generate sufficient U.S. capital gains within the applicable carryforward periods, a full valuation allowance has been recorded against the U.S. federal and state capital loss carryforwards. 
+The Company assesses the likelihood of its ability to realize the benefit of its deferred tax assets in each jurisdiction by evaluating all relevant positive and negative evidence at each reporting date. To the extent the Company determines that some or all of its deferred tax assets are not more likely than not to be realized, it establishes a valuation allowance. 
+The following table summarizes the valuation allowance activity for the periods indicated (in thousands): 
+ 
+Year Ended  
+December 31,
+ 
+2025
+2024
+2023
+Balance as of the beginning of period
+$
+12,481
+ 
+$
+4,154
+ 
+$
+3,524
+ 
+Additions charged to expense
+65,427
+ 
+8,578
+ 
+10,960
+ 
+Deletions credited to expense
+—
+ 
+—
+ 
+(
+124
+)
+Currency translation and other balance sheet activity
+1,159
+ 
+(
+251
+)
+(
+10,206
+)
+Balance as of the end of period
+$
+79,067
+ 
+$
+12,481
+ 
+$
+4,154
+ 
+82
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Unrecognized tax benefits
+The following table summarizes the unrecognized tax benefit activity as well as the amounts included on the Consolidated Balance Sheets for the periods indicated (in thousands):
+ 
+As of December 31,
+ 
+2025
+2024
+2023
+Balance as of the beginning of period
+$
+56,809
+ 
+$
+51,673
+ 
+$
+35,158
+ 
+Additions based on tax positions related to the current year
+8,246
+ 
+7,451
+ 
+10,225
+ 
+Additions for tax positions of prior years
+8,132
+ 
+2,846
+ 
+6,278
+ 
+Reductions for tax provisions of prior years
+(
+14,265
+)
+(
+853
+)
+—
+ 
+Lapse of statute of limitations
+(
+2,121
+)
+(
+4,172
+)
+(
+3
+)
+Reductions for sale of business
+(
+1,091
+)
+—
+ 
+—
+ 
+Settlements
+—
+ 
+(
+107
+)
+—
+ 
+Currency translation
+35
+ 
+(
+29
+)
+15
+ 
+Balance as of the end of period
+$
+55,745
+ 
+$
+56,809
+ 
+$
+51,673
+ 
+The total amount of unrecognized tax benefits that, if recognized, would favorably affect the effective tax rate is 
+$
+51.8
+ million
+ at December 31, 2025. 
+The total amount of unrecognized tax benefits relating to the Company’s tax positions is subject to change based on future events including, but not limited to, the settlements of ongoing audits and/or the expiration of applicable statutes of limitations. The outcomes and timing of such events are highly uncertain.
+The Company is subject to taxation in the United States, Ireland, the United Kingdom, and various U.S. states and foreign jurisdictions. As of December 31, 2025, for major tax jurisdictions the following tax years remain open to examination:
+Years Open
+United States
+2022-2025
+Ireland
+2021-2025
+United Kingdom
+2023-2025
+U.S. States
+2014-2025
+The Company is under examination by the U.S. Internal Revenue Service for the calendar year 2022, as well as by several U.S. states and non-U.S. jurisdictions for various years. These examinations may result in proposed adjustments to the Company’s income tax liability or tax attributes with respect to years under examination as well as subsequent periods. 
+The (provision) benefit for income taxes involves a significant amount of management judgment regarding interpretation of relevant facts and laws in the jurisdictions in which the Company operates. Future changes in applicable laws, projected levels of taxable income and tax planning could change the effective tax rate and tax balances recorded by the Company. In addition, tax authorities periodically review income tax returns filed by the Company and can raise issues regarding its filing positions, timing and amount of income and deductions, and the allocation of income among the jurisdictions in which the Company operates. A significant period of time may elapse between the filing of an income tax return and the ultimate resolution of an issue raised by a revenue authority with respect to that return. Any adjustments as a result of any examination may result in additional taxes or penalties against the Company. If the ultimate result of these audits differ from original or adjusted estimates, they could have a material impact on the Company’s tax provision.
+On July 4, 2025, the One Big Beautiful Bill Act (“OBBBA”) was enacted in the U.S. OBBBA includes significant corporate tax changes, including a restoration of the current deductibility for domestic research expenditures beginning in 2025, with transition options for previously capitalized amounts. OBBBA also includes changes to 
+83
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+certain U.S. international provisions beginning in 2026. While the Company expects certain provisions of OBBBA to favorably change the timing of cash tax payments in the near term, it does not expect the legislation to have a material impact on the provision for income taxes. The Company will continue to assess and monitor OBBBA’s impact on its consolidated financial statements.
+Over the past several years, the Organization for Economic Cooperation and Development (“OECD”) has developed a “two pillar” framework to address the tax challenges arising from digitalization. Pillar Two of the project introduces a global minimum tax rate of 15% and has been enacted by a significant number of jurisdictions, with effective dates beginning in 2024. On January 5, 2026, the OECD released a "Side-by-Side" package, introducing a new safe harbor that effectively recognizes the U.S. tax system as compliant with global minimum tax objectives. For U.S.-parented multinational companies, this agreement largely eliminates the risk of foreign "top-up" taxes on U.S. income. Local foreign jurisdiction "top-up" taxes will continue to apply.
+Note 4—Net Income Per Share 
+Basic net income per share attributable to common stockholders is computed by dividing the net income by the weighted-average number of shares of common stock outstanding for the period. Diluted net income per share is computed by dividing net income, adjusted on an if-converted basis for the period, by the weighted-average number of shares of common stock and potentially dilutive common stock outstanding during the period. The dilutive effect of outstanding stock-based compensation awards and convertible senior notes are computed using the treasury stock method and the if-converted method, respectively.
+The following table presents the calculation of basic and diluted net income per share for periods presented (in thousands, except per share amounts):
+ 
+Year Ended  
+December 31,
+ 
+2025
+2024
+2023
+Numerator:
+Net income
+$
+162,982
+ 
+$
+303,281
+ 
+$
+307,568
+ 
+Add back interest expense, net of tax attributable to assumed conversion of convertible senior notes
+10,125
+ 
+6,325
+ 
+6,336
+ 
+Net income attributable to common stockholders—diluted
+$
+173,107
+ 
+$
+309,606
+ 
+$
+313,904
+ 
+Denominator:
+Weighted average common shares outstanding—basic
+102,356
+ 
+114,944
+ 
+122,503
+ 
+Dilutive effect of outstanding stock-based compensation awards
+2,596
+ 
+2,063
+ 
+2,928
+ 
+Dilutive effect of assumed conversion of convertible senior notes
+19,162
+ 
+14,714
+ 
+14,714
+ 
+Weighted average common shares outstanding—diluted
+124,114
+ 
+131,721
+ 
+140,145
+ 
+Net income per share attributable to common stockholders—basic
+$
+1.59
+ 
+$
+2.64
+ 
+$
+2.51
+ 
+Net income per share attributable to common stockholders—diluted
+$
+1.39
+ 
+$
+2.35
+ 
+$
+2.24
+ 
+Outstanding stock-based compensation awards excluded from net income per diluted share because their effect would have been anti-dilutive
+3,497
+ 
+6,296
+ 
+4,894
+ 
+84
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Note 5—Sale of Business 
+Reverb Holdings, Inc.
+On April 21, 2025, the Company entered into an agreement to sell Reverb, its musical instrument marketplace, to Reverb IntermediateCo LLC, a Delaware limited liability company and wholly owned subsidiary of Reverb Partners LLC, a Delaware limited liability company, in an effort to focus on driving growth in the core Etsy marketplace, as well as its subsidiary Depop. Reverb Partners LLC is an affiliate of Servco Pacific Inc., a Hawaii corporation, and Creator Partners LLC, a Delaware limited liability company (collectively, the “Acquirors”), for a purchase price of $
+105.0
+ million in cash, subject to certain closing adjustments. 
+The transaction closed on June 2, 2025 and the Company recorded a loss on sale of $
+5.1
+ million during 2025. The loss on sale is the difference between the fair value of the consideration received of $
+108.2
+ million and the carrying amount of Reverb’s net assets as of the closing date of $
+113.3
+ million. 
+The major classes of assets and liabilities sold consisted of the following (in thousands):
+As of June 2, 2025
+Assets
+Current assets:
+Cash and cash equivalents
+$
+9,212
+ 
+Funds receivable and seller accounts
+19,861
+ 
+Other current assets
+4,448
+ 
+Total current assets
+33,521
+ 
+Property and equipment, net
+17,372
+ 
+Intangible assets, net
+107,390
+ 
+Other assets
+2,344
+ 
+Total assets
+$
+160,627
+ 
+Liabilities
+Current liabilities:
+Funds payable and amounts due to sellers
+$
+19,814
+ 
+Other current liabilities
+11,391
+ 
+Total current liabilities
+31,205
+ 
+Deferred tax liabilities
+13,319
+ 
+Other liabilities
+2,779
+ 
+Total liabilities
+$
+47,303
+ 
+Elo7 Serviços de Informática S.A.
+Due to challenges Etsy faced to effectively scale Elo7 in Brazil, particularly given headwinds created by a volatile macroeconomic environment and an increasingly competitive e-commerce market in Brazil, on August 10, 2023, Etsy closed on the sale of the parent holding company of Elo7 to Enjoei S.A., a corporation in Brazil.
+The Company recognized a net loss on the sale of Elo7 of $
+2.6
+ million, which includes a $
+7.5
+ million loss from the reclassification out of accumulated other comprehensive income related to a cumulative translation adjustment.
+85
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Note 6—Goodwill and Intangible Assets 
+The following table summarizes the changes in the carrying amount of goodwill for the periods indicated (in thousands):
+Year Ended  
+December 31,
+2025
+2024
+Balance as of the beginning of the period
+$
+137,089
+ 
+$
+138,377
+ 
+Impairment charge
+(
+101,703
+)
+—
+ 
+Foreign currency translation adjustments
+2,681
+ 
+(
+1,288
+)
+Balance as of the end of the period
+$
+38,067
+ 
+$
+137,089
+ 
+During the first quarter of 2025, circumstances changed for the Reverb reporting unit, making a sale of the business more likely than not. This triggered a quantitative impairment test of its goodwill, finite-lived intangible assets, and other long-lived assets as of March 31, 2025. The quantitative analysis indicated that the fair value of finite-lived intangible assets and other long-lived assets was sufficiently in excess of its carrying value. However, the carrying value of the Reverb reporting unit exceeded its fair value, resulting in a non-cash goodwill impairment charge of $
+101.7
+ million in the first quarter of 2025 to write off goodwill in full for the Reverb reporting unit. The fair value estimate for the reporting unit considered both income and market approaches, ultimately concluding that the estimated proceeds from the potential sale of the business unit was the most reliable indicator of fair value as of March 31, 2025. The Company sold Reverb in the second quarter of 2025. See “Note 5—Sale of Business” for additional information. The remaining goodwill balance is allocated to Etsy. 
+No
+ impairment charges were recorded within our Etsy reporting unit as part of our annual impairment test in the fourth quarter of 2025.
+As of the annual impairment testing date in the fourth quarter of 2024, the Company completed a qualitative analysis for the Etsy and Reverb reporting units, which indicated 
+no
+ goodwill impairment.
+As of the annual impairment testing date in the fourth quarter of 2023, the Company completed a qualitative analysis for the Etsy reporting unit, which indicated no impairment; and a quantitative analysis for the Reverb reporting unit, which concluded that the fair value of the reporting unit was sufficiently in excess of its carrying value. As such, 
+no
+ goodwill impairment was identified as of the annual impairment testing date in 2023.
+At December 31, 2025 and 2024, the gross book value and accumulated amortization of intangible assets were as follows (in thousands):
+ 
+As of December 31, 2025
+ 
+Gross book
+value
+Accumulated
+amortization
+Net book
+value
+Weighted-Average
+Remaining Life (in years)
+Trademark (1)
+$
+242,228
+ 
+$
+(
+53,997
+)
+$
+188,231
+ 
+15.5
+Customer relationships (1)
+143,991
+ 
+(
+49,381
+)
+94,610
+ 
+8.5
+Referral agreement
+37,373
+ 
+(
+28,136
+)
+9,237
+ 
+2.5
+Patent licenses
+9,617
+ 
+(
+4,343
+)
+5,274
+ 
+8.2
+Intangible assets
+$
+433,209
+ 
+$
+(
+135,857
+)
+$
+297,352
+ 
+12.8
+86
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+ 
+As of December 31, 2024
+ 
+Gross book
+value
+Accumulated
+amortization
+Net book
+value
+Weighted-Average
+Remaining Life (in years)
+Trademark (1)
+$
+305,065
+ 
+$
+(
+67,473
+)
+$
+237,592
+ 
+15.1
+Customer relationships (1)
+227,645
+ 
+(
+69,190
+)
+158,455
+ 
+9.6
+Referral agreement
+33,066
+ 
+(
+21,572
+)
+11,494
+ 
+3.5
+Patent licenses
+9,617
+ 
+(
+3,260
+)
+6,357
+ 
+8.6
+Intangible assets
+$
+575,393
+ 
+$
+(
+161,495
+)
+$
+413,898
+ 
+12.5
+(1) The decrease from 2024 to 2025 reflects the sale of Reverb.
+Amortization expense of intangible assets for 2025, 2024, and 2023 was $
+31.0
+ million, $
+38.1
+ million, and $
+39.7
+ million, respectively.
+During the second quarter of 2023, the Company concluded that the book value of the finite-lived intangible assets for the Elo7 reporting unit were fully impaired, and recorded an impairment charge of $
+60.2
+ million in Asset impairment charges in the Consolidated Statement of Operations, which primarily related to trademark and customer relationships. The impairment charge was the result of macroeconomic conditions at the time, challenges applying the Company’s technological, marketing, and operational expertise to help scale Elo7’s business, and the resultant headwinds to the business, which caused the Company to revise its business forecasts for Elo7 downwards. The Company prepared an updated fair value for the Elo7 reporting unit based on a quantitative assessment, which included estimates of future revenue, and the net available cash flows; as well as a determination that the Company would more likely than not use the Elo7 asset group for a period of less than twelve months. The Company completed the sale of Elo7 in the third quarter of 2023. Refer to “Note 5—Sale of Business” for further details. The Company did 
+no
+t recognize any intangible asset impairment losses in 2025 and 2024. 
+Based on amounts recorded at December 31, 2025, the Company estimates future amortization expense of intangible assets as follows (in thousands):
+2026
+$
+27,706
+ 
+2027
+27,639
+ 
+2028
+25,509
+ 
+2029
+23,767
+ 
+2030
+23,759
+ 
+Thereafter
+168,972
+ 
+Total amortization expense
+$
+297,352
+ 
+Note 7—Segment and Geographic Information
+Following the sale of Reverb in the second quarter of 2025, the Company determined it has 
+two
+ operating segments, Etsy and Depop, which each have separate operating results that are reviewed by the Chief Operating Decision Maker (“CODM”), the Company’s Chief Executive Officer, to assess performance and allocate resources at the segment level. As such, Etsy’s operating segments are not managed on a consolidated basis. The 
+two
+ operating segments qualify for aggregation as 
+one
+ reportable segment as each meets the quantitative and qualitative aggregation criteria prescribed within Accounting Standards Codification 280, 
+Segment Reporting
+.
+Etsy considers Adjusted EBITDA to be its reported measure of segment profit or loss. Adjusted EBITDA represents our net income adjusted to exclude: stock-based compensation expense and related payroll taxes; depreciation and amortization; provision for income taxes; interest and other non-operating income, net; foreign exchange loss (gain); asset impairment charges; acquisition, divestiture, and corporate structure-related expenses; loss on sale of business; restructuring and other exit costs; and retroactive non-income tax expense. The CODM uses Adjusted EBITDA at the segment level to evaluate our operating performance and trends, allocate internal resources, prepare and approve our annual budget, develop short- and long-term operating plans, determine incentive compensation, and assess the health of our business. As our Adjusted EBITDA increases, we are able to invest more in our 
+87
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+platforms. Adjusted EBITDA is also used by the CODM to perform competitive analyses by benchmarking to Etsy's competitors. The CODM does not review segment assets at a different asset level or category as compared to that presented in the Consolidated Balance Sheets.
+The significant segment expenses that are regularly provided on a quarterly basis to the CODM are cost of revenue, marketing, product development, and general and administrative, which are presented on the face of the Consolidated Statements of Operations and included within net income. Etsy's other segment items are limited to those adjustments to Etsy’s significant segment expenses included within operating income, including stock-based compensation expense and related payroll taxes, depreciation and amortization, acquisition, divestiture, and corporate structure-related expenses, restructuring and other exit costs, and retroactive non-income tax expense.
+The following table reconciles the reported measure of segment profit or loss, Adjusted EBITDA, to Income before income taxes (in thousands): 
+Year Ended December 31,
+2025
+2024
+2023
+Adjusted EBITDA 
+$
+734,511
+ 
+$
+781,538
+ 
+$
+754,311
+ 
+Reconciliation to income before income taxes
+Stock-based compensation expense and related payroll taxes (1)
+(
+252,986
+)
+(
+282,847
+)
+(
+284,558
+)
+Depreciation and amortization
+(
+101,845
+)
+(
+108,074
+)
+(
+91,323
+)
+Interest and other non-operating income, net
+23,940
+ 
+17,176
+ 
+21,957
+ 
+Foreign exchange (loss) gain
+(
+40,428
+)
+13,391
+ 
+(
+6,348
+)
+Asset impairment charges
+(
+101,703
+)
+—
+ 
+(
+68,091
+)
+Acquisition, divestiture, and corporate structure-related expenses
+(
+7,156
+)
+(
+1,478
+)
+(
+3,921
+)
+Loss on sale of business
+(
+5,097
+)
+—
+ 
+(
+2,630
+)
+Restructuring and other exit costs
+(
+2,571
+)
+(
+2,807
+)
+(
+26,577
+)
+Retroactive non-income tax expense
+—
+ 
+(
+6,124
+)
+—
+ 
+Total reconciling items
+(
+487,846
+)
+(
+370,763
+)
+(
+461,491
+)
+Income before income taxes
+$
+246,665
+ 
+$
+410,775
+ 
+$
+292,820
+ 
+(1) 
+Beginning in the first quarter of 2025, the Company is excluding payroll tax expense related to stock-based compensation from Adjusted EBITDA because these taxes are directly related to stock-based compensation expense which is excluded from Adjusted EBITDA. The Company did not retrospectively apply this change to prior periods as the impact was immaterial to such periods. In 2024 and 2023 payroll tax expense related to stock-based compensation was $
+6.0
+ million and $
+8.8
+ million, respectively
+.
+Revenue by country is based on the billing address of the seller. 
+The following table summarizes revenue by geographic area (in thousands):
+ 
+Year Ended  
+December 31,
+ 
+2025
+2024
+2023
+United States
+$
+1,465,922
+ 
+$
+1,467,715
+ 
+$
+1,472,677
+ 
+United Kingdom
+296,159
+ 
+320,893
+ 
+347,889
+ 
+All Other
+1,121,420
+ 
+1,019,724
+ 
+927,811
+ 
+Revenue
+$
+2,883,501
+ 
+$
+2,808,332
+ 
+$
+2,748,377
+ 
+With the exception of the United States and United Kingdom, no individual country’s revenue exceeded 10% of total revenue. 
+The following table summarizes tangible long-lived assets by geographic area (in thousands):
+As of December 31,
+2025
+2024
+United States
+$
+130,718
+ 
+$
+146,410
+ 
+All Other
+22,939
+ 
+22,288
+ 
+Long-lived assets 
+$
+153,657
+ 
+$
+168,698
+ 
+With the exception of the United States, no individual country’s tangible long-lived assets exceeded 10% of total tangible long-lived assets.
+88
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Note 8—Fair Value Measurements 
+As of December 31, 2025 and December 31, 2024 the Company’s cash equivalents, short-term investments, and long-term investments primarily consisted of available-for-sale debt securities. These debt securities are measured at fair value and classified within Level 1 or Level 2 in the fair value hierarchy as the Company uses unadjusted quoted prices for identical assets in an active market that the Company has the ability to access (Level 1) or quoted market prices in markets that are not active or model derived valuations in which all significant inputs are observable in active markets (Level 2).
+As of December 31, 2025 and December 31, 2024 the Company’s short-term and long-term investments also consisted of investments in loan receivables and in third-party managed funds. The investments in loan receivables are measured on an amortized cost basis and classified in Level 3 of the fair value hierarchy as the fair value is derived from techniques in which one or more significant inputs are unobservable. The investments in third-party managed funds are measured on the net assets value (“NAV”) basis as a practical expedient. NAV is primarily determined based on the information provided by external fund administrators for which the most recent financial information is typically received on a lag within the quarter following the Company’s balance sheet date. These investments are intended to further the Company’s impact strategy as part of its Impact Investment Fund.
+89
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+The following table sets forth the cost, gross unrealized losses, gross unrealized gains, and fair values of the Company’s investments as of the dates indicated (in thousands):
+Cost
+Gross
+Unrealized
+Holding Loss
+Gross
+Unrealized
+Holding Gain
+Fair Value
+Cash and Cash Equivalents
+Short-term Investments
+Long-term Investments
+December 31, 2025
+Level 1
+Money market funds
+$
+946,932
+ 
+$
+—
+ 
+$
+—
+ 
+$
+946,932
+ 
+$
+946,932
+ 
+$
+—
+ 
+$
+—
+ 
+U.S. Government securities
+76,816
+ 
+—
+ 
+204
+ 
+77,020
+ 
+—
+ 
+52,002
+ 
+25,018
+ 
+1,023,748
+ 
+—
+ 
+204
+ 
+1,023,952
+ 
+946,932
+ 
+52,002
+ 
+25,018
+ 
+Level 2
+Certificate of deposit
+20,913
+ 
+—
+ 
+30
+ 
+20,943
+ 
+—
+ 
+19,240
+ 
+1,703
+ 
+Commercial paper
+32,409
+ 
+—
+ 
+26
+ 
+32,435
+ 
+—
+ 
+32,435
+ 
+—
+ 
+Corporate bonds
+199,920
+ 
+(
+12
+)
+549
+ 
+200,457
+ 
+—
+ 
+118,411
+ 
+82,046
+ 
+253,242
+ 
+(
+12
+)
+605
+ 
+253,835
+ 
+—
+ 
+170,086
+ 
+83,749
+ 
+Level 3
+Loans receivable - held for investment
+13,000
+ 
+—
+ 
+—
+ 
+13,000
+ 
+—
+ 
+—
+ 
+13,000
+ 
+13,000
+ 
+—
+ 
+—
+ 
+13,000
+ 
+—
+ 
+—
+ 
+13,000
+ 
+$
+1,289,990
+ 
+$
+(
+12
+)
+$
+809
+ 
+$
+1,290,787
+ 
+$
+946,932
+ 
+$
+222,088
+ 
+$
+121,767
+ 
+Measured at NAV (1)
+Third-party managed funds
+2,000
+ 
+12,609
+ 
+$
+224,088
+ 
+$
+134,376
+ 
+December 31, 2024
+Level 1
+Money market funds
+$
+402,731
+ 
+$
+—
+ 
+$
+—
+ 
+$
+402,731
+ 
+$
+402,731
+ 
+$
+—
+ 
+$
+—
+ 
+U.S. Government securities
+71,188
+ 
+(
+109
+)
+71
+ 
+71,150
+ 
+—
+ 
+41,477
+ 
+29,673
+ 
+473,919
+ 
+(
+109
+)
+71
+ 
+473,881
+ 
+402,731
+ 
+41,477
+ 
+29,673
+ 
+Level 2
+Certificate of deposit
+35,301
+ 
+(
+2
+)
+31
+ 
+35,330
+ 
+3,638
+ 
+31,692
+ 
+—
+ 
+Commercial paper
+57,035
+ 
+(
+1
+)
+39
+ 
+57,073
+ 
+7,488
+ 
+49,585
+ 
+—
+ 
+Corporate bonds
+165,092
+ 
+(
+98
+)
+310
+ 
+165,304
+ 
+—
+ 
+101,863
+ 
+63,441
+ 
+257,428
+ 
+(
+101
+)
+380
+ 
+257,707
+ 
+11,126
+ 
+183,140
+ 
+63,441
+ 
+Level 3
+Loans receivable - held for investment
+7,500
+ 
+—
+ 
+—
+ 
+7,500
+ 
+—
+ 
+500
+ 
+7,000
+ 
+7,500
+ 
+—
+ 
+—
+ 
+7,500
+ 
+—
+ 
+500
+ 
+7,000
+ 
+$
+738,847
+ 
+$
+(
+210
+)
+$
+451
+ 
+$
+739,088
+ 
+$
+413,857
+ 
+$
+225,117
+ 
+$
+100,114
+ 
+Measured at NAV (1)
+Third-party managed funds
+3,205
+ 
+11,611
+ 
+$
+228,322
+ 
+$
+111,725
+ 
+(1)
+Third-party managed funds measured on the NAV basis have not been categorized in the fair value hierarchy. The amount presented in the table is intended to permit reconciliation of the long-term investments in the fair value hierarchy to the amount presented in the Consolidated Balance Sheets.
+90
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+The tables below show the fair value and gross unrealized loss related to available-for-sale debt securities, aggregated by investment category and the length of time that the securities have been in a continuous unrealized loss position as of the dates indicated (in thousands):
+ 
+As of December 31, 2025
+Less than 12 Months 
+12 Months or Greater
+Fair Value
+Gross
+Unrealized
+Holding Loss
+Fair Value
+Gross
+Unrealized
+Holding Loss
+Corporate bonds
+$
+17,577
+ 
+$
+(
+12
+)
+$
+—
+ 
+$
+—
+ 
+Total 
+$
+17,577
+ 
+$
+(
+12
+)
+$
+—
+ 
+$
+—
+ 
+ 
+As of December 31, 2024
+Less than 12 Months 
+12 Months or Greater
+Fair Value
+Gross
+Unrealized
+Holding Loss
+Fair Value
+Gross
+Unrealized
+Holding Loss
+U.S. Government securities
+$
+32,501
+ 
+$
+(
+105
+)
+$
+12,600
+ 
+$
+(
+4
+)
+Certificate of deposit
+2,397
+ 
+(
+2
+)
+—
+ 
+—
+ 
+Commercial paper
+8,233
+ 
+(
+1
+)
+—
+ 
+—
+ 
+Corporate bonds
+38,641
+ 
+(
+98
+)
+932
+ 
+—
+ 
+Total 
+$
+81,772
+ 
+$
+(
+206
+)
+$
+13,532
+ 
+$
+(
+4
+)
+The Company evaluates fair value for each individual security in the investment portfolio. When assessing the risk of credit loss, the Company considers factors such as the extent to which the fair value is less than the amortized cost basis, the credit rating, including whether there has been any changes to the rating of the security by a rating agency, available information relevant to the collectibility of the security, and management’s intended holding period and time horizon for selling the security. The Company did not recognize a credit loss in 2025, 2024, or 2023.
+Outside of the Company’s Impact Investment Fund, the Company typically invests in short- and long-term instruments, including fixed-income funds and U.S. Government securities aligned with the Company’s investment strategy. In accordance with the Company’s investment policy, all investments, other than investments made through its Impact Investment Fund, have maturities no longer than 
+37
+ months, with the average maturity of these investments maintained at 
+12
+ months or less.
+Disclosure of Fair Values
+The Company’s financial instruments that are not remeasured at fair value in the Consolidated Balance Sheets include the 
+1.00
+% Convertible Senior Notes due 2030 (the “2025 Notes”), the 
+0.25
+% Convertible Senior Notes due 2028 (the “2021 Notes”), the 
+0.125
+% Convertible Senior Notes due 2027 (the “2020 Notes”), and the 
+0.125
+% Convertible Senior Notes due 2026 (the “2019 Notes” and together with the 2025 Notes, the 2021 Notes, and the 2020 Notes, the “Notes”). See “Note 12—Debt” for additional information. The Company estimates the fair value of the Notes through inputs that are observable in the market, classified as Level 2 as described above. 
+The following table presents the carrying value and estimated fair value of the Notes as of the dates indicated (in thousands):
+As of December 31, 2025
+As of December 31, 2024
+Carrying Value
+Fair Value
+Carrying Value
+Fair Value
+2025 Notes
+$
+689,890
+ 
+$
+709,800
+ 
+$
+—
+ 
+$
+—
+ 
+2021 Notes
+995,329
+ 
+891,300
+ 
+993,429
+ 
+822,600
+ 
+2020 Notes
+648,011
+ 
+608,595
+ 
+646,818
+ 
+562,380
+ 
+2019 Notes
+649,008
+ 
+655,736
+ 
+647,836
+ 
+628,766
+ 
+$
+2,982,238
+ 
+$
+2,865,431
+ 
+$
+2,288,083
+ 
+$
+2,013,746
+ 
+91
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+The carrying value of other financial instruments, including accounts receivable, funds receivable and seller accounts, accounts payable, and funds payable and amounts due to sellers approximate fair value due to the immediate or short-term maturity associated with these instruments.
+Note 9—Property and Equipment 
+Property and equipment consisted of the following as of the dates indicated (in thousands):
+ 
+ 
+As of December 31,
+ 
+Estimated useful lives
+2025
+2024
+Computer equipment
+3
+ years
+$
+19,519
+ 
+$
+16,878
+ 
+Furniture and equipment
+2
+ - 
+4
+ years
+16,130
+ 
+14,601
+ 
+Leasehold improvements
+Shorter of life of asset or lease term
+72,820
+ 
+65,510
+ 
+Construction in progress
+Not applicable
+—
+ 
+3,872
+ 
+Building
+Lease term
+133,063
+ 
+133,063
+ 
+Website and app development
+3
+ - 
+5
+ years
+311,953
+ 
+305,516
+ 
+553,485
+ 
+539,440
+ 
+Less: Accumulated depreciation and amortization
+324,288
+ 
+302,734
+ 
+$
+229,197
+ 
+$
+236,706
+ 
+Depreciation and amortization expense on property and equipment was $
+70.9
+ million, $
+70.0
+ million, and $
+51.6
+ million, which included amortization expense relating to capitalized website and app development of $
+50.9
+ million, $
+50.7
+ million, and $
+34.3
+ million, for 2025, 2024, and 2023, respectively.
+During the second quarter of 2023, the Company concluded that the book value of the long-lived assets for the Elo7 reporting units were fully impaired, and recorded an impairment charge of $
+7.9
+ million in Asset impairment charges in the Consolidated Statement of Operations, which primarily related to developed technology. The impairment charge was the result of macroeconomic conditions at the time, challenges applying the Company’s technological, marketing, and operational expertise to help scale Elo7’s business, and the resultant headwinds to the business, which caused the Company to revise its business forecasts for Elo7 downwards. The Company prepared an updated fair value for the Elo7 reporting unit based on a quantitative assessment, which included estimates of future revenue, and the net available cash flows; as well as a determination that the Company would more likely than not use the Elo7 asset group for a period of less than twelve months. The Company completed the sale of Elo7 in the third quarter of 2023. Refer to “Note 5—Sale of Business” for further details.
+Note 10—Leases
+The elements of lease expense were as follows for the periods presented (in thousands): 
+Year Ended  
+December 31,
+2025
+2024
+2023
+Operating lease cost
+$
+6,219
+ 
+$
+6,774
+ 
+$
+6,832
+ 
+Finance lease cost:
+Amortization of right-of-use assets
+6,107
+ 
+6,332
+ 
+6,809
+ 
+Interest on lease liabilities
+4,629
+ 
+4,927
+ 
+5,190
+ 
+Total finance lease cost
+10,736
+ 
+11,259
+ 
+11,999
+ 
+Other lease cost, net (1)
+1,079
+ 
+1,490
+ 
+1,385
+ 
+Total lease cost
+$
+18,034
+ 
+$
+19,523
+ 
+$
+20,216
+ 
+(1)
+Other lease cost, net includes variable lease costs, short-term lease costs, and, beginning in 2024, sublease income
+.
+92
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+The following table presents the lease-related assets and liabilities recorded on the Consolidated Balance Sheets (in thousands):
+As of December 31,
+2025
+2024
+Operating leases:
+Other assets
+$
+36,116
+ 
+$
+42,146
+ 
+Other current liabilities
+$
+1,652
+ 
+$
+5,110
+ 
+Other liabilities
+37,752
+ 
+41,339
+ 
+Total operating lease liabilities
+$
+39,404
+ 
+$
+46,449
+ 
+Finance leases:
+Property and equipment, net
+$
+82,937
+ 
+$
+89,045
+ 
+Other current liabilities
+$
+10
+ 
+$
+6,148
+ 
+Finance lease obligations—net of current portion
+93,482
+ 
+93,482
+ 
+Total finance lease liabilities
+$
+93,492
+ 
+$
+99,630
+ 
+The following table summarizes the weighted average remaining lease term and weighted average discount rate as of December 31, 2025 and 2024:
+As of December 31,
+2025
+2024
+Weighted average remaining lease term:
+Operating leases
+11.61
+ years
+12.41
+ years
+Finance leases
+12.99
+ years
+14.59
+ years
+Weighted average discount rate:
+Operating leases
+4.47
+ 
+%
+4.69
+ 
+%
+Finance leases
+4.53
+ 
+%
+4.74
+ 
+%
+Supplemental cash flow information related to leases was as follows (in thousands):
+Year Ended  
+December 31,
+2025
+2024
+2023
+Cash (paid) received for amounts included in the measurement of lease liabilities:
+Operating cash flows used in operating leases (1)
+$
+(
+6,925
+)
+$
+(
+4,888
+)
+$
+(
+6,482
+)
+Operating cash flows (used in) provided by finance leases (1)
+(
+4,605
+)
+448
+ 
+(
+5,174
+)
+Finance cash flows used in finance leases
+(
+6,162
+)
+(
+6,091
+)
+(
+6,278
+)
+(1)
+2024 includes cash received for tenant allowances related to the lease for the Company’s corporate headquarters in Brooklyn, New York
+.
+93
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Future minimum lease payments under non-cancelable leases as of December 31, 2025 were as follows (in thousands):
+Operating Leases
+Finance Leases
+2026
+$
+3,726
+ 
+$
+5,394
+ 
+2027
+1,971
+ 
+882
+ 
+2028
+4,984
+ 
+10,593
+ 
+2029
+5,033
+ 
+10,672
+ 
+2030
+5,084
+ 
+10,752
+ 
+Thereafter
+34,852
+ 
+102,979
+ 
+Total future minimum lease payments (1)
+55,650
+ 
+141,272
+ 
+Less:
+Imputed interest
+14,343
+ 
+41,599
+ 
+Tenant improvement allowances
+1,903
+ 
+6,181
+ 
+Total
+$
+39,404
+ 
+$
+93,492
+ 
+(1)
+The lease related to the Company’s corporate headquarters in Brooklyn, New York includes rent concessions that are available in 2026 and 2027, and escalating commitments each contract year between 2028 and 2038, which are reflected in the future minimum lease payments
+.
+Note 11—Accrued Expenses
+Accrued expenses consisted of the following as of the dates indicated (in thousands):
+As of December 31,
+2025
+2024
+Vendor accruals
+$
+157,529
+ 
+$
+148,714
+ 
+Pass-through marketplace tax collection obligation
+134,272
+ 
+129,222
+ 
+Employee compensation-related liabilities
+81,099
+ 
+75,676
+ 
+Taxes payable
+20,115
+ 
+21,335
+ 
+Total accrued expenses
+$
+393,015
+ 
+$
+374,947
+ 
+94
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Note 12—Debt 
+The following table presents the outstanding principal amount and carrying value of short- and long-term debt as of the dates indicated (in thousands):
+As of December 31, 2025
+2025 Notes
+2021 Notes
+2020 Notes
+2019 Notes
+Total
+Principal
+$
+700,000
+ 
+$
+1,000,000
+ 
+$
+650,000
+ 
+$
+649,887
+ 
+$
+2,999,887
+ 
+Unamortized debt issuance costs
+10,110
+ 
+4,671
+ 
+1,989
+ 
+879
+ 
+17,649
+ 
+Net carrying value
+$
+689,890
+ 
+$
+995,329
+ 
+$
+648,011
+ 
+$
+649,008
+ 
+$
+2,982,238
+ 
+As of December 31, 2024
+2025 Notes
+2021 Notes
+2020 Notes
+2019 Notes
+Total
+Principal
+$
+—
+ 
+$
+1,000,000
+ 
+$
+650,000
+ 
+$
+649,887
+ 
+$
+2,299,887
+ 
+Unamortized debt issuance costs
+—
+ 
+6,571
+ 
+3,182
+ 
+2,051
+ 
+11,804
+ 
+Net carrying value
+$
+—
+ 
+$
+993,429
+ 
+$
+646,818
+ 
+$
+647,836
+ 
+$
+2,288,083
+ 
+Terms of the Notes
+The terms of the Notes are summarized below:
+Convertible Senior Notes
+Maturity Date
+Contractual Convertibility 
+Date (1)
+Initial Conversion Rate per $1,000 Principal (2)
+Initial Conversion Price
+Annual Effective Interest Rate
+2025 Notes
+June 15, 2030
+February 15, 2030
+11.6570 
+$
+85.79
+ 
+1.3
+ 
+%
+2021 Notes
+June 15, 2028
+February 15, 2028
+4.0518 
+246.80
+ 
+0.4
+ 
+%
+2020 Notes
+September 1, 2027
+May 1, 2027
+5.0007 
+199.97
+ 
+0.3
+ 
+%
+2019 Notes
+October 1, 2026
+June 1, 2026
+11.4040 
+87.69
+ 
+0.3
+ 
+%
+(1)
+As of December 31, 2025, none of the conditions permitting the holders of the 2025 Notes, 2021 Notes, 2020 Notes, and 2019 Notes to early convert have been met, based on the daily closing prices of the Company’s stock during the quarter ended December 31, 2025.
+(2)
+The initial conversion rate will be subject to adjustment upon the occurrence of certain specified events, including certain distributions and dividends to all or substantially all of the holders of the Company’s common stock.
+Based on the terms of each series of Notes, they will mature on the respective maturity date, unless earlier converted, redeemed, or repurchased. Additionally, the holders of each series of Notes may convert all or a portion of such series of Notes prior to the close of business on the business day immediately preceding the respective contractual convertibility date only under the following circumstances: (1) during any calendar quarter preceding the respective contractual convertibility date of each series of Notes, in which the closing price of the Company’s common stock for at least 
+20
+ trading days (whether or not consecutive) during a period of 
+30
+ consecutive trading days ending on, and including, the last trading day of the immediately preceding calendar quarter is greater than or equal to 
+130
+% of the applicable conversion price for such series of Notes on each applicable trading day; (2) during the 
+5
+ business day period after any 
+10
+ consecutive trading day period (the “measurement period”) in which the trading price per $1,000 principal amount of such series of Notes for each trading day of the measurement period was less than 
+98
+% of the product of the closing price of the Company’s common stock and the conversion rate on each such trading day; (3) if the Company calls the 2025 Notes or 2021 Notes for redemption at any time prior to the close of business on the second scheduled trading day immediately preceding the redemption date, but only with respect to the Notes called (or deemed called) for redemption; or (4) upon the occurrence of specified corporate events. On and after the applicable contractual convertibility date until the close of business on the second scheduled trading day immediately preceding the maturity date, holders may convert their Notes at any time, regardless of the foregoing circumstances. 
+The Company may redeem all or any portion of the 2025 Notes and 2021 Notes, at the Company’s option, subject to partial redemption limitations, on or after June 20, 2028 and June 20, 2025, respectively, if the last reported sale 
+95
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+price of the Company’s common stock has been at least 
+130
+% of the applicable conversion price for such series of Notes then in effect for at least 
+20
+ trading days (whether or not consecutive), including the trading day immediately preceding the date on which the Company provides notice of redemption, during any 
+30
+ consecutive trading day period ending on, and including, the trading day immediately preceding the date on which the Company provides notice of redemption for such series of Notes at a redemption price equal to 
+100
+%
+ of the principal amount of the 2025 Notes or 2021 Notes to be redeemed, plus accrued and unpaid interest to, but excluding, the redemption date.
+If a fundamental change occurs prior to the maturity date for any series of Notes, holders of the applicable series of Notes may require the Company to repurchase all or a portion of their Notes for cash at a price equal to 
+100
+% of the principal amount of the Note to be repurchased. Holders of the Notes who convert their Notes in connection with a notice of a redemption or a make-whole fundamental change may be entitled to a premium in the form of an increase in the conversion rate of the applicable series of Notes.  
+Based on the terms of each series of Notes, when a conversion notice is received, the Company has the option to pay by delivery of cash, shares of the Company’s common stock, or a combination thereof. Accordingly, the Company cannot be required to settle the 2025 Notes, 2021 Notes, and the 2020 Notes in cash and, therefore, the aforementioned notes are classified as long-term debt in the Consolidated Balance Sheets. The 2019 Notes will mature on October 1, 2026 and therefore, are classified as short-term debt in the Consolidated Balance Sheets as of 
+December 31, 2025
+.
+Seniority of the Notes
+The Notes are general unsecured obligations of the Company. The Notes rank senior in right of payment to all of the Company’s future indebtedness that is expressly subordinated in right of payment to the Notes; rank equal in right of payment with all of the Company’s liabilities that are not so subordinated; are effectively junior to any of the Company’s secured indebtedness; and are structurally junior to all indebtedness and liabilities (including trade payables) of the Company’s subsidiaries.
+2025 Convertible Debt
+In 
+June 2025
+, the Company issued $
+700.0
+ million aggregate principal amount of the 2025 Notes in a private placement to qualified institutional buyers pursuant to Rule 144A under the Securities Act of 1933, as amended (the “Securities Act”). The net proceeds from the sale of the 2025 Notes were $
+689.5
+ million after deducting the initial purchasers’ discount and offering expenses, and before the repurchase of stock, as described in “Note 14—Stockholders’ Deficit.” The 2025 Notes are convertible into shares of the Company’s common stock based upon an initial conversion rate.
+The Company recorded the 2025 Notes as a liability at face value. Transaction costs attributable to the liability were recorded as a direct deduction from the related debt liability in the Consolidated Balance Sheet and are amortized to interest expense over the term of the 2025 Notes.
+2021 Convertible Debt
+In June 2021, the Company issued $
+1.0
+ billion aggregate principal amount of the 2021 Notes in a private placement to qualified institutional buyers pursuant to the Securities Act. The net proceeds from the sale of the 2021 Notes were approximately $
+986.7
+ million after deducting the initial purchasers’ discount and offering expenses and before the 2021 Capped Call Transactions, as described below, and the repurchase of approximately 
+1.1
+ million shares of common stock for approximately $
+180
+ million concurrently with the issuance of the 2021 Notes. The Company used $
+85.0
+ million of the net proceeds from the 2021 Notes to enter into privately negotiated capped call instruments (“2021 Capped Call Transactions”) with certain financial institutions.
+2020 Convertible Debt
+In August 2020, the Company issued $
+650.0
+ million aggregate principal amount of the 2020 Notes in a private placement to qualified institutional buyers pursuant to the Securities Act. The net proceeds from the sale of the 2020 Notes were approximately $
+639.5
+ million after deducting the offering expenses and before the purchase of 
+96
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+the 2020 Capped Call Transactions and the partial repurchase of the 2018 Notes, each as described below. The Company used $
+74.7
+ million of the net proceeds from the 2020 Notes to enter into privately negotiated capped call instruments (“2020 Capped Call Transactions”) with certain financial institutions. 
+2019 Convertible Debt
+In September 2019, the Company issued $
+650.0
+ million aggregate principal amount of the 2019 Notes in a private placement to qualified institutional buyers pursuant to the Securities Act. The net proceeds from the sale of the 2019 Notes were $
+639.5
+ million after deducting the initial purchasers’ discount and offering expenses. The Company used $
+76.2
+ million of the net proceeds from the 2019 Notes offering to enter into separate capped call instruments (“2019 Capped Call Transactions”) with the initial purchasers and/or their respective affiliates. 
+Interest Expense
+Interest expense related to each of the Notes consisted of coupon interest and amortization of debt issuance costs, and was $
+13.4
+ million for 
+the year ended 
+2025 and $
+8.4
+ million
+ for both 
+the years ended 2024 and 2023.
+Fair Value of Notes
+The estimated fair value of each of the Notes was determined through inputs that are observable in the market, and are classified as Level 2. See “Note 8—Fair Value Measurements
+ 
+” for more information regarding the fair value of the Notes.
+ 
+Capped Call Transactions
+The Company used a portion of the net proceeds from each of the 2021, 2020, and 2019 Note offerings to enter into separate privately negotiated capped call instruments (the 2021, 2020, and 2019 capped call instruments collectively referred to as the “Capped Call Transactions”) with certain financial institutions, initial purchasers, and/or their respective affiliates. The Capped Call Transactions are expected generally to reduce the potential dilution and/or offset the cash payments the Company is required to make in excess of the principal amount of the 2021, 2020, and 2019 Notes upon conversion of the respective Notes in the event that the market price per share of the Company’s common stock is greater than the strike price of the Capped Call Transactions with such reduction and/or offset subject to a cap. Collectively, the Capped Call Transactions cover, initially, the number of shares of the Company’s common stock underlying the respective Notes, subject to anti-dilution adjustments substantially similar to those applicable to the Notes.
+The initial terms of the Company’s Capped Call Transactions are presented below:
+Capped Call Transactions
+Maturity Date
+Initial Cap Price per Share
+Cap Price Premium
+2021 Capped Call Transactions
+June 15, 2028
+$
+340.42
+ 
+100
+ 
+%
+2020 Capped Call Transactions
+September 1, 2027
+327.83
+ 
+150
+ 
+%
+2019 Capped Call Transactions
+October 1, 2026
+148.63
+ 
+150
+ 
+%
+2018 Capped Call Transactions (1)
+March 1, 2023
+52.76
+100
+ 
+%
+(1)
+The 2018 Capped Call Transactions, purchased using a portion of the net proceeds from the 
+0
+% Convertible Senior Notes due 2023 (“the 2018 Notes”), matured on March 1, 2023, and, in accordance with the settlement terms, the Company received 
+1,194,006
+ shares of the Company’s common stock from the counterparties to the capped call instruments. These shares were retired upon receipt.
+Each series of the Capped Call Transactions does not meet the criteria for separate accounting as a derivative as they are indexed to the Company’s stock. The premiums paid for each of the Capped Call Transactions have been included as a net reduction to additional paid-in capital within stockholders’ deficit.
+97
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+2023 Credit Agreement
+On March 24, 2023, the Company entered into a $
+400.0
+ million senior secured revolving credit facility pursuant to an Amended and Restated Credit Agreement (the “2023 Credit Agreement”) among the Company, as borrower, certain subsidiaries of the Company as guarantors, the lenders, and JPMorgan Chase Bank N.A., as administrative Agent. The 2023 Credit Agreement will mature in March 2028 and includes a letter of credit sublimit of $
+60.0
+ million and a swingline loan sublimit of $
+20.0
+ million.
+The 2023 Credit Agreement amends and restates in its entirety the Credit Agreement dated as of February 25, 2019 (the “2019 Credit Agreement”) between the Company, as borrower, the lenders party thereto from time to time, and Citibank N.A., as administrative Agent. 
+Borrowings under the 2023 Credit Agreement (other than swingline loans) bear interest, at the Company’s option, at (i) a base rate equal to the highest of (a) the prime rate, (b) the federal funds rate plus 
+0.50
+%, and (c) an adjusted Term SOFR rate for a one-month interest period plus 
+1.00
+%, in each case plus a margin ranging from 
+0.50
+% to 
+1.25
+% or (ii) an adjusted Term SOFR rate plus a margin ranging from 
+1.50
+% to 
+2.25
+%. Swingline loans under the 2023 Credit Agreement bear interest at the same base rate (plus the margin applicable to borrowings bearing interest at the base rate). These margins are determined based on the senior secured net leverage ratio (defined as secured funded debt, net of unrestricted cash up to $
+100.0
+ million, to EBITDA (as defined in the 2023 Credit Agreement)) for the preceding four fiscal quarter periods. The Company is also obligated to pay other customary fees for a credit facility of this size and type, including an unused commitment fee, ranging from 
+0.20
+% to 
+0.35
+% depending on the Company’s senior secured net leverage ratio, and fees associated with letters of credit. The 2023 Credit Agreement also permits the Company, in certain circumstances, to request an increase in the facility by an amount of up to $
+200.0
+ million at the same maturity, pricing, and other terms and to request an extension of the maturity date for the facility. In connection with the 2023 Credit Agreement, the Company also paid the lenders certain upfront fees.
+The 2023 Credit Agreement contains customary representations and warranties applicable to the Company and its subsidiaries and customary affirmative and negative covenants applicable to the Company and its restricted subsidiaries. The negative covenants include restrictions on, among other things, indebtedness, liens, certain fundamental changes (including mergers), investments, dispositions, restricted payments (including dividends and stock repurchases), prepayments of junior debt, and transactions with affiliates. These restrictions do not prohibit a subsidiary of the Company from making pro rata payments to the Company or any other person that owns an equity interest in such subsidiary. The 2023 Credit Agreement contains financial covenants, that require the Company and its subsidiaries to maintain (i) a secured net leverage ratio not to exceed 
+3.50
+ to 1.00, subject to an increase, at the option of the Company, to 
+4.00
+ to 1.00 for a specified period of time in the event of certain material acquisitions, tested as of the last day of each fiscal quarter.
+The 2023 Credit Agreement includes customary events of default, including, but not limited to, nonpayment of principal or interest, breaches of representations and warranties, failure to perform or observe covenants, cross-defaults with certain other indebtedness, final judgments or orders, certain change of control events, and certain bankruptcy-related events or proceedings. Upon the occurrence of an event of default (subject to notice and grace periods), obligations under the 2023 Credit Agreement could be accelerated.
+Subject to certain exceptions, to the extent the Company has any material domestic subsidiaries, the obligations under the 2023 Credit Agreement would be required to be guaranteed by such material domestic subsidiaries. The obligations under the 2023 Credit Agreement are secured by all or substantially all of the assets of the Company and any such subsidiary guarantors. At December 31, 2025 and December 31, 2024, the Company did 
+not
+ have any borrowings under the 2023 Credit Agreement and was in compliance with all financial covenants.
+98
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Note 13—Commitments and Contingencies 
+Purchase Obligations
+Purchase obligations as of December 31, 2025 were $
+783.6
+ million and primarily consist of the minimum, non-cancelable commitments as well as cancellation fees related to technology spending, in which the commitments are due over the course of approximately 
+five years
+. For agreements with variable terms, the Company does not estimate what the total obligation may be beyond any minimum quantities and/or pricing. For purchase obligations with cancellation provisions, the amounts included were limited to the non-cancelable portion of the agreement terms and where applicable the minimum cancellation fees, and are only included to the extent that they further reduce minimum commitments. Since this disclosure only includes minimum commitments, actual spend may vary from the amount disclosed.
+Non-Income Tax Contingencies
+The Company had reserves of $
+32.2
+ million and $
+31.6
+ million at December 31, 2025 and 2024, respectively, for certain non-income tax obligations, representing management’s best estimate of its potential liability. The Company could also be subject to examination in various jurisdictions related to income tax and non-income tax matters. The resolution of these types of matters, if in excess of the recorded reserve, could have an adverse impact on the Company’s consolidated financial statements.
+Legal Proceedings
+In the ordinary course of business, various claims and litigation are regularly asserted or commenced against the Company. Due to uncertainties inherent in litigation and other claims, the Company can give no assurance that it will prevail in any such matters and such claims or litigation could have a material adverse effect on the Company’s business, financial condition, results of operations, or cash flows. However, the Company currently believes that the final outcome of these matters will not have a material adverse effect.
+Note 14—Stockholders’ Deficit
+Stock Repurchases
+In May 2022, the Board of Directors approved a stock repurchase program that authorized the Company to repurchase up to $
+600
+ million of its common stock. All purchases under this program were completed in the third quarter of 2023.
+In June 2023, the Board of Directors approved a stock repurchase program that authorized the Company to repurchase up to $
+1
+ billion of its common stock. The program was completed in the first quarter of 2025.
+In October 2024, the Board of Directors approved a new stock repurchase program that authorizes the Company to repurchase up to $
+1
+ billion of its common stock (the “October 2024 Stock Repurchase Program”).
+In December 2025, the Board of Directors approved a new stock repurchase program that authorizes the Company to repurchase up to $
+750
+ million of its common stock.
+As of December 31, 2025, the remaining amount available to be repurchased under the approved plans was $
+973.2
+ million.
+The stock repurchase programs have no expiration date and may be modified, suspended, or terminated at any time by the Board of Directors. The number of shares repurchased and the timing of repurchases will depend on a number of factors, including, but not limited to, stock price, trading volume, and general market conditions, along with the Company’s working capital requirements, general business conditions, and other factors.
+99
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Under the stock repurchase programs, the Company may purchase shares of its common stock through various means, including open market transactions, privately negotiated transactions, tender offers, or any combination thereof. In addition, open market repurchases of common stock have and could be made pursuant to trading plans established pursuant to Rule 10b5-1 under the Securities Exchange Act of 1934, as amended, which would permit common stock to be repurchased at a time that the Company might otherwise be precluded from doing so under insider trading laws or self-imposed trading restrictions.
+The following table summarizes the Company’s cumulative stock repurchase activity under the programs noted above (in thousands, except per share amounts):
+Shares Repurchased
+Average Price Paid per Share (1)
+Repurchases of common stock for the year ended December 31, 2025
+14,393
+ 
+$
+53.98
+ 
+Repurchases of common stock for the year ended December 31, 2024
+12,201
+ 
+59.33
+ 
+Repurchases of common stock for the year ended December 31, 2023
+6,880
+ 
+83.86
+(1)
+Average price paid per share excludes broker commissions and excise tax.
+All repurchases were made using cash on hand, and all repurchased shares of common stock have been retired.
+In June 2025, concurrently with the issuance of the 
+2025 Notes
+, the Company repurchased approximately 
+2.5
+ million shares of its common stock under the October 2024 Stock Repurchase Program for $
+150.0
+ million. See “Note 12—Debt."
+The 2018 capped call transactions matured on March 1, 2023, and in accordance with the settlement terms, the Company received 
+1,194,006
+ shares of the Company’s common stock from the counterparties to the capped call instruments. These shares were retired upon receipt. See “Note 12—Debt” for additional information. This receipt and subsequent retirement of shares was separate from the stock repurchase plans approved by the Board of Directors as described above.
+Note 15—Stock-based Compensation 
+2024 Equity Incentive Plan
+The Company’s 2015 Equity Incentive Plan (the “2015 Plan”) was adopted by its Board of Directors and approved by stockholders in March 2015. In April 2024, the Board of Directors approved an amendment and restatement of the 2015 Plan as the Etsy, Inc. 2024 Equity Incentive Plan (“2024 Plan”), which became effective upon stockholder approval at the 2024 Annual Meeting of Stockholders in June 2024. The 2024 Plan provides for the grant of incentive stock options, non-statutory stock options, stock appreciation rights, restricted stock, RSUs, PBRSUs, performance cash awards to employees and directors, and long-term cash awards (“LTC awards”), and is administered by the Company’s Compensation Committee of the Board of Directors. Any awards issued under the 2024 Plan that are forfeited by the participant will become available for future grant under the 2024 Plan. At December 31, 2025, 
+19,280,062
+ shares were authorized under the 2024 Plan and 
+6,230,554
+ shares were available for future grant.
+In 2025, the Company adjusted the mix of long-term compensation for certain employees, granting a LTC award in lieu of a portion of an equity award in an effort to better balance the Company’s goals of retaining employees and aligning their interests with those of the Company’s stockholders, with managing the Company’s stock-based compensation expense and shares available under the Company’s 2024 Plan. The LTC awards are considered deferred cash compensation, and the associated expense is recognized ratably over the 
+three-year
+ requisite service period associated with these awards, and is not included in stock-based compensation expense below.
+100
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+2024 Inducement Plan
+In December 2024, the Board of Directors approved the Etsy, Inc. 2024 Inducement Plan (the “2024 Inducement Plan”), which provides for the grant of non-statutory stock options, stock appreciation rights, restricted stock, RSUs, PBRSUs, and performance cash awards. In accordance with Rule 5635(c)(4) of the Nasdaq Listing Rules or Section 303A.08 of the NYSE Listed Company Manual, as applicable, awards under the 2024 Inducement Plan may only be made to an employee commencing employment with the Company, or being rehired following a bona fide period of non-employment. In either case, the award must be granted in connection with the commencement of employment with the Company, and provide a material inducement to entering into such employment. At December 31, 2025, 
+1,000,000
+ shares were authorized under the 2024 Inducement Plan and 
+855,343
+ shares were available for future grant.
+Stock-Based Compensation Awards
+In 2025, the Company granted RSUs, including Financial PBRSUs and TSR PBRSUs, to eligible participants. 
+The Company recognizes forfeitures as they occur. 
+For RSUs, vesting is typically over a 
+three
+ or 
+four-year
+ requisite service period for employees and is contingent upon continued employment with the Company on each vesting date.
+For Financial PBRSUs, the number of RSUs received will depend on the achievement of financial metrics relative to the approved performance targets. Depending on the actual financial metrics achieved relative to the target financial metrics, the number of PBRSUs that vest could range from 
+0
+% to 
+200
+% of the target amount. For the TSR PBRSUs, the number of RSUs received will depend on the Company’s total shareholder return relative to that of the Nasdaq Composite Index over a 
+three-year
+ measurement period. In each case, the level of achievement against the approved performance targets is subject to the Compensation Committee’s approval.
+The fair value of RSUs is determined based on the closing price of the Company’s common stock on the grant date. Additionally, the fair value of the Financial PBRSUs is determined using a probability assessment and the fair value of the TSR PBRSUs with market conditions is determined using a Monte-Carlo simulation model. For PBRSUs, the Company recognizes stock-based compensation expenses on a straight-line basis over the longest of the derived, explicit, or implicit service period. As of interim and annual reporting periods, the Financial PBRSUs stock-based compensation expense is adjusted based on expected achievement of performance targets, while TSR PBRSUs stock-based compensation expense is not adjusted.
+The following table summarizes the activity for the Company’s unvested RSUs, which includes Financial PBRSUs and TSR PBRSUs (in thousands, except per share amounts):
+Shares
+Weighted-Average
+Fair Value
+Unvested at December 31, 2022
+6,394
+ 
+$
+128.37
+ 
+Granted
+3,645
+ 
+100.24
+Vested
+(
+2,351
+)
+114.95
+Forfeited/Canceled
+(
+1,491
+)
+127.68
+Unvested at December 31, 2023
+6,197
+ 
+117.14
+Granted
+4,943
+ 
+64.89
+Vested
+(
+2,516
+)
+111.71
+Forfeited/Canceled
+(
+1,066
+)
+106.37
+Unvested at December 31, 2024
+7,558
+ 
+86.29
+Granted
+5,522
+ 
+51.13
+Vested
+(
+3,186
+)
+89.74
+Forfeited/Canceled
+(
+1,952
+)
+75.13
+Unvested at December 31, 2025
+7,942
+ 
+63.21
+101
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+The total unrecognized compensation expense at December 31, 2025 related to the Company’s unvested RSUs, including the Financial PBRSUs and TSR PBRSUs, was $
+394.4
+ million, which will be recognized over an estimated weighted-average amortization period of 
+2.29
+ years. 
+In connection with the acquisition of Depop, certain Depop executives were eligible to receive deferred consideration of $
+44.0
+ million in shares of Etsy common stock over the 
+three years
+ following the acquisition date, subject to certain service-based vesting conditions during the vesting period. These awards were recognized as post-combination service stock-based compensation expense. As of December 31, 2024, the Company’s obligation related to this compensation was complete.
+The following table summarizes the activity for the Company’s options (in thousands, except per share amounts):
+Shares
+Weighted-Average
+Exercise Price
+Weighted-Average Remaining Contract
+Term (in years)
+Aggregate
+Intrinsic Value
+Outstanding at December 31, 2022
+3,456
+ 
+$
+31.99
+ 
+5.06
+$
+322,230
+ 
+Granted
+8
+ 
+95.06
+ 
+Exercised
+(
+624
+)
+22.83
+ 
+Forfeited/Canceled
+(
+64
+)
+123.29
+ 
+Outstanding at December 31, 2023
+2,776
+ 
+32.08
+ 
+4.03
+158,476
+ 
+Granted
+13
+ 
+60.14
+ 
+Exercised
+(
+158
+)
+24.68
+ 
+Forfeited/Canceled
+(
+49
+)
+174.53
+ 
+Outstanding at December 31, 2024
+2,582
+ 
+29.99
+ 
+3.04
+83,954
+ 
+Granted
+15
+ 
+54.53
+ 
+Exercised
+(
+1,023
+)
+17.26
+ 
+Forfeited/Canceled
+(
+57
+)
+148.84
+ 
+Outstanding at December 31, 2025
+1,517
+ 
+34.32
+ 
+2.07
+50,214
+ 
+Total exercisable at December 31, 2025
+1,501
+ 
+34.12
+ 
+2.00
+50,201
+ 
+The fair value of awards vested was $
+287.7
+ million, $
+285.6
+ million, and $
+278.5
+ million for 2025, 2024, and 2023, respectively.
+Stock-based compensation expense included in the Consolidated Statements of Operations is as follows (in thousands):
+ 
+Year Ended  
+December 31,
+ 
+2025
+2024
+2023
+Cost of revenue
+$
+28,004
+ 
+$
+32,575
+ 
+$
+31,246
+ 
+Marketing
+14,572
+ 
+23,508
+ 
+22,784
+ 
+Product development
+136,345
+ 
+144,549
+ 
+146,017
+ 
+General and administrative
+66,591
+ 
+82,215
+ 
+84,511
+ 
+Stock-based compensation expense
+$
+245,512
+ 
+$
+282,847
+ 
+$
+284,558
+ 
+102
+Table of Contents
+Etsy, Inc.
+Notes to Consolidated Financial Statements
+Note 16—Restructuring and Other Exit Costs
+On December 12, 2023, the Company’s Board of Directors approved a restructuring plan designed to increase Etsy’s operational efficiencies, reduce operating costs, and better align Etsy’s workforce and cost structure with current business needs, top strategic priorities, and key growth opportunities (collectively, the “Restructuring Plan”). The Restructuring Plan includes an approximately 
+11
+% reduction of the Etsy marketplace workforce, which is approximately 
+225
+ employees. Additionally, in the fourth quarter of 2023 Reverb reduced its workforce by approximately 
+13
+%.
+In connection with these workforce reductions, Etsy incurred approximately $
+26.6
+ million in 
+charges
+ in the fourth quarter of 2023, primarily consisting of severance and employee-related benefits, a majority of which related to the Etsy marketplace. As of the end of the first quarter of 2024, the execution of the Restructuring Plan was substantially complete.
+Total restructuring and other exit costs included in the Consolidated Statement of Operations are as follows (in thousands):
+ 
+Year Ended  
+December 31,
+2023
+Cost of revenue
+$
+5,650
+ 
+Marketing
+3,233
+ 
+Product development
+13,527
+ 
+General and administrative
+4,167
+ 
+Total restructuring and other exit costs
+$
+26,577
+ 
+Note 17—Subsequent Event
+Depop Divestiture
+On February 15, 2026, the Company executed a Sale and Purchase Agreement (the “Purchase Agreement”) to sell 
+100
+% of Depop, its fashion resale marketplace, to eBay Inc. (“eBay”), a Delaware corporation, for approximately $
+1.2
+ billion in cash, subject to certain adjustments as set forth in the Purchase Agreement. The transaction, which is currently expected to close in the second quarter of 2026 subject to regulatory approval and certain other closing conditions as set forth in the Purchase Agreement, is intended to support the Company’s focus on driving growth in the core Etsy marketplace. 
+The divestiture of the Depop business is expected to meet the held-for-sale criteria in the first quarter of fiscal year 2026, as the Company has determined that the sale represents a strategic shift that will have a significant effect on Etsy’s operations. Beginning in the first quarter of fiscal 2026, the results of operations (including any expected gain recognized), related cash flows, and associated assets and liabilities will be classified and presented as discontinued operations in the Consolidated Statements of Operations, Consolidated Statements of Cash Flows, and Consolidated Balance Sheets, respectively, for all periods presented, including prior periods.
+The Company expects to record a gain related to the sale of the business upon closing, which would include the recognition of accumulated foreign currency losses.
+103
+Table of Contents

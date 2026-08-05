@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Cybersecurity / Data Privacy",
+    "excerpt": "revenue increased year over year due to the Crowdstrike-caused outage in 2024, which led to a direct revenue impact of approximately $380 million related to approximately 7,000 flight cancellations over five days.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Labor / Talent",
+    "excerpt": "higher employee costs from increased wages, costs associated with a 3% increase in capacity, and higher expenses related to refinery sales to third parties.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Macroeconomic / Market Conditions",
+    "excerpt": "decline in main cabin revenue due to industry-wide supply exceeding demand for main cabin travel in the uncertain economic environment.",
+    "severity_language": "explicit"
+  },
+  {
+    "category": "Regulatory / Legal",
+    "excerpt": "A refinery is subject to annual EPA requirements to blend renewable fuels into the gasoline and on-road diesel fuel it produces.",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Foreign Exchange / Currency",
+    "excerpt": "Miscellaneous, net primarily includes employee benefit plans net periodic cost, charitable contributions, our share of our equity method investments' results, dividend income from our equity investments and foreign exchange gains/(losses).",
+    "severity_language": "hedged"
+  },
+  {
+    "category": "Competition",
+    "excerpt": "weakness in main cabin demand.",
+    "severity_language": "hedged"
+  }
+]
