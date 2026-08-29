@@ -1,0 +1,9 @@
+{
+  "model": "gpt-4o-2024-11-20",
+  "prompt_tokens": 10881,
+  "completion_tokens": 408,
+  "total_tokens": 11289,
+  "latency_seconds": 4.75,
+  "estimated_cost_usd": 0.03128,
+  "timestamp": "2026-08-05T20:00:43.021914+00:00"
+}

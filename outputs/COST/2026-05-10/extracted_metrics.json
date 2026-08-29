@@ -1,0 +1,66 @@
+[
+  {
+    "metric": "Total Revenue",
+    "value": 70527.0,
+    "unit": "millions",
+    "restated": false,
+    "source_snippet": "Total revenue\n70,527",
+    "verified_in_source": true
+  },
+  {
+    "metric": "Net Income",
+    "value": 2192.0,
+    "unit": "millions",
+    "restated": false,
+    "source_snippet": "NET INCOME\n$\n2,192",
+    "verified_in_source": true
+  },
+  {
+    "metric": "Diluted EPS",
+    "value": 4.93,
+    "unit": "actual",
+    "restated": false,
+    "source_snippet": "Diluted\n$\n4.93",
+    "verified_in_source": true
+  },
+  {
+    "metric": "Gross Profit",
+    "value": null,
+    "unit": null,
+    "restated": false,
+    "source_snippet": null,
+    "verified_in_source": false
+  },
+  {
+    "metric": "Operating Income",
+    "value": 2815.0,
+    "unit": "millions",
+    "restated": false,
+    "source_snippet": "Operating income\n2,815",
+    "verified_in_source": true
+  },
+  {
+    "metric": "Total Assets",
+    "value": 86430.0,
+    "unit": "millions",
+    "restated": false,
+    "source_snippet": "TOTAL ASSETS\n$\n86,430",
+    "verified_in_source": true
+  },
+  {
+    "metric": "Total Liabilities",
+    "value": 52921.0,
+    "unit": "millions",
+    "restated": false,
+    "source_snippet": "TOTAL LIABILITIES\n52,921",
+    "verified_in_source": true
+  },
+  {
+    "metric": "Operating Cash Flow",
+    "value": 11133.0,
+    "unit": "millions",
+    "restated": false,
+    "source_snippet": "Net cash provided by operating activities\n11,133",
+    "verified_in_source": true
+  }
+]
